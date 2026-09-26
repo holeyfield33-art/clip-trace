@@ -1,100 +1,41 @@
-# CLIPTRACE-E1
+# ClipTrace
 
-The new single-organization ClipTrace service is documented in
-[`docs/ClipTrace-MVP.md`](docs/ClipTrace-MVP.md). It runs separately from this
-frozen research harness and keeps experimental similarity scores as review
-leads rather than automatic derivation claims.
+ClipTrace is a self-hosted, single-organization workspace for recording video provenance and checking candidate media. It stores exact file hashes, signed origin and derivative declarations, scoped authorization records, human review findings, and exportable evidence bundles. A local visual/audio matcher can suggest leads for review; similarity alone does not establish derivation, ownership, authorization, or infringement.
 
-Experimental harness for evaluating whether locally runnable media-matching methods can reliably detect real video derivation under realistic transformations **without** unacceptable false positives or fabricated temporal provenance.
+The repository also contains the frozen E1 matching experiment. Its evaluation found useful signals but unacceptable false positives for automatic visual or audio derivation claims. The MVP therefore keeps those scores separate from signed assertions and human findings. See [the MVP evidence model](docs/ClipTrace-MVP.md) and [the E1 report](results/e1/report.md).
 
-**This is not the ClipTrace production service.**
+## Run the MVP
 
-## Scientific boundary
-
-E1 evaluates only the empirical components behind:
-
-- **C3** Visual Derivation
-- **C4** Audio Derivation
-- **C5** Transcript Derivation (exploratory)
-
-E1 does **not** test C1 (beyond SHA-256 bookkeeping), C2, C7, C8, or C9.
-
-Perceptual similarity is never used to infer ownership, authorization, infringement, or authorship.
-
-## Quick start (smoke pipeline)
-
-```bash
-# Install
-pip install -e ".[dev]"
-
-# Record environment
-python -m cliptrace_e1.cli env record
-
-# Validate / build minimal corpus (smoke)
-python -m cliptrace_e1.cli corpus smoke
-
-# Generate a few candidates
-python -m cliptrace_e1.cli candidates generate --config configs/transforms-v1.yaml --smoke
-
-# Run fingerprints + retrieval + alignment on smoke set
-python -m cliptrace_e1.cli run --config configs/experiment-v1.yaml --smoke
-
-# Metrics + report
-python -m cliptrace_e1.cli metrics --run-id <run_id>
-python -m cliptrace_e1.cli report --run-id <run_id>
-```
-
-## Repository layout
-
-See the project root tree. Large media, fingerprints, and result artifacts are git-ignored.
-
-## Design rules
-
-- Ground truth is generated from the transformation process, never from matcher output.
-- Matchers never receive ground truth.
-- Retrieval (Stage 1) and alignment/verification (Stage 2) are measured separately.
-- Failed processing becomes an explicit result state (`not_evaluated`), never a silent zero.
-- Configuration is immutable per run; runs are never overwritten.
-- The experiment is allowed to conclude **CORE NO-GO**.
-
-## License
-
-Apache-2.0
-
-## Full E1 experiment
-
-The full experiment is separate from the Q0 runner. Its scientific outputs live
-under `results/e1/`, including the corpus/partition manifests, frozen profile,
-candidate journals, calibration curves, sealed results, and `report.md`.
-Media retain their individual licenses and attribution in `corpus-manifest.json`;
-the repository Apache-2.0 license does not replace third-party media licenses.
-
-Prerequisites: FFmpeg/ffprobe, Python with the project dependencies plus
-`opencv-python-headless`, `scipy`, and `psutil`; official Chromaprint fpcalc 1.6.1
-under `tools/chromaprint/`. Corpus generation uses Windows offline speech and
-Arial for the self-created controls. It does not require production services.
+Requires Python 3.10+, FFmpeg and ffprobe on `PATH`. `fpcalc` is optional for audio leads. On Windows PowerShell:
 
 ```powershell
-python tools/e1_discover.py
-python tools/e1_acquire.py
-python tools/e1_controls.py
-python tools/e1_pilot.py
-python -m cliptrace_e1.e1_design
-python -m cliptrace_e1.e1_run development
-# Complete development diagnosis before calibration; do not inspect evaluation scores.
-python -m cliptrace_e1.e1_run calibration
-python -m cliptrace_e1.e1_run freeze
-python -m cliptrace_e1.e1_run evaluation
-python -m cliptrace_e1.e1_report reproduce
-python -m cliptrace_e1.e1_report
+python -m pip install -e ".[mvp]"
+$env:CLIPTRACE_OPERATOR_TOKEN = [Convert]::ToHexString([Security.Cryptography.RandomNumberGenerator]::GetBytes(32))
+$env:CLIPTRACE_SIGNING_PASSPHRASE = [Convert]::ToHexString([Security.Cryptography.RandomNumberGenerator]::GetBytes(32))
+$env:CLIPTRACE_DATA_DIR = ".cliptrace-data"
+python -m cliptrace_mvp
 ```
 
-The frozen profile binds the implementation and principal input hashes.
-Re-running a completed partition preserves its results. A changed implementation
-cannot resume an existing scoring run. Generation failures and unsupported
-capture cases retain explicit rows; none are removed from denominators.
-`tools/e1_monitor.py <label> <command...>` records sampled process-tree resource
-usage for a stage. Second-runtime reproduction uses the same frozen code with
-`python -m cliptrace_e1.e1_report reproduce-cross` in the separate runtime.
+Open <http://127.0.0.1:8765/> and sign in as `operator` with the token. **Save both secrets** in a password manager. The same signing passphrase is required to reopen an existing data directory. The default server listens only on loopback.
 
-Do not restart or tune the sealed evaluation. A repair after final scoring is E2.
+The [run manual](docs/Run-Manual.md) covers first run, routine workflow, offline bundle verification, backups, restarts, and troubleshooting. The JSON API is available at `/docs` after signing in.
+
+## Verify the checkout
+
+```powershell
+python -m pip install -e ".[dev,mvp]"
+python -m pytest -q
+python -c "from cliptrace_e1.e1_run import evaluation_guard; evaluation_guard()"
+```
+
+The test suite includes a media workflow with registration, exact and nonexact checks, authorization, derivative declaration, review, revocation, bundle export, and tamper detection.
+
+## Repository map
+
+- `src/cliptrace_mvp/` — self-hosted service, operator UI, signed evidence, and offline verifier.
+- `docs/Run-Manual.md` — operating instructions.
+- `docs/ClipTrace-MVP.md` — product scope and evidence limitations.
+- `src/cliptrace_e1/`, `configs/`, `corpus/`, `results/e1/` — frozen experiment and reproducibility records. Media files are not included.
+- `tests/` — automated checks.
+
+The code is [Apache-2.0 licensed](LICENSE). Third-party corpus media and external tools keep their own licenses. This MVP has one shared operator credential and no tenant isolation or billing; deploy a separate instance per organization.
