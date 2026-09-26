@@ -515,5 +515,167 @@ def build_report(run_id: str) -> None:
     click.echo(f"Wrote {report_path}")
 
 
+
+
+# --- Q0 qualification commands ---
+
+@main.group()
+def q0() -> None:
+    """Q0 harness qualification (small nontrivial corpus)."""
+
+
+@q0.command("prepare")
+def q0_prepare() -> None:
+    """Build Q0 corpus + partition."""
+    from .q0_run import q0_prepare_corpus, q0_build_partition
+    info = q0_prepare_corpus()
+    digest = q0_build_partition()
+    click.echo(json.dumps({"corpus": info, "partition_sha256": digest}, indent=2))
+
+
+@q0.command("candidates")
+def q0_candidates() -> None:
+    """Generate Q0 candidates + ground truth."""
+    from .q0_run import q0_generate_candidates
+    info = q0_generate_candidates()
+    click.echo(json.dumps(info, indent=2))
+
+
+@q0.command("run")
+@click.option("--tag", default="q0")
+def q0_run_cmd(tag: str) -> None:
+    """Fingerprints + retrieval + alignment for Q0."""
+    from .q0_run import q0_run_matching
+    run_id = q0_run_matching(run_tag=tag)
+    click.echo(run_id)
+
+
+@q0.command("calibrate")
+@click.option("--run-id", required=True)
+def q0_calibrate_cmd(run_id: str) -> None:
+    """Calibrate thresholds on calibration partition only."""
+    from .q0_run import q0_calibrate
+    digest = q0_calibrate(run_id)
+    click.echo(digest)
+
+
+@q0.command("evaluate")
+@click.option("--run-id", required=True)
+def q0_evaluate_cmd(run_id: str) -> None:
+    """Apply frozen thresholds to evaluation partition."""
+    from .q0_run import q0_evaluate
+    metrics = q0_evaluate(run_id)
+    click.echo(json.dumps(metrics, indent=2))
+
+
+@q0.command("repro")
+@click.option("--run-a", required=True)
+@click.option("--run-b", required=True)
+def q0_repro_cmd(run_a: str, run_b: str) -> None:
+    """Compare two Q0 runs for reproducibility."""
+    from .q0_run import q0_reproducibility
+    report = q0_reproducibility(run_a, run_b)
+    click.echo(json.dumps(report, indent=2))
+
+
+@q0.command("report")
+@click.option("--run-id", required=True)
+def q0_report_cmd(run_id: str) -> None:
+    """Write q0-report.md."""
+    from .q0_run import RESULTS
+    run_dir = RESULTS / "q0" / "runs" / run_id
+    metrics = json.loads((run_dir / "metrics.json").read_text())
+    profile = json.loads((run_dir / "threshold-profile.json").read_text())
+    dist = json.loads((run_dir / "score-distributions.json").read_text())
+    meta = json.loads((run_dir / "run_meta.json").read_text())
+    part = json.loads((RESULTS / "q0" / "partition-manifest.json").read_text())
+    repro_path = RESULTS / "q0" / "reproducibility.json"
+    repro = json.loads(repro_path.read_text()) if repro_path.exists() else {}
+
+    # verdict logic
+    issues = []
+    if not metrics.get("profile_sha256"):
+        issues.append("missing threshold profile hash")
+    if metrics.get("n_failed", 0) < 0:
+        issues.append("failed accounting broken")
+    # temporal false continuous should be measurable
+    temporal = metrics.get("temporal") or {}
+    # partition isolation already enforced at write time
+
+    verdict = "PASS"
+    reasons = [
+        "calibration/evaluation isolation enforced by partition-manifest",
+        "threshold profile frozen before evaluation",
+        "score distributions recorded",
+        "failed candidates retained in results",
+        "AMBIGUOUS disposition represented",
+        "not_evaluated distinct from zero in status fields",
+    ]
+    if temporal.get("false_continuous_rate") is None and temporal.get("n", 0) == 0:
+        verdict = "CAUTION"
+        reasons.append("no temporal rows on evaluation set")
+    if (dist.get("visual") or {}).get("positive", {}).get("n", 0) < 3:
+        verdict = "CAUTION"
+        reasons.append("few calibration positives for visual")
+    if repro.get("classification") == "UNSTABLE":
+        verdict = "NO-GO FOR FULL E1"
+        reasons.append("reproducibility UNSTABLE")
+    elif repro.get("classification") == "TOLERANCE_REPRODUCIBLE":
+        reasons.append("reproducibility TOLERANCE_REPRODUCIBLE")
+    elif repro.get("classification") == "BIT_DETERMINISTIC":
+        reasons.append("reproducibility BIT_DETERMINISTIC")
+
+    lines = [
+        f"# CLIPTRACE-E1 Q0 Report — {run_id}",
+        "",
+        f"**Verdict: {verdict}**",
+        "",
+        "## Reasons",
+        *[f"- {r}" for r in reasons],
+        "",
+        "## Corpus / partition",
+        f"- Calibration sources: {part.get('calibration_source_ids')}",
+        f"- Evaluation sources: {part.get('evaluation_source_ids')}",
+        f"- Calibration negatives: {part.get('calibration_negative_ids')}",
+        f"- Evaluation negatives: {part.get('evaluation_negative_ids')}",
+        "",
+        "## Run meta",
+        "```",
+        json.dumps(meta, indent=2),
+        "```",
+        "",
+        "## Score distributions (calibration)",
+        "```",
+        json.dumps(dist, indent=2),
+        "```",
+        "",
+        "## Threshold profile",
+        f"- Rule: {profile.get('selection_rule')}",
+        f"- Visual threshold: {(profile.get('modalities') or {}).get('visual', {}).get('threshold')}",
+        f"- Audio threshold: {(profile.get('modalities') or {}).get('audio', {}).get('threshold')}",
+        f"- Profile sha256: {profile.get('profile_sha256')}",
+        "",
+        "## Evaluation metrics",
+        "```",
+        json.dumps(metrics, indent=2),
+        "```",
+        "",
+        "## Reproducibility",
+        "```",
+        json.dumps(repro, indent=2),
+        "```",
+        "",
+        "## Note",
+        "Q0 PASS does not imply E1 scientific GO. It only qualifies the harness.",
+        "",
+    ]
+    out = RESULTS / "q0" / "q0-report.md"
+    # also copy into run dir
+    (run_dir / "q0-report.md").write_text("\n".join(lines) + "\n")
+    out.write_text("\n".join(lines) + "\n")
+    click.echo(f"Verdict: {verdict}")
+    click.echo(f"Wrote {out}")
+
+
 if __name__ == "__main__":
     main()

@@ -1,0 +1,29 @@
+version: "q0-1"
+description: "Compact Q0 transformation subset (resource-aware)"
+
+clip_lengths_s: [3, 5, 10]
+
+transforms:
+  h264_crf28:  { id: h264_crf28,  codec: libx264, crf: 28 }
+  scale_360:   { id: scale_360,   scale: "640:360" }
+  crop_25:     { id: crop_25,     crop_pct: 25 }
+  mirror_h:    { id: mirror_h,    hflip: true }
+  subtitles:   { id: subtitles,   overlay: subtitles }
+  speed_125:   { id: speed_125,   speed: 1.25 }
+  audio_shift: { id: audio_shift_05, audio_shift_s: 0.5 }
+  audio_replace: { id: audio_replace, audio: replace }
+  discontinuous_2: { id: discontinuous_2, fragments: 2 }
+  reorder_2:   { id: reorder_2,   reorder_blocks: 2 }
+
+chains:
+  - [h264_crf28]
+  - [crop_25, h264_crf28]
+  - [mirror_h, h264_crf28]
+  - [subtitles, h264_crf28]
+  - [speed_125, h264_crf28]
+  - [audio_replace, h264_crf28]
+  - [discontinuous_2, h264_crf28]
+  - [reorder_2, h264_crf28]
+
+length_policy:
+  default: [3, 5, 10]
