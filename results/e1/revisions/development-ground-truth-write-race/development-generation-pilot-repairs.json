@@ -1,0 +1,397 @@
+[
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00005",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='A conversation about the changing world':fontsize=28:fontcolor=white:borderw=3:x=(w-text_w)/2:y=h-65",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00005.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "subtitles",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00005.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "98c18aacb4ac679aa7ee313c5e48fc0fa12f7766946ba91aa3044ab7ea40c4fc",
+    "size_bytes": 1263689,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "subtitles",
+    "visual_ancestry": true,
+    "wall_s": 0.949746100000084
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00012",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "drawbox=x=20:y=20:w=150:h=70:color=blue@0.8:t=fill,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='CHANNEL':fontsize=22:fontcolor=white:x=28:y=40",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00012.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "logo",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00012.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "8c2d0ba245a539f320507598034bb496ef081093ac5b9718694ee2527cf87349",
+    "size_bytes": 578012,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "logo",
+    "visual_ancestry": true,
+    "wall_s": 0.5349624999998923
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00013",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "[AVFilterGraph @ 000001a33e971fc0] No option name near '):fontsize=42:fontcolor=white:x=(w-text_w)/2:y=h/2'\r\n[AVFilterGraph @ 000001a33e971fc0] Error parsing a filter description around: \r\n[AVFilterGraph @ 000001a33e971fc0] Error parsing filterchain 'drawbox=x=iw/4:y=ih/3:w=iw/2:h=ih/3:color=black@0.9:t=fill,drawtext=text='WATCH THIS :)':fontsize=42:fontcolor=white:x=(w-text_w)/2:y=h/2' around: \r\nError opening output file C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00013.mp4.\r\nError opening output files: Invalid argument\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "drawbox=x=iw/4:y=ih/3:w=iw/2:h=ih/3:color=black@0.9:t=fill,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='WATCH THIS':fontsize=42:fontcolor=white:x=(w-text_w)/2:y=h/2",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00013.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "central_text",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00013.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "811a4a76ae7b1d7f4cc69233aef4ee5f37a5f62ee373e35548c59479b8fbc73c",
+    "size_bytes": 490266,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "central_text",
+    "visual_ancestry": true,
+    "wall_s": 0.6888090000002194
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00014",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=trunc(iw*0.7/2)*2:trunc(ih*0.7/2)*2,pad=1280:720:ow-iw:oh-ih:0x182030,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='Reaction panel':fontsize=30:fontcolor=white:x=20:y=40",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00014.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "picture_in_picture",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00014.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "2c052c0cf209880a5933bd3cf3448c2a0bce3658089f63d5d12a112fb6fd684c",
+    "size_bytes": 440510,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "picture_in_picture",
+    "visual_ancestry": true,
+    "wall_s": 0.6584821999995256
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00015",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=trunc(iw*0.5/2)*2:trunc(ih*0.5/2)*2,pad=1280:720:ow-iw:oh-ih:0x182030,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='Reaction panel':fontsize=30:fontcolor=white:x=20:y=40",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00015.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "reaction_layout",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00015.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "8b3eabd001a36df0bfae11c4a8c18232c5a6cab2c36b458f7d0b6e2dcd0c3a20",
+    "size_bytes": 327081,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "reaction_layout",
+    "visual_ancestry": true,
+    "wall_s": 0.6657329999998183
+  }
+]

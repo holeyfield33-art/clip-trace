@@ -1,0 +1,19 @@
+{
+  "label": "development",
+  "command": [
+    "python",
+    "-X",
+    "utf8",
+    "-m",
+    "cliptrace_e1.e1_run",
+    "development"
+  ],
+  "returncode": 1,
+  "wall_s": 853.5469186306,
+  "sampled_process_tree_cpu_s_lower_bound": 639.796875,
+  "peak_sampled_process_tree_rss_bytes": 250576896,
+  "process_count": 1619,
+  "samples": 3010,
+  "sampling_interval_s": 0.25,
+  "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled."
+}

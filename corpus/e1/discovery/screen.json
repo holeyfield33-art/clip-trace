@@ -1,0 +1,4740 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "153385295": {
+        "pageid": 153385295,
+        "ns": 6,
+        "title": "File:Audacity Tutorial- Einstieg, einfache Aufnahme und Nachbearbeitung.webm",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34949245,
+            "width": 1280,
+            "height": 720,
+            "duration": 736.708,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Audacity_Tutorial-_Einstieg%2C_einfache_Aufnahme_und_Nachbearbeitung.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Audacity_Tutorial-_Einstieg,_einfache_Aufnahme_und_Nachbearbeitung.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153385295",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 34949245
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 34949245
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "68eee2cbc551fee0",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "b781ab3ce9e31fc6",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 331"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 391"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 397"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:12:16.673000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:12:16.708000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 736.708
+              },
+              {
+                "name": "bitrate",
+                "value": 379518.0179935606
+              },
+              {
+                "name": "playtime_string",
+                "value": "12:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-30 15:38:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Audacity Tutorial- Einstieg, einfache Aufnahme und Nachbearbeitung",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Audacity|Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos of free software|Tutorial videos in German|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Das Video erkl\u00e4rt, wie man mit dem kostenlosen Programm Audacity eine einfache Sprachaufnahme machen kann, um diese anschlie\u00dfend mit Hintergrundmusik und Sounds anzureichern. \n<p>Download Audacity: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.audacityteam.org\">http://www.audacityteam.org</a>\n</p><p>Anleitung zum Installieren des mp3-Encoders: <a rel=\"nofollow\" class=\"external free\" href=\"http://ak-u.de/uy\">http://ak-u.de/uy</a>\n</p><p>Weitere Anleitungen zu Audacity \n</p>\n<ul><li>bei Ohrenspitzer.de: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.ohrenspitzer.de/index.php?id=200\">http://www.ohrenspitzer.de/index.php?id=200</a></li>\n<li>auf dem Lehrerfortbildungsserver Baden-W\u00fcrttemberg: <a rel=\"nofollow\" class=\"external free\" href=\"https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/audio/audacity/\">https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/audio/audacity/</a></li></ul>\n<p>Liste freier Audio-Dateien: \n</p>\n<ul><li><a rel=\"nofollow\" class=\"external free\" href=\"https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/internet/freemedia/audios/\">https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/internet/freemedia/audios/</a></li>\n<li>Weitere freie Sounds (in der Regel Creative-Commons-lizenziert): <a rel=\"nofollow\" class=\"external free\" href=\"https://freesound.org\">https://freesound.org</a></li></ul>\n<ul><li>* * * * * * * * * * * * *</li></ul>\n<p>Dieses Video steht unter einer Creative Commons Lizenz\n</p><p>CC BY 4.0, Creative Commons Namensnennung 4.0 International Lizenz,  href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by/4.0/\">https://creativecommons.org/licenses/by/4.0/</a>\n</p><p>Namensnennung bitte in folgender Form: \n</p>\nAndreas Kalt, <a rel=\"nofollow\" class=\"external free\" href=\"https://herr-kalt.de\">https://herr-kalt.de</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-10-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=Vn7HYyopGXk\"><bdi lang=\"\">Audacity Tutorial: Einstieg, einfache Aufnahme und Nachbearbeitung</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=Vn7HYyopGXk\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herr-kalt\">Andreas Kalt \u2013 Erkl\u00e4rvideos</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Andreas Kalt \u2013 Erkl\u00e4rvideos",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152398053": {
+        "pageid": 152398053,
+        "ns": 6,
+        "title": "File:Debian 12 (Bookworm) Installation and First Look (tutorial video for Linux installation).webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 122806119,
+            "width": 1920,
+            "height": 1080,
+            "duration": 1447.4,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Debian_12_%28Bookworm%29_Installation_and_First_Look_%28tutorial_video_for_Linux_installation%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Debian_12_(Bookworm)_Installation_and_First_Look_(tutorial_video_for_Linux_installation).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152398053",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 122806119
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 122806119
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "66afd00172ae322c",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 60.008
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "064be40bc19ec845",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 60.008
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 330"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 390"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 396"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc. Created on: 09/08/2024."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:24:07.332000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:24:07.400000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1447.4
+              },
+              {
+                "name": "bitrate",
+                "value": 678768.1028050297
+              },
+              {
+                "name": "playtime_string",
+                "value": "24:07"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-08 21:42:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Debian 12 (Bookworm) Installation and First Look (tutorial video for Linux installation)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|2023 in computing|License review needed (video)|Software installation|Uploaded with video2commons|Videos in English|Video tutorials|Debian 12|Debian videos|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "After nearly two years since its last release, Debian recently released version 12 code named \"Bookworm\".  Debian 12 is a long term support Linux distro and will be supported for 5 years.  In this video, I will run through a quick installation and first look of Debian with the GNOME desktop.\n<p>REFERENCED:\n\u25ba <a rel=\"nofollow\" class=\"external free\" href=\"https://www.debian.org/News/2023/20230610\">https://www.debian.org/News/2023/20230610</a>\n</p><p>WANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.patreon.com/distrotube\">https://www.patreon.com/distrotube</a> \n\ud83d\udcb3 Paypal: ...\n\ud83d\udecd\ufe0f Amazon: <a rel=\"nofollow\" class=\"external free\" href=\"https://amzn\">https://amzn</a> dot to/2RotFFi\n\ud83d\udc55 Teespring: <a rel=\"nofollow\" class=\"external free\" href=\"https://teespring\">https://teespring</a> dot com/stores/distrotube\n</p><p>DONATE CRYPTO:\n\ud83d\udcb0 Bitcoin: 1Mp6ebz5bNcjNFW7XWHVht36SkiLoxPKoX\n\ud83d\udc36 Dogecoin: D5fpRD1JRoBFPDXSBocRTp8W9uKzfwLFAu\n\ud83d\udcd5 LBC: bMfA2c3zmcLxPCpyPcrykLvMhZ7A5mQuhJ\n</p><p>DT ON THE WEB:\n\ud83d\udd78\ufe0f Website: <a rel=\"nofollow\" class=\"external free\" href=\"http://distrotube.com/\">http://distrotube.com/</a>\n\ud83d\udcc1 GitLab: <a rel=\"nofollow\" class=\"external free\" href=\"https://gitlab.com/dwt1\">https://gitlab.com/dwt1</a>  \n\ud83d\udde8\ufe0f Mastodon: <a rel=\"nofollow\" class=\"external free\" href=\"https://fosstodon.org/@distrotube\">https://fosstodon.org/@distrotube</a>\n\ud83d\udc6b Reddit: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.reddit.com/r/DistroTube/\">https://www.reddit.com/r/DistroTube/</a>\n\ud83d\udcfd\ufe0f LBRY/Odysee: <a rel=\"nofollow\" class=\"external free\" href=\"https://odysee.com/@DistroTube:2\">https://odysee.com/@DistroTube:2</a>\n</p><p>FREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - <a rel=\"nofollow\" class=\"external free\" href=\"https://brave.com/dis872\">https://brave.com/dis872</a> \n\ud83d\udcfd\ufe0f Open Broadcaster Software: <a rel=\"nofollow\" class=\"external free\" href=\"https://obsproject.com/\">https://obsproject.com/</a>\n\ud83c\udfac Kdenlive: <a rel=\"nofollow\" class=\"external free\" href=\"https://kdenlive.org\">https://kdenlive.org</a>\n\ud83c\udfa8 GIMP: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.gimp.org/\">https://www.gimp.org/</a>\n\ud83c\udfb5 Tenacity: <a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/tenacityteam/tenacity\">https://github.com/tenacityteam/tenacity</a>\n\ud83d\udcbb VirtualBox: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.virtualbox.org/\">https://www.virtualbox.org/</a>\n\ud83d\uddd2\ufe0f Doom Emacs: <a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/hlissner/doom-emacs\">https://github.com/hlissner/doom-emacs</a>\n</p>\nYour support is very much appreciated. Thanks, guys!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=omKFEhWJGYg\"><bdi lang=\"\">Debian 12 Bookworm Installation and First Look</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=omKFEhWJGYg\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@DistroTube\">DistroTube</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "DistroTube",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "9840033": {
+        "pageid": 9840033,
+        "ns": 6,
+        "title": "File:Editing tutorial-large.ogv",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6469657,
+            "width": 640,
+            "height": 480,
+            "duration": 129.42666666666668,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Editing_tutorial-large.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Editing_tutorial-large.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9840033",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 437198781,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 437198781
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libTheora I 20040317 3 2 0"
+                      },
+                      {
+                        "name": "length",
+                        "value": 115
+                      },
+                      {
+                        "name": "size",
+                        "value": 5426241
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 0
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 40
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 30
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 640
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 480
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 8
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 0
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 0
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 512000
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 0
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 460
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 7200
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 1200
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora 0.16"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 201524300,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 201524300
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "AO; aoTuV b4b [20051117] (based on Xiph.Org's libVorbis)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 129.42666666666668
+                      },
+                      {
+                        "name": "size",
+                        "value": 1043416
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 64000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora 0.16"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 129.42666666666668
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-03-26 20:51:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Editing tutorial-large",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration completed|Self-published work|Files by Juandev|Wikiversity videos|Ogv videos|Video display resolution 640 x 480",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Editing tutorial video for Wikiversity.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "18 December 2007 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://beta.wikiversity.org/wiki/User:JWSchmidt\" class=\"extiw\" title=\"betawikiversity:User:JWSchmidt\">JWSchmidt</a> (file creation), <a href=\"https://beta.wikiversity.org/wiki/User:Daveydweeb\" class=\"extiw\" title=\"betawikiversity:User:Daveydweeb\">Daveydweeb</a> (video encoding)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://beta.wikiversity.org/wiki/User:JWSchmidt\" class=\"extiw\" title=\"betawikiversity:User:JWSchmidt\">JWSchmidt</a> and <a href=\"https://beta.wikiversity.org/wiki/User:Daveydweeb\" class=\"extiw\" title=\"betawikiversity:User:Daveydweeb\">Daveydweeb</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153329302": {
+        "pageid": 153329302,
+        "ns": 6,
+        "title": "File:Eigenes npm package bauen und ver\u00f6ffentlichen! (Tutorial).webm",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 21177796,
+            "width": 640,
+            "height": 360,
+            "duration": 784.868,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eigenes_npm_package_bauen_und_ver%C3%B6ffentlichen%21_%28Tutorial%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eigenes_npm_package_bauen_und_ver%C3%B6ffentlichen!_(Tutorial).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153329302",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 21177796
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 21177796
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "a2a507783a928d8a",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "ef293049ae7eef12",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 331"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 391"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 397"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:13:04.824000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:13:04.868000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 784.868
+              },
+              {
+                "name": "bitrate",
+                "value": 215860.97025232267
+              },
+              {
+                "name": "playtime_string",
+                "value": "13:05"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 16:34:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Eigenes npm package bauen und ver\u00f6ffentlichen! (Tutorial)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Visual Studio Code|Node Package Manager|License review needed (video)|Uploaded with video2commons|Videos with bug 173|Videos of 2021|Videos of software development|Tutorial videos in German|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Einfach dein eigenes #npm Package bauen und die Entwicklerwelt mit eurem Code begeistern!\n<p>Fragen oder Probleme? Werde Teil der Community! (Kostenlos)\n\ud83d\udce3 Discord Server: <a rel=\"nofollow\" class=\"external free\" href=\"https://discord.gg/NV2NrXA\">https://discord.gg/NV2NrXA</a>\n</p><p>Kapitel:\n00:00 Einleitung\n00:47 Tutorial\n09:23 Vorteile\n10:57 Nachteile\n12:25 Outro/Ende\n</p><p>Links aus dem Video:\n\u25ba IDE Tutorial: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/watch?v=GMakamOBAwA\">https://www.youtube.com/watch?v=GMakamOBAwA</a>\n</p>\n<ol><li>Tutorial #NPM #WebDev</li></ol>\n<p>\u25ba Homepage: <a rel=\"nofollow\" class=\"external free\" href=\"http://bit\">http://bit</a> dot ly/1y4rvIA\n</p>\nCopyright by Johannes Schiel / Unleashed Design",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-03-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=M5OvODACUDM\"><bdi lang=\"\">Eigenes #npm package bauen und ver\u00f6ffentlichen!\ud83d\udc4d [TUTORIAL]</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=M5OvODACUDM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@UnleashedDesign\">Unleashed Design</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Unleashed Design",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195222678": {
+        "pageid": 195222678,
+        "ns": 6,
+        "title": "File:Ezhuthi - Ezhil tutorial Loops, Turtle graphics.webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 35073283,
+            "width": 640,
+            "height": 360,
+            "duration": 1018.357,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ezhuthi_-_Ezhil_tutorial_Loops%2C_Turtle_graphics.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ezhuthi_-_Ezhil_tutorial_Loops,_Turtle_graphics.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195222678",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 35073283
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 35073283
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 112000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "837ae241ed413870",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 112000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.03968253968253968
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.03968253968253968
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 15
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "2403ccfe95c3df05",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 15
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 163528
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [4 bytes]) at 107"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [24 bytes]) at 384"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Ezhuthi - Ezhil tutorial Loops, Turtle graphics"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso6iso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "artist",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Muthu A"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 av1_nvenc"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc. Created on: 06/01/2024."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc. Created on: 06/01/2024."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:16:58.337000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:16:58.357000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1018.357
+              },
+              {
+                "name": "bitrate",
+                "value": 275528
+              },
+              {
+                "name": "playtime_string",
+                "value": "16:58"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-06 08:11:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ezhuthi - Ezhil tutorial Loops, Turtle graphics",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ezhil|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Software Heritage Stories from India",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tutorial on Loops and Turtle graphics in Ezhil programming language",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "YouTube",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Muthu A / Ezhil Team",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "195222679": {
+        "pageid": 195222679,
+        "ns": 6,
+        "title": "File:Ezhuthi - Ezhil tutorial for numbers, strings, if-statements (\u0b8e\u0bb4\u0bc1\u0ba4\u0bbf).webm",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 38836819,
+            "width": 640,
+            "height": 360,
+            "duration": 975.145,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ezhuthi_-_Ezhil_tutorial_for_numbers%2C_strings%2C_if-statements_%28%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AE%BF%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ezhuthi_-_Ezhil_tutorial_for_numbers,_strings,_if-statements_(%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AE%BF).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195222679",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 38836819
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 38836819
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 112000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "905210b6a2d8a2d8",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 112000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.03968253968253968
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.03968253968253968
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 15
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "3cd65948b697a04a",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 15
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 206614
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [4 bytes]) at 107"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [24 bytes]) at 428"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Ezhuthi - Ezhil tutorial for numbers, strings, if-statements (\u0b8e\u0bb4\u0bc1\u0ba4\u0bbf) - July 2017"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso6iso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "artist",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Muthu A"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 av1_nvenc"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc. Created on: 03/28/2024."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc. Created on: 03/28/2024."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:16:15.137000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:16:15.145000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 975.145
+              },
+              {
+                "name": "bitrate",
+                "value": 318614
+              },
+              {
+                "name": "playtime_string",
+                "value": "16:15"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-06 08:11:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ezhuthi - Ezhil tutorial for numbers, strings, if-statements (\u0b8e\u0bb4\u0bc1\u0ba4\u0bbf)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ezhil|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Software Heritage Stories from India",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tutorial on numbers, strings and if-statements in Ezhil programming language",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-07-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "YouTube",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Muthu A / Ezhil Team",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152524749": {
+        "pageid": 152524749,
+        "ns": 6,
+        "title": "File:Firefox einrichten Tutorial 1 (Deutsch).webm",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 130050511,
+            "width": 1920,
+            "height": 1080,
+            "duration": 1003.4350000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Firefox_einrichten_Tutorial_1_%28Deutsch%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Firefox_einrichten_Tutorial_1_(Deutsch).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152524749",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 130050511
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 130050511
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "08dd203d2281c3b7",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "1dcc34a1e7c86912",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 334"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 402"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 408"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:16:43.366000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:16:43.435000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1003.4350000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 1036842.533896067
+              },
+              {
+                "name": "playtime_string",
+                "value": "16:43"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-11 23:06:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Firefox einrichten Tutorial 1 (Deutsch)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|License review needed (video)|Software configurations|Videos of 2023|Uploaded with video2commons|Videos about Mozilla Firefox|Tutorial videos in German|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ihr seid mit den Standardeinstellungen eines frisch installieren Firefox' auch nie zufrieden? Dann seid Ihr nicht allein, denn mir geht es auch so.\n<p>In dieser Folge zeige ich Euch, welche Einstellungen ich quasi immer mache, um l\u00e4stige Dreingaben und Werbung loszuwerden und die Sicherheit zu erh\u00f6hen und die Oberfl\u00e4che besser zu machen.\n</p>\n<ul><li>Folien, Links, etc.: <a rel=\"nofollow\" class=\"external free\" href=\"https://goos-habermann.de/weisheit-10102-Firefox-richtig-einrichten\">https://goos-habermann.de/weisheit-10102-Firefox-richtig-einrichten</a></li></ul>\n<div class=\"mw-heading mw-heading3\"><h3 id='Mehr_zu_\"Nicht_der_Weisheit_letzter_Schlu\u00df\"'><span id=\"Mehr_zu_.22Nicht_der_Weisheit_letzter_Schlu.C3.9F.22\"></span>Mehr zu \"Nicht der Weisheit letzter Schlu\u00df\"</h3></div>\n<p>Projektseite: <a rel=\"nofollow\" class=\"external free\" href=\"https://weisheit.goos-habermann.de\">https://weisheit.goos-habermann.de</a>\nYouTube: <a rel=\"nofollow\" class=\"external free\" href=\"https://youtube.com/@nichtderweisheit\">https://youtube.com/@nichtderweisheit</a>\nPeerTube: <a rel=\"nofollow\" class=\"external free\" href=\"https://tube.tchncs.de/c/ndwls\">https://tube.tchncs.de/c/ndwls</a>\n</p>\n<div class=\"mw-heading mw-heading3\"><h3 id=\"Mehr_zu_mir_woanders\">Mehr zu mir woanders</h3></div>\n<p>Dienstleistungen: <a rel=\"nofollow\" class=\"external free\" href=\"https://goos-habermann.de\">https://goos-habermann.de</a>\nSoftwareverteilungssystem m23: <a rel=\"nofollow\" class=\"external free\" href=\"https://m23.goos-habermann.de\">https://m23.goos-habermann.de</a> und <a rel=\"nofollow\" class=\"external free\" href=\"http://m23.sf.net\">http://m23.sf.net</a>\nKurzanleitungen und Howtos: <a rel=\"nofollow\" class=\"external free\" href=\"https://goos-habermann.de/kurzanleitungen\">https://goos-habermann.de/kurzanleitungen</a>\nFreie Projekte \"Dodger Tools\": <a rel=\"nofollow\" class=\"external free\" href=\"http://dodger-tools.sf.net\">http://dodger-tools.sf.net</a>\nKieler Open Source und Linux Tage: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.kielux.de\">https://www.kielux.de</a>\nJean und Hauke Show: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/c/LinuxGuides\">https://www.youtube.com/c/LinuxGuides</a>\n</p><p>WARNUNG: Wie auch bei meinen Howtos/Kurzanleitungen gilt: Bei jedem Schritt kann es\nzum kompletten Datenverlust und/oder Zerst\u00f6rung Eurer Hardware kommen.\n</p>\nAlle Angaben ohne Gew\u00e4hr! Haftung ausgeschlossen!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=LusA8zQO3AE\"><bdi lang=\"\">Firefox richtig einrichten</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=LusA8zQO3AE\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@nichtderweisheit\">Nicht der Weisheit letzter Schlu\u00df</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Nicht der Weisheit letzter Schlu\u00df",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153329222": {
+        "pageid": 153329222,
+        "ns": 6,
+        "title": "File:Npm explainer tutorial video - Expand Your Project with External Packages - Managing Packages with npm - freeCodeCamp Tutorial.webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11074358,
+            "width": 2560,
+            "height": 1424,
+            "duration": 116.508,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Npm_explainer_tutorial_video_-_Expand_Your_Project_with_External_Packages_-_Managing_Packages_with_npm_-_freeCodeCamp_Tutorial.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Npm_explainer_tutorial_video_-_Expand_Your_Project_with_External_Packages_-_Managing_Packages_with_npm_-_freeCodeCamp_Tutorial.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153329222",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 11074358
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 11074358
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "d4d90c7e24492ae4",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 2560
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1424
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 2560
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1424
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 59.561
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "7ade0b369dd032db",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 2560
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1424
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 2560
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1424
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 59.561
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 331"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 391"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 397"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:01:56.475000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:01:56.508000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 116.508
+              },
+              {
+                "name": "bitrate",
+                "value": 760418.7180279467
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:57"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 16:32:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Npm explainer tutorial video - Expand Your Project with External Packages - Managing Packages with npm - freeCodeCamp Tutorial",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Node Package Manager|License review needed (video)|Uploaded with video2commons|Videos in English|Video tutorials|Videos of software development|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The best thing about npm is that we can import packages that others have written. Extrenal packages are added to your project in the 'dependencies' object. Create a key with the package name, giving the desired version as the value. Running 'npm install' will then download and install the packages to your project.\n<p>Link to challenge\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm\">https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm</a>\nWritten Guide\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.notion.so/ganeshh123/Expand-Your-Project-with-External-Packages-from-npm-382d3c76f12b4e54bcfa2b1e63154909\">https://www.notion.so/ganeshh123/Expand-Your-Project-with-External-Packages-from-npm-382d3c76f12b4e54bcfa2b1e63154909</a>\n</p><p>Full Playlist for this course\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/playlist?list=PLhGp6N0DI_1RO7qDtCW9Cn9FyRJ1Dk6xk\">https://www.youtube.com/playlist?list=PLhGp6N0DI_1RO7qDtCW9Cn9FyRJ1Dk6xk</a>\nAll Writen Guides for this course\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.notion.so/ganeshh123/4d5e59dbe72940aeb68fe6f38ebf28e1\">https://www.notion.so/ganeshh123/4d5e59dbe72940aeb68fe6f38ebf28e1</a>\nAll My Tutorials can be found at\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.notion.so/Tutorials-Ganesh-H-293ea420d34a464f9a1907e0405b5f26\">https://www.notion.so/Tutorials-Ganesh-H-293ea420d34a464f9a1907e0405b5f26</a>\n</p><p>Full Playlist for this course\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/playlist?list=PLhGp6N0DI_1RO7qDtCW9Cn9FyRJ1Dk6xk\">https://www.youtube.com/playlist?list=PLhGp6N0DI_1RO7qDtCW9Cn9FyRJ1Dk6xk</a>\nAll Writen Guides for this course\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.notion.so/ganeshh123/4d5e59dbe72940aeb68fe6f38ebf28e1\">https://www.notion.so/ganeshh123/4d5e59dbe72940aeb68fe6f38ebf28e1</a>\nAll My Tutorials can be found at\u00a0: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.notion.so/Tutorials-Ganesh-H-293ea420d34a464f9a1907e0405b5f26\">https://www.notion.so/Tutorials-Ganesh-H-293ea420d34a464f9a1907e0405b5f26</a>\n</p><p>Concepts:\ndependencies\nDependencies are specified in a simple object that maps a package name to a version range. The version range is a string which has one or more space-separated descriptors. Dependencies can also be identified with a tarball or git URL.\n<a rel=\"nofollow\" class=\"external free\" href=\"https://docs.npmjs.com/files/package.json#dependencies\">https://docs.npmjs.com/files/package.json#dependencies</a>\n</p><p>package.json\nAll npm packages contain a file, usually in the project root, called package.json - this file holds various metadata relevant to the project. This file is used to give information to npm that allows it to identify the project as well as handle the project's dependencies. It can also contain other metadata such as a project description, the version of the project in a particular distribution, license information, even configuration data - all of which can be vital to both npm and to the end users of the package. The package.json file is normally located at the root directory of a Node.js project.\n<a rel=\"nofollow\" class=\"external free\" href=\"https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/\">https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/</a>\n-\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\nThe Node Package Manager (npm) is a command-line tool used by developers to share and control modules (or packages) of JavaScript code written for use with Node.js.\n</p><p>freeCodeCamp (also referred to as \u201cFree Code Camp\u201d) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. Beginning with tutorials that introduce students to HTML, CSS and JavaScript, students progress to project assignments that they complete either alone or in pairs. Upon completion of all project tasks, students are partnered with other nonprofits to build web applications, giving the students practical development experience.\n</p>\nThanks for Watching!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-07-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=wTv1q01mjW4\"><bdi lang=\"\">06 - Expand Your Project with External Packages - Managing Packages with npm - freeCodeCamp Tutorial</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=wTv1q01mjW4\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@ganeshh123\">Ganesh H</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Ganesh H",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "153321917": {
+        "pageid": 153321917,
+        "ns": 6,
+        "title": "File:Scraping Data from Wikipedia Tutorial - Web Scraping in Python.webm",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 95954434,
+            "width": 1920,
+            "height": 1080,
+            "duration": 1522.188,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Scraping_Data_from_Wikipedia_Tutorial_-_Web_Scraping_in_Python.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scraping_Data_from_Wikipedia_Tutorial_-_Web_Scraping_in_Python.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153321917",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 95954434
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 95954434
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "7d0e16a5b9309787",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "74c76fd3ab6757c7",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 331"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 391"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 397"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:25:22.173000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:25:22.188000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1522.188
+              },
+              {
+                "name": "bitrate",
+                "value": 504297.41398565745
+              },
+              {
+                "name": "playtime_string",
+                "value": "25:22"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-29 14:19:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Scraping Data from Wikipedia Tutorial - Web Scraping in Python",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|License review needed (video)|Wikipedia videos in English|Videos of 2023|Uploaded with video2commons|Video tutorials|Videos of software development|Web scraping|Videos of data|Videos about Python (programming language)|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Take my Full Python Course Here: <a rel=\"nofollow\" class=\"external free\" href=\"https://bit\">https://bit</a> dot ly/48O581R\n<p>In this Web Scraping tutorial we are going to be scraping data from a real website!\n</p><p>GitHub Code: <a rel=\"nofollow\" class=\"external free\" href=\"https://bit\">https://bit</a> dot ly/442kIVi\n____________________________________________ \n</p><p>SUBSCRIBE!\nDo you want to become a Data Analyst? That's what this channel is all about! My goal is to help you learn everything you need in order to start your career or even switch your career into Data Analytics. Be sure to subscribe to not miss out on any content!\n____________________________________________ \n</p><p>RESOURCES:\n</p><p>Coursera Courses:\n\ud83d\udcd6Google Data Analyst Certification: <a rel=\"nofollow\" class=\"external free\" href=\"https://coursera.pxf.io/5bBd62\">https://coursera.pxf.io/5bBd62</a>\n\ud83d\udcd6Data Analysis with Python - <a rel=\"nofollow\" class=\"external free\" href=\"https://coursera.pxf.io/BXY3Wy\">https://coursera.pxf.io/BXY3Wy</a>\n\ud83d\udcd6IBM Data Analysis Specialization - <a rel=\"nofollow\" class=\"external free\" href=\"https://coursera.pxf.io/AoYOdR\">https://coursera.pxf.io/AoYOdR</a>\n\ud83d\udcd6Tableau Data Visualization - <a rel=\"nofollow\" class=\"external free\" href=\"https://coursera.pxf.io/MXYqaN\">https://coursera.pxf.io/MXYqaN</a>\n</p><p>Udemy Courses:\n\ud83d\udcd6Python for Data Science - <a rel=\"nofollow\" class=\"external free\" href=\"https://bit\">https://bit</a> dot ly/3Z4A5K6\n\ud83d\udcd6Statistics for Data Science - <a rel=\"nofollow\" class=\"external free\" href=\"https://bit\">https://bit</a> dot ly/37jqDbq\n\ud83d\udcd6SQL for Data Analysts (SSMS) - <a rel=\"nofollow\" class=\"external free\" href=\"https://bit\">https://bit</a> dot ly/3fkqEij\n\ud83d\udcd6Tableau A-Z - <a rel=\"nofollow\" class=\"external free\" href=\"http://bit\">http://bit</a> dot ly/385lYvN\n</p>\n<ul><li>Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*</li></ul>\n<p>____________________________________________ \n</p><p>BECOME A MEMBER - \n</p><p>Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!\n</p><p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join\">https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join</a>\n____________________________________________ \n</p><p>Websites: \n\ud83d\udcbbWebsite: AlexTheAnalyst.com\n\ud83d\udcbeGitHub: <a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/AlexTheAnalyst\">https://github.com/AlexTheAnalyst</a>\n\ud83d\udcf1Instagram: @Alex_The_Analyst\n____________________________________________\n</p>\n<ul><li>All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=8dTpNajxaH0\"><bdi lang=\"\">Scraping Data from a Real Website | Web Scraping in Python</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=8dTpNajxaH0\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@AlexTheAnalyst\">Alex The Analyst</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Alex The Analyst",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152432418": {
+        "pageid": 152432418,
+        "ns": 6,
+        "title": "File:Stunning Animated Video Effects Using Free Software Kdenlive on Linux.webm",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 534461943,
+            "width": 1920,
+            "height": 1080,
+            "duration": 1740.529,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Stunning_Animated_Video_Effects_Using_Free_Software_Kdenlive_on_Linux.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stunning_Animated_Video_Effects_Using_Free_Software_Kdenlive_on_Linux.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152432418",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 534461943
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 534461943
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "1c73a0182a3af029",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 60
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "4a0eada02a08b931",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 60
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 333"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 401"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 407"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:29:00.467000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:29:00.529000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1740.529
+              },
+              {
+                "name": "bitrate",
+                "value": 2456549.442152357
+              },
+              {
+                "name": "playtime_string",
+                "value": "29:01"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-09 17:48:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stunning Animated Video Effects Using Free Software Kdenlive on Linux",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Video productions|License review needed (video)|Uploaded with video2commons|Videos of free software|Videos in English|Video tutorials|Kdenlive tutorials|Digital video effects|Videos uploaded by Prototyperspective",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "In this tutorial, I will show you how I created simple graphics in GIMP, how I animate graphics and text in Kdenlive.  GIMP is a free and open source alternative to Adobe Photoshop; and Kdenlive is a free and open source video editor that is quite powerful.\n<p>Want the T-shirt I was wearing in this video?  Check out:\n\u25ba <a rel=\"nofollow\" class=\"external free\" href=\"https://distrotube.creator-spring.com/\">https://distrotube.creator-spring.com/</a>? \n</p><p>DONATE CRYPTO:\n\ud83d\udcb0 Bitcoin: 1Mp6ebz5bNcjNFW7XWHVht36SkiLoxPKoX\n\ud83d\udc36 Dogecoin: D5fpRD1JRoBFPDXSBocRTp8W9uKzfwLFAu\n\ud83d\udcd5 LBC: bMfA2c3zmcLxPCpyPcrykLvMhZ7A5mQuhJ\n</p><p>SOCIAL PLATFORMS: \n\ud83d\udde8\ufe0f Mastodon: <a rel=\"nofollow\" class=\"external free\" href=\"https://distrotoot.com/@derek\">https://distrotoot.com/@derek</a>\n\ud83d\udc6b Reddit: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.reddit.com/r/DistroTube/\">https://www.reddit.com/r/DistroTube/</a>\n\ud83d\udcfd\ufe0f LBRY/Odysee: <a rel=\"nofollow\" class=\"external free\" href=\"https://odysee.com/%24/invite/@DistroTube:2\">https://odysee.com/$/invite/@DistroTube:2</a>\n</p><p>DT ON THE WEB:\n\ud83d\udd78\ufe0f Website: <a rel=\"nofollow\" class=\"external free\" href=\"http://distrotube.com/\">http://distrotube.com/</a>\n\ud83d\udc3f\ufe0f Gemini Capsule: gemini://distro.tube\n\ud83d\udcc1 GitLab: <a rel=\"nofollow\" class=\"external free\" href=\"https://gitlab.com/dwt1\">https://gitlab.com/dwt1</a>  \n</p><p>FREE AND OPEN SOURCE SOFTWARE THAT I USE:\n\ud83c\udf10 Brave Browser - <a rel=\"nofollow\" class=\"external free\" href=\"https://brave.com/dis872\">https://brave.com/dis872</a> \n\ud83d\udcfd\ufe0f Open Broadcaster Software: <a rel=\"nofollow\" class=\"external free\" href=\"https://obsproject.com/\">https://obsproject.com/</a>\n\ud83c\udfac Kdenlive: <a rel=\"nofollow\" class=\"external free\" href=\"https://kdenlive.org\">https://kdenlive.org</a>\n\ud83c\udfa8 GIMP: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.gimp.org/\">https://www.gimp.org/</a>\n\ud83c\udfb5  Ardour: <a rel=\"nofollow\" class=\"external free\" href=\"https://ardour.org/\">https://ardour.org/</a>\n\ud83d\udcbb VirtualBox: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.virtualbox.org/\">https://www.virtualbox.org/</a>\n\ud83d\uddd2\ufe0f Doom Emacs: <a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/hlissner/doom-emacs\">https://github.com/hlissner/doom-emacs</a>\n</p>\nYour support is very much appreciated. Thanks, guys!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-07-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=jbshXrTys8Q\"><bdi lang=\"\">Stunning Animated Video Effects Using Free Software</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=jbshXrTys8Q\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@DistroTube\">DistroTube</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "DistroTube",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "9979850": {
+        "pageid": 9979850,
+        "ns": 6,
+        "title": "File:Tutorial recordmydesktop.ogv",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 73261504,
+            "width": 1280,
+            "height": 800,
+            "duration": 585.5333333333333,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tutorial_recordmydesktop.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tutorial_recordmydesktop.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9979850",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 2142617482,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 2142617482
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.1 20090822 (Thusnelda)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 585.5333333333333
+                      },
+                      {
+                        "name": "size",
+                        "value": 67032590
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 80
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 50
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1280
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 800
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 1500
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 100
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 63
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 1520
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 24000
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 4000
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "recordMyDesktop",
+                            "value": "0.3.8.1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 88086941,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 88086941
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20090709"
+                      },
+                      {
+                        "name": "length",
+                        "value": 585.1857142857143
+                      },
+                      {
+                        "name": "size",
+                        "value": 6228605
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 1
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 22050
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 89991
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 9
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 10
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 585.5333333333333
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-04-11 05:51:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tutorial recordmydesktop",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Screencast videos|RecordMyDesktop|License migration redundant|Self-published work|Video tutorials",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "ScreenCasts RecordMyDesktop",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-03-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Styp152&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Styp152 (page does not exist)\">Styp152</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "TODOS",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "117821605": {
+        "pageid": 117821605,
+        "ns": 6,
+        "title": "File:Tutorial video on Clone effect in Corel Draw.webm",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4795745,
+            "width": 1280,
+            "height": 720,
+            "duration": 103.986,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tutorial_video_on_Clone_effect_in_Corel_Draw.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tutorial_video_on_Clone_effect_in_Corel_Draw.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117821605",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.21-202109171300"
+              },
+              {
+                "name": "filesize",
+                "value": 4795745
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 4795745
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "d53c4484bc6ce6c4",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "f53fc1f356899735",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 338"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 390"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 396"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "http://youtube.com/streaming/otf/durations/112015",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Segment-Count: 20\r\nSegment-Durations-Ms: 5333,5334,5333(r=1),5334,5333(r=1),5334,5333(r=1),5334,5333(r=1),5334,5333(r=1),5334,5333(r=1),2533,\r\n\r\n"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.134.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:01:43.873000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:01:43.986000000\ufffd\ufffd"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc. Created on: 03/08/2019."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 103.986
+              },
+              {
+                "name": "bitrate",
+                "value": 368953.12830573344
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:44"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-09 04:04:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tutorial video on Clone effect in Corel Draw",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos by PainterTutorials",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "CITC- An ISO Certified, Govt. of India Regd, NIELIT, Microsoft, MSME, CSC Authorized Institute for Computer Software &amp; Hardware Courses.\n<p>3 answers on how do you erase part of a line in Illustrator:\n1. You could use the Scissors Tool or Knife tool to cut the path, then delete the end section.\n2. You could draw a new line and use Pathfinder, then delete the end section.\n3. You can select the path then use the Eraser Tool to erase the art of it.\nFor more info, visit: <a rel=\"nofollow\" class=\"external free\" href=\"https://citcchandigarh.com/desktop-publishing\">https://citcchandigarh.com/desktop-publishing</a>\nRelated Topics:\n</p>\ncorel painter tutorials for beginners, corel painter tutorials pdf, clone effect in coreldraw.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-03-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=8W9RZhUiZXo\"><bdi lang=\"\">Tutorial video on Clone effect in Corel Draw</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=8W9RZhUiZXo\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/citcchandigarh\">CITC The Hub of IT</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "CITC The Hub of IT",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

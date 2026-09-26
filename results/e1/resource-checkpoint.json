@@ -1,0 +1,29 @@
+{
+  "available": {
+    "available_ram_bytes": 16139972608,
+    "free_disk_bytes": 45799723008,
+    "logical_cpus": 4,
+    "ram_bytes": 25638952960
+  },
+  "boundary": {
+    "estimated_cpu_budget_hours": 18,
+    "max_peak_ram_bytes": 8000000000,
+    "max_storage_bytes": 16000000000,
+    "reserved_disk_bytes": 10000000000,
+    "workers": 2
+  },
+  "decision": "proceed",
+  "design_reduction": null,
+  "estimate": {
+    "assumptions": "5x Q0 matching allowance plus 2 CPU-hours generation; media multiplier12; not measured CPU time from Q0.",
+    "candidate_count": 1512,
+    "expected_artifact_bytes": 1500000000,
+    "expected_cpu_hours": 13.916024012987501,
+    "expected_peak_ram_bytes": 6000000000,
+    "expected_storage_bytes": 11478178353.6,
+    "q0_cpu_measurement": "unavailable; Q0 recorded wall time only",
+    "q0_matching_s_per_candidate": 5.674297149041667,
+    "q0_mean_candidate_bytes": 632615.65,
+    "q0_rss_kb": 44104.0
+  }
+}

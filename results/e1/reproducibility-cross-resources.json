@@ -1,0 +1,19 @@
+{
+  "label": "reproducibility-cross",
+  "command": [
+    "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\.venv-e1-repro\\Scripts\\python.exe",
+    "-X",
+    "utf8",
+    "-m",
+    "cliptrace_e1.e1_report",
+    "reproduce-cross"
+  ],
+  "returncode": 0,
+  "wall_s": 120.29916644096375,
+  "sampled_process_tree_cpu_s_lower_bound": 98.125,
+  "peak_sampled_process_tree_rss_bytes": 294744064,
+  "process_count": 141,
+  "samples": 450,
+  "sampling_interval_s": 0.25,
+  "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled."
+}

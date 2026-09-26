@@ -1,0 +1,5144 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "157080046": {
+        "pageid": 157080046,
+        "ns": 6,
+        "title": "File:Amazon Nova American Football Example \uff5c Amazon Web Services.webm",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1243650,
+            "width": 640,
+            "height": 360,
+            "duration": 12.068,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Amazon_Nova_American_Football_Example_%EF%BD%9C_Amazon_Web_Services.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amazon_Nova_American_Football_Example_%EF%BD%9C_Amazon_Web_Services.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157080046",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 1243650
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 1243650
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "d16052110e58af2e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "86eaed12c7427bb9",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 376"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 444"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 450"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Amazon Nova Example | Amazon Web Services"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.9.101"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.9.101"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isommp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "artist",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Amazon Web Services"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "date",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "20241203"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "description",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "The video depicts a football game in progress, featuring two teams on a well-marked green field. Initially, the teams are positioned in a classic formation, with players from both sides facing each other, ready for the play. \n\nThe players are equipped with helmets and jerseys, indicating a formal match. As the video progresses, the play commences with the offensive team executing a pass, leading to a tackle by the defensive team. \n\nThe action is intense, showcasing the physicality and strategy inherent in football. The camera captures the play from an aerial perspective, providing a clear view of the field and the players' movements.\n\nLearn more about Amazon Nova: https://go.aws/nova\n\nSubscribe to AWS: https://go.aws/subscribe\n\nSign up for AWS: https://go.aws/signup \nAWS free tier: https://go.aws/free \nExplore more: https://go.aws/more\nContact AWS: https://go.aws/contact\n\nNext steps:\nExplore on AWS in Analyst Research:  https://go.aws/reports\nDiscover, deploy, and manage software that runs on AWS: https://go.aws/marketplace\nJoin the AWS Partner Network: https://go.aws/partners \nLearn more on how Amazon builds and operates software: https://go.aws/library \n\nDo you have technical AWS questions? \nAsk the community of experts on AWS re:Post: https://go.aws/3lPaoPb\n\nWhy AWS?\nAmazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud. Millions of customers\u2014including the fastest-growing startups, largest enterprises, and leading government agencies\u2014use AWS to be more agile, lower costs, and innovate faster.\n\n#AWS #AmazonWebServices #CloudComputing"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "synopsis",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "The video depicts a football game in progress, featuring two teams on a well-marked green field. Initially, the teams are positioned in a classic formation, with players from both sides facing each other, ready for the play. \n\nThe players are equipped with helmets and jerseys, indicating a formal match. As the video progresses, the play commences with the offensive team executing a pass, leading to a tackle by the defensive team. \n\nThe action is intense, showcasing the physicality and strategy inherent in football. The camera captures the play from an aerial perspective, providing a clear view of the field and the players' movements.\n\nLearn more about Amazon Nova: https://go.aws/nova\n\nSubscribe to AWS: https://go.aws/subscribe\n\nSign up for AWS: https://go.aws/signup \nAWS free tier: https://go.aws/free \nExplore more: https://go.aws/more\nContact AWS: https://go.aws/contact\n\nNext steps:\nExplore on AWS in Analyst Research:  https://go.aws/reports\nDiscover, deploy, and manage software that runs on AWS: https://go.aws/marketplace\nJoin the AWS Partner Network: https://go.aws/partners \nLearn more on how Amazon builds and operates software: https://go.aws/library \n\nDo you have technical AWS questions? \nAsk the community of experts on AWS re:Post: https://go.aws/3lPaoPb\n\nWhy AWS?\nAmazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud. Millions of customers\u2014including the fastest-growing startups, largest enterprises, and leading government agencies\u2014use AWS to be more agile, lower costs, and innovate faster.\n\n#AWS #AmazonWebServices #CloudComputing"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "purl",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "https://www.youtube.com/watch?v=LSUEFXQeTvM"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comment",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "https://www.youtube.com/watch?v=LSUEFXQeTvM"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.9.101"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.28.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.28.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          },
+                          {
+                            "name": 1,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:12.007000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:12.068000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 12.068
+              },
+              {
+                "name": "bitrate",
+                "value": 824428.2399734836
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:12"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-12-25 04:37:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Amazon Nova American Football Example \uff5c Amazon Web Services",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Videos downloaded with yt-dlp with command included|PD-algorithm|2024 AI-generated works|AI-generated sports|Videos by Amazon Nova|Videos imported by VulcanSphere",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The video depicts a football game in progress, featuring two teams on a well-marked green field. Initially, the teams are positioned in a classic formation, with players from both sides facing each other, ready for the play. \n<p>The players are equipped with helmets and jerseys, indicating a formal match. As the video progresses, the play commences with the offensive team executing a pass, leading to a tackle by the defensive team. \n</p><p>The action is intense, showcasing the physicality and strategy inherent in football. The camera captures the play from an aerial perspective, providing a clear view of the field and the players' movements.\n</p>\nLearn more about Amazon Nova: <a rel=\"nofollow\" class=\"external free\" href=\"https://go.aws/nova\">https://go.aws/nova</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=LSUEFXQeTvM\"><bdi lang=\"\">Amazon Nova Example | Amazon Web Services</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=LSUEFXQeTvM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@amazonwebservices\">Amazon Web Services</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "ai",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70108681": {
+        "pageid": 70108681,
+        "ns": 6,
+        "title": "File:Dan Quinn welcomes team back for offseason training (footage).webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 24115918,
+            "width": 1280,
+            "height": 720,
+            "duration": 120.45400000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Dan_Quinn_welcomes_team_back_for_offseason_training_%28footage%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dan_Quinn_welcomes_team_back_for_offseason_training_(footage).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70108681",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.14-201703261440"
+              },
+              {
+                "name": "filesize",
+                "value": 24115918
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 24115918
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 1601668.2218938349
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [4 bytes]) at 100"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.25.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.25.100"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 120.45400000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 1601668.2218938349
+              },
+              {
+                "name": "playtime_string",
+                "value": "2:00"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-06-21 03:25:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dan Quinn welcomes team back for offseason training (footage)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Dan Quinn (American football)|Files from external sources with reviewed licenses|2018 Atlanta Falcons season|Uploaded with video2commons|Videos of American football",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Head coach Dan Quinn welcome the team back and lays out what's ahead for the 2018 offseason.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-04-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=LB9U7piwMu4\"><bdi lang=\"\">Dan Quinn welcomes team back for offseason training</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=LB9U7piwMu4\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/AtlantaFalconsNFL\">Atlanta Falcons</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Atlanta Falcons",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "134047834": {
+        "pageid": 134047834,
+        "ns": 6,
+        "title": "File:Esteghlal fans chant for Javad Nekounam in training, 6 July 2023.mpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 36716544,
+            "width": 1600,
+            "height": 720,
+            "duration": 25.333333333333332,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Esteghlal_fans_chant_for_Javad_Nekounam_in_training%2C_6_July_2023.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Esteghlal_fans_chant_for_Javad_Nekounam_in_training,_6_July_2023.mpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134047834",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.22-202207161647"
+              },
+              {
+                "name": "filesize",
+                "value": 36716544
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 36716544
+              },
+              {
+                "name": "fileformat",
+                "value": "mpeg"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "codec",
+                    "value": "MPEG-2"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1600
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "pixel_aspect_ratio",
+                    "value": 1
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 24
+                  },
+                  {
+                    "name": "interlaced",
+                    "value": false
+                  },
+                  {
+                    "name": "pixel_aspect_ratio_text",
+                    "value": "square pixels"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 11594698.105263159
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.013978947368421054
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/mpeg"
+              },
+              {
+                "name": "mpeg",
+                "value": [
+                  {
+                    "name": "video",
+                    "value": [
+                      {
+                        "name": "raw",
+                        "value": [
+                          {
+                            "name": "horizontal_size_value",
+                            "value": 1600
+                          },
+                          {
+                            "name": "vertical_size_value",
+                            "value": 720
+                          },
+                          {
+                            "name": "aspect_ratio_information",
+                            "value": 1
+                          },
+                          {
+                            "name": "frame_rate_code",
+                            "value": 5
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 262143
+                          },
+                          {
+                            "name": "vbv_buffer_size",
+                            "value": 198
+                          },
+                          {
+                            "name": "constrained_param_flag",
+                            "value": false
+                          },
+                          {
+                            "name": "load_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "load_non_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "extension_start_code_identifier",
+                            "value": 8
+                          },
+                          {
+                            "name": "profile_and_level_indication",
+                            "value": 68
+                          },
+                          {
+                            "name": "progressive_sequence",
+                            "value": true
+                          },
+                          {
+                            "name": "chroma_format",
+                            "value": 1
+                          },
+                          {
+                            "name": "horizontal_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "vertical_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "bit_rate_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "vbv_buffer_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "low_delay",
+                            "value": false
+                          },
+                          {
+                            "name": "frame_rate_extension_n",
+                            "value": 0
+                          },
+                          {
+                            "name": "frame_rate_extension_d",
+                            "value": 0
+                          },
+                          {
+                            "name": "video_format",
+                            "value": 5
+                          },
+                          {
+                            "name": "colour_description",
+                            "value": true
+                          },
+                          {
+                            "name": "colour_primaries",
+                            "value": 1
+                          },
+                          {
+                            "name": "transfer_characteristics",
+                            "value": 1
+                          },
+                          {
+                            "name": "matrix_coefficients",
+                            "value": 1
+                          },
+                          {
+                            "name": "display_horizontal_size",
+                            "value": 1600
+                          },
+                          {
+                            "name": "display_vertical_size",
+                            "value": 720
+                          },
+                          {
+                            "name": "f_code_00",
+                            "value": 3
+                          },
+                          {
+                            "name": "f_code_01",
+                            "value": 3
+                          },
+                          {
+                            "name": "f_code_10",
+                            "value": 15
+                          },
+                          {
+                            "name": "f_code_11",
+                            "value": 15
+                          },
+                          {
+                            "name": "intra_dc_precision",
+                            "value": 0
+                          },
+                          {
+                            "name": "picture_structure",
+                            "value": 3
+                          },
+                          {
+                            "name": "top_field_first",
+                            "value": false
+                          },
+                          {
+                            "name": "frame_pred_frame_dct",
+                            "value": true
+                          },
+                          {
+                            "name": "concealment_motion_vectors",
+                            "value": false
+                          },
+                          {
+                            "name": "q_scale_type",
+                            "value": false
+                          },
+                          {
+                            "name": "intra_vlc_format",
+                            "value": false
+                          },
+                          {
+                            "name": "alternate_scan",
+                            "value": false
+                          },
+                          {
+                            "name": "repeat_first_field",
+                            "value": false
+                          },
+                          {
+                            "name": "chroma_420_type",
+                            "value": true
+                          },
+                          {
+                            "name": "progressive_frame",
+                            "value": true
+                          },
+                          {
+                            "name": "composite_display_flag",
+                            "value": false
+                          }
+                        ]
+                      },
+                      {
+                        "name": "pixel_aspect_ratio",
+                        "value": 1
+                      },
+                      {
+                        "name": "pixel_aspect_ratio_text",
+                        "value": "square pixels"
+                      },
+                      {
+                        "name": "frame_rate",
+                        "value": 30
+                      },
+                      {
+                        "name": "bitrate_mode",
+                        "value": "vbr"
+                      },
+                      {
+                        "name": "interlaced",
+                        "value": false
+                      },
+                      {
+                        "name": "chroma_format",
+                        "value": "4:2:0"
+                      },
+                      {
+                        "name": "video_format",
+                        "value": "Unspecified video format"
+                      },
+                      {
+                        "name": "intra_dc_precision_bits",
+                        "value": 8
+                      },
+                      {
+                        "name": "picture_structure",
+                        "value": "Frame picture"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 25.333333333333332
+              },
+              {
+                "name": "bitrate",
+                "value": 11594698.105263159
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:25"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-07 06:57:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Esteghlal fans chant for Javad Nekounam in training, 6 July 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Football chants|Nasser Hejazi Camp|Javad Nekounam in 2023|Self-published work|Photographs by Maometto|Supporters of Esteghlal FC|Players of Esteghlal FC in training",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\u0644\u062d\u0638\u0627\u062a\u06cc \u0627\u0632 \u062a\u0634\u0648\u06cc\u0642 \u062c\u0648\u0627\u062f \u0646\u06a9\u0648\u0646\u0627\u0645 \u0633\u0631\u0645\u0631\u0628\u06cc \u0648\u0642\u062a \u0628\u0627\u0634\u06af\u0627\u0647 \u0641\u0648\u062a\u0628\u0627\u0644 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u062f\u0631 \u062c\u0644\u0633\u0647 \u062a\u0645\u0631\u06cc\u0646\u06cc \u0628\u0639\u062f \u0627\u0632 \u0638\u0647\u0631 \u06f1\u06f5 \u062a\u06cc\u0631 \u06f1\u06f4\u06f0\u06f2",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maometto97\" title=\"User:Maometto97\">Maometto</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "134048128": {
+        "pageid": 134048128,
+        "ns": 6,
+        "title": "File:Esteghlal fans chant for Rouzbeh Cheshmi in training, 6 July 2023.mpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 92268544,
+            "width": 1920,
+            "height": 1080,
+            "duration": 27.266666666666666,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Esteghlal_fans_chant_for_Rouzbeh_Cheshmi_in_training%2C_6_July_2023.mpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Esteghlal_fans_chant_for_Rouzbeh_Cheshmi_in_training,_6_July_2023.mpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134048128",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.22-202207161647"
+              },
+              {
+                "name": "filesize",
+                "value": 92268544
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 92268544
+              },
+              {
+                "name": "fileformat",
+                "value": "mpeg"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "codec",
+                    "value": "MPEG-2"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "pixel_aspect_ratio",
+                    "value": 1.0000125
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 24
+                  },
+                  {
+                    "name": "interlaced",
+                    "value": false
+                  },
+                  {
+                    "name": "pixel_aspect_ratio_text",
+                    "value": "16:9"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 88128000
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.059027777777777776
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/mpeg"
+              },
+              {
+                "name": "mpeg",
+                "value": [
+                  {
+                    "name": "video",
+                    "value": [
+                      {
+                        "name": "raw",
+                        "value": [
+                          {
+                            "name": "horizontal_size_value",
+                            "value": 1920
+                          },
+                          {
+                            "name": "vertical_size_value",
+                            "value": 1080
+                          },
+                          {
+                            "name": "aspect_ratio_information",
+                            "value": 3
+                          },
+                          {
+                            "name": "frame_rate_code",
+                            "value": 5
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 262143
+                          },
+                          {
+                            "name": "vbv_buffer_size",
+                            "value": 3
+                          },
+                          {
+                            "name": "constrained_param_flag",
+                            "value": false
+                          },
+                          {
+                            "name": "load_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "load_non_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "extension_start_code_identifier",
+                            "value": 8
+                          },
+                          {
+                            "name": "profile_and_level_indication",
+                            "value": 68
+                          },
+                          {
+                            "name": "progressive_sequence",
+                            "value": true
+                          },
+                          {
+                            "name": "chroma_format",
+                            "value": 1
+                          },
+                          {
+                            "name": "horizontal_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "vertical_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "bit_rate_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "vbv_buffer_size_extension",
+                            "value": 0
+                          },
+                          {
+                            "name": "low_delay",
+                            "value": false
+                          },
+                          {
+                            "name": "frame_rate_extension_n",
+                            "value": 0
+                          },
+                          {
+                            "name": "frame_rate_extension_d",
+                            "value": 0
+                          },
+                          {
+                            "name": "video_format",
+                            "value": 5
+                          },
+                          {
+                            "name": "colour_description",
+                            "value": true
+                          },
+                          {
+                            "name": "colour_primaries",
+                            "value": 1
+                          },
+                          {
+                            "name": "transfer_characteristics",
+                            "value": 1
+                          },
+                          {
+                            "name": "matrix_coefficients",
+                            "value": 1
+                          },
+                          {
+                            "name": "display_horizontal_size",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_vertical_size",
+                            "value": 1080
+                          },
+                          {
+                            "name": "f_code_00",
+                            "value": 3
+                          },
+                          {
+                            "name": "f_code_01",
+                            "value": 3
+                          },
+                          {
+                            "name": "f_code_10",
+                            "value": 15
+                          },
+                          {
+                            "name": "f_code_11",
+                            "value": 15
+                          },
+                          {
+                            "name": "intra_dc_precision",
+                            "value": 0
+                          },
+                          {
+                            "name": "picture_structure",
+                            "value": 3
+                          },
+                          {
+                            "name": "top_field_first",
+                            "value": false
+                          },
+                          {
+                            "name": "frame_pred_frame_dct",
+                            "value": true
+                          },
+                          {
+                            "name": "concealment_motion_vectors",
+                            "value": false
+                          },
+                          {
+                            "name": "q_scale_type",
+                            "value": false
+                          },
+                          {
+                            "name": "intra_vlc_format",
+                            "value": false
+                          },
+                          {
+                            "name": "alternate_scan",
+                            "value": false
+                          },
+                          {
+                            "name": "repeat_first_field",
+                            "value": false
+                          },
+                          {
+                            "name": "chroma_420_type",
+                            "value": true
+                          },
+                          {
+                            "name": "progressive_frame",
+                            "value": true
+                          },
+                          {
+                            "name": "composite_display_flag",
+                            "value": false
+                          },
+                          {
+                            "name": "non_intra_quantiser_matrix",
+                            "value": [
+                              {
+                                "name": 0,
+                                "value": 74
+                              },
+                              {
+                                "name": 1,
+                                "value": 98
+                              },
+                              {
+                                "name": 2,
+                                "value": 238
+                              },
+                              {
+                                "name": 3,
+                                "value": 220
+                              },
+                              {
+                                "name": 4,
+                                "value": 164
+                              },
+                              {
+                                "name": 5,
+                                "value": 81
+                              },
+                              {
+                                "name": 6,
+                                "value": 48
+                              },
+                              {
+                                "name": 7,
+                                "value": 68
+                              },
+                              {
+                                "name": 8,
+                                "value": 115
+                              },
+                              {
+                                "name": 9,
+                                "value": 52
+                              },
+                              {
+                                "name": 10,
+                                "value": 26
+                              },
+                              {
+                                "name": 11,
+                                "value": 42
+                              },
+                              {
+                                "name": 12,
+                                "value": 161
+                              },
+                              {
+                                "name": 13,
+                                "value": 242
+                              },
+                              {
+                                "name": 14,
+                                "value": 65
+                              },
+                              {
+                                "name": 15,
+                                "value": 49
+                              },
+                              {
+                                "name": 16,
+                                "value": 98
+                              },
+                              {
+                                "name": 17,
+                                "value": 234
+                              },
+                              {
+                                "name": 18,
+                                "value": 171
+                              },
+                              {
+                                "name": 19,
+                                "value": 212
+                              },
+                              {
+                                "name": 20,
+                                "value": 139
+                              },
+                              {
+                                "name": 21,
+                                "value": 149
+                              },
+                              {
+                                "name": 22,
+                                "value": 37
+                              },
+                              {
+                                "name": 23,
+                                "value": 228
+                              },
+                              {
+                                "name": 24,
+                                "value": 63
+                              },
+                              {
+                                "name": 25,
+                                "value": 180
+                              },
+                              {
+                                "name": 26,
+                                "value": 212
+                              },
+                              {
+                                "name": 27,
+                                "value": 226
+                              },
+                              {
+                                "name": 28,
+                                "value": 198
+                              },
+                              {
+                                "name": 29,
+                                "value": 45
+                              },
+                              {
+                                "name": 30,
+                                "value": 203
+                              },
+                              {
+                                "name": 31,
+                                "value": 73
+                              },
+                              {
+                                "name": 32,
+                                "value": 116
+                              },
+                              {
+                                "name": 33,
+                                "value": 147
+                              },
+                              {
+                                "name": 34,
+                                "value": 103
+                              },
+                              {
+                                "name": 35,
+                                "value": 110
+                              },
+                              {
+                                "name": 36,
+                                "value": 44
+                              },
+                              {
+                                "name": 37,
+                                "value": 228
+                              },
+                              {
+                                "name": 38,
+                                "value": 200
+                              },
+                              {
+                                "name": 39,
+                                "value": 81
+                              },
+                              {
+                                "name": 40,
+                                "value": 53
+                              },
+                              {
+                                "name": 41,
+                                "value": 148
+                              },
+                              {
+                                "name": 42,
+                                "value": 243
+                              },
+                              {
+                                "name": 43,
+                                "value": 196
+                              },
+                              {
+                                "name": 44,
+                                "value": 166
+                              },
+                              {
+                                "name": 45,
+                                "value": 151
+                              },
+                              {
+                                "name": 46,
+                                "value": 165
+                              },
+                              {
+                                "name": 47,
+                                "value": 254
+                              },
+                              {
+                                "name": 48,
+                                "value": 55
+                              },
+                              {
+                                "name": 49,
+                                "value": 155
+                              },
+                              {
+                                "name": 50,
+                                "value": 24
+                              },
+                              {
+                                "name": 51,
+                                "value": 220
+                              },
+                              {
+                                "name": 52,
+                                "value": 99
+                              },
+                              {
+                                "name": 53,
+                                "value": 95
+                              },
+                              {
+                                "name": 54,
+                                "value": 16
+                              },
+                              {
+                                "name": 55,
+                                "value": 37
+                              },
+                              {
+                                "name": 56,
+                                "value": 8
+                              },
+                              {
+                                "name": 57,
+                                "value": 56
+                              },
+                              {
+                                "name": 58,
+                                "value": 242
+                              },
+                              {
+                                "name": 59,
+                                "value": 75
+                              },
+                              {
+                                "name": 60,
+                                "value": 28
+                              },
+                              {
+                                "name": 61,
+                                "value": 236
+                              },
+                              {
+                                "name": 62,
+                                "value": 36
+                              },
+                              {
+                                "name": 63,
+                                "value": 27
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "pixel_aspect_ratio",
+                        "value": 1.0000125
+                      },
+                      {
+                        "name": "pixel_aspect_ratio_text",
+                        "value": "16:9"
+                      },
+                      {
+                        "name": "frame_rate",
+                        "value": 30
+                      },
+                      {
+                        "name": "bitrate_mode",
+                        "value": "vbr"
+                      },
+                      {
+                        "name": "interlaced",
+                        "value": false
+                      },
+                      {
+                        "name": "chroma_format",
+                        "value": "4:2:0"
+                      },
+                      {
+                        "name": "video_format",
+                        "value": "Unspecified video format"
+                      },
+                      {
+                        "name": "intra_dc_precision_bits",
+                        "value": 8
+                      },
+                      {
+                        "name": "picture_structure",
+                        "value": "Frame picture"
+                      },
+                      {
+                        "name": "bitrate",
+                        "value": 88128000
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 27.266666666666666
+              },
+              {
+                "name": "bitrate",
+                "value": 88128000
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:27"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-07-07 07:09:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Esteghlal fans chant for Rouzbeh Cheshmi in training, 6 July 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Football chants|Nasser Hejazi Camp|Rouzbeh Cheshmi in 2023|Self-published work|Photographs by Maometto|Supporters of Esteghlal FC|Players of Esteghlal FC in training",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\u0644\u062d\u0638\u0627\u062a\u06cc \u0627\u0632 \u062a\u0634\u0648\u06cc\u0642 \u0631\u0648\u0632\u0628\u0647 \u0686\u0634\u0645\u06cc\u060c \u0628\u0627\u0632\u06cc\u06a9\u0646 \u0628\u0627\u0634\u06af\u0627\u0647 \u0641\u0648\u062a\u0628\u0627\u0644 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u062f\u0631 \u062c\u0644\u0633\u0647 \u062a\u0645\u0631\u06cc\u0646\u06cc \u0628\u0639\u062f \u0627\u0632 \u0638\u0647\u0631 \u06f1\u06f5 \u062a\u06cc\u0631 \u06f1\u06f4\u06f0\u06f2",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maometto97\" title=\"User:Maometto97\">Maometto</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "76981053": {
+        "pageid": 76981053,
+        "ns": 6,
+        "title": "File:FOOTBALL TRAINING AT ST. MICHAEL PRIMARY SCHOOL OBAN.ogv",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 337307049,
+            "width": 1920,
+            "height": 1080,
+            "duration": 170.08616780045352,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FOOTBALL_TRAINING_AT_ST._MICHAEL_PRIMARY_SCHOOL_OBAN.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:FOOTBALL_TRAINING_AT_ST._MICHAEL_PRIMARY_SCHOOL_OBAN.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76981053",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 2917562472,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 2917562472
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf58.12.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 170.02471111111112
+                      },
+                      {
+                        "name": "size",
+                        "value": 335224873
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 120
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 68
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1920
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 1080
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 8
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 90000
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 3017
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 3060
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 48960
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 8160
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "creation_time",
+                            "value": "2019-02-14T11:24:04.000000Z"
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "handler_name",
+                            "value": "ISO Media file produced by Google Inc. Created on: 02/14/2019."
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavc58.18.100 libtheora"
+                          },
+                          {
+                            "name": "major_brand",
+                            "value": "mp42"
+                          },
+                          {
+                            "name": "minor_version",
+                            "value": "0"
+                          },
+                          {
+                            "name": "compatible_brands",
+                            "value": "isommp42"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 1598041791,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 1598041791
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf58.12.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 170.08616780045352
+                      },
+                      {
+                        "name": "size",
+                        "value": 2082176
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 112000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "creation_time",
+                            "value": "2019-02-14T11:24:04.000000Z"
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "handler_name",
+                            "value": "ISO Media file produced by Google Inc. Created on: 02/14/2019."
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavc58.18.100 libvorbis"
+                          },
+                          {
+                            "name": "major_brand",
+                            "value": "mp42"
+                          },
+                          {
+                            "name": "minor_version",
+                            "value": "0"
+                          },
+                          {
+                            "name": "compatible_brands",
+                            "value": "isommp42"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 170.08616780045352
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-01 09:26:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "FOOTBALL TRAINING AT ST. MICHAEL PRIMARY SCHOOL OBAN",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Association football in Nigeria|Cross River State|Schools in Nigeria|Self-published work|Images from Wiki Loves Africa 2019|Uploaded via Campaign:wlafrica|Images from Wiki Loves Africa 2019 in Nigeria|Videos from Wiki Loves Africa 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<table lang=\"en\" dir=\"ltr\" style=\"border-spacing:0; width:425px; text-align:unset; color:#000; background:#ddd; border:1px solid #bbb; margin:1px;\" class=\"layouttemplate\">\n<tbody><tr>\n<td style=\"width:22px; height:22px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Noun_1219622_cc.png\" class=\"mw-file-description\" title=\"People at work icon\"><img alt=\"People at work icon\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Noun_1219622_cc.png/40px-Noun_1219622_cc.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"37\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Noun_1219622_cc.png/120px-Noun_1219622_cc.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"563\" data-file-height=\"522\"></a></span>\n</td>\n<td style=\"font-size:8pt; padding:1pt; line-height:1.1em;\">\n<p>This is an image with the theme \"<i>Play</i>\" from: <a href=\"https://en.wikipedia.org/wiki/en:Nigeria\" class=\"extiw\" title=\"w:en:Nigeria\"><span title=\"sovereign state in West Africa\">Nigeria</span></a> \n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-02-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ALOYSIUSITETA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ALOYSIUSITETA (page does not exist)\">ALOYSIUSITETA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "179962478": {
+        "pageid": 179962478,
+        "ns": 6,
+        "title": "File:Fitness Training With The \"Best of the Best!\".webm",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 150698917,
+            "width": 854,
+            "height": 480,
+            "duration": 2485.611,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fitness_Training_With_The_%22Best_of_the_Best%21%22.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fitness_Training_With_The_%22Best_of_the_Best!%22.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179962478",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.24-202509040923"
+              },
+              {
+                "name": "filesize",
+                "value": 150698917
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 150698917
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "57b2692c81ea486e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 854
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 480
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 854
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 480
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "470c7b094dca4a1c",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 854
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 480
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 854
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 480
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 334"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 425"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 431"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libsvtav1"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:41:25.533000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:41:25.611000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 2485.611
+              },
+              {
+                "name": "bitrate",
+                "value": 485028.1624920392
+              },
+              {
+                "name": "playtime_string",
+                "value": "41:26"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-15 01:06:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fitness Training With The \"Best of the Best!\"",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|PD NASA|License review needed (video)|Uploaded with video2commons|Videos of 2013 from the United States|NASA videos in 2013|Videos taken on 2013-07-17|Videos with text in English|Videos in American English|Videos of unidentified people of the United States|YouTube live streams by NASA",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "How do Astronauts stay in shape for long-duration missions in a weightless environment? Learn this and how elite athletes staying fit in a special Google+ Hangout Wednesday, July 17. \n<p>NASA Astronaut Mike Hopkins will be joined by 2010 U.S. Olympic Team figure skater Rachael Flatt and bobsledder Curt Tomasevicz, CrossFit Games Champion Rich Froning, Jr., and Houston Texans player Jared Crick  for the discussion, which can be seen live on NASA's Google+ page or on NASA Television. \n</p><p>Peter Moore of Men's Health magazine, Sam Kass, Executive Director of the White House's Let's Move! campaign and Mark Guilliams, Hopkin's lead strength coach, will also participate.\n</p><p>Join the live event at 3 p.m. CT. To participate and have your questions answered during the hangout, use #askNASA.\n</p><p>Both Tomasevicz and Flatt will join the Hangout from the U.S. Olympic Training Center in Colorado Springs, Colo., where athletes train as hopefuls for upcoming Olympic and Olympic Winter Games. Tomasevicz and the Night Train bobsled team won Olympic gold at the Vancouver 2010 Olympic Winter Games to become the first U.S. Olympic Champions in the four-man event since 1948. Flatt, the 2010 U.S. figure skating champion, also competed in the 2010 Games.  \n</p><p>For more information on Flatt and Tomasevicz, visit: \nwww.TeamUSA.org\n</p><p>Froning is the two-time CrossFit Games champion, having won the \"Fittest on Earth\" title in both 2011 and 2012. Froning is currently competing in the 2013 Games. \n</p><p>Froning's complete bio can be found at: \n<a rel=\"nofollow\" class=\"external free\" href=\"http://games.crossfit.com/athlete/11435\">http://games.crossfit.com/athlete/11435</a>\n</p><p>Crick is a defensive end for the Houston Texans football team. Previously, he played at the University of Nebraska and ranked eighth on their all-time sacks list. \n</p><p>For more information on Crick, visit: \nwww.HoustonTexans.com\n</p><p>Moore is Vice-President and Editor of Men's Health magazine. He is also the co-author of The Lean Belly Prescription and co-authored The 8-Hour Diet.\n</p><p>For more information on Moore, visit: \nwww.MensHealth.com\n</p><p>Kass is Executive Director of Let's Move! and Senior Policy Advisor on Nutrition. He is a Chicago native and college athlete, having played baseball for the University of Chicago.\n</p><p>For more information about Kass, visit: \n<a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://www.whitehouse.gov/blog/author/Sam%20Kass\" href=\"https://www.whitehouse.gov/blog/author/Sam%20Kass\">http://www.whitehouse.gov/blog/author/Sam%20Kass</a>\n</p><p>For more information on how to Train Like an Astronaut, visit:\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.trainlikeanastronaut.org\">http://www.trainlikeanastronaut.org</a>\n</p><p>For Hopkins' astronaut biography, visit:\n</p>\n<a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://www.jsc.nasa.gov/Bios/htmlbios/hopkins-ms.html\" href=\"https://www.jsc.nasa.gov/Bios/htmlbios/hopkins-ms.html\">http://www.jsc.nasa.gov/Bios/htmlbios/hopkins-ms.html</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-07-17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=gJvz10pvhiM\"><bdi lang=\"\">Fitness Training With The \"Best of the Best!\"</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=gJvz10pvhiM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:NASA\" class=\"extiw\" title=\"w:en:NASA\"><span title=\"American space and aeronautics agency\">National Aeronautics and Space Administration</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "126262712": {
+        "pageid": 126262712,
+        "ns": 6,
+        "title": "File:Football teams training at Cirillo Reserve in Middleton Grange, New South Wales.mpeg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4990976,
+            "width": 1920,
+            "height": 1080,
+            "duration": 0.06673340006673341,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Football_teams_training_at_Cirillo_Reserve_in_Middleton_Grange%2C_New_South_Wales.mpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Football_teams_training_at_Cirillo_Reserve_in_Middleton_Grange,_New_South_Wales.mpeg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126262712",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.22-202207161647"
+              },
+              {
+                "name": "filesize",
+                "value": 4990976
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 4990976
+              },
+              {
+                "name": "fileformat",
+                "value": "mpeg"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "codec",
+                    "value": "MPEG-1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "pixel_aspect_ratio",
+                    "value": 1
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 24
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 104448000
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.07002887661323876
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/mpeg"
+              },
+              {
+                "name": "mpeg",
+                "value": [
+                  {
+                    "name": "video",
+                    "value": [
+                      {
+                        "name": "raw",
+                        "value": [
+                          {
+                            "name": "horizontal_size_value",
+                            "value": 1920
+                          },
+                          {
+                            "name": "vertical_size_value",
+                            "value": 1080
+                          },
+                          {
+                            "name": "aspect_ratio_information",
+                            "value": 1
+                          },
+                          {
+                            "name": "frame_rate_code",
+                            "value": 4
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 262143
+                          },
+                          {
+                            "name": "vbv_buffer_size",
+                            "value": 3
+                          },
+                          {
+                            "name": "constrained_param_flag",
+                            "value": false
+                          },
+                          {
+                            "name": "load_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "load_non_intra_quantiser_matrix",
+                            "value": false
+                          },
+                          {
+                            "name": "intra_quantiser_matrix",
+                            "value": [
+                              {
+                                "name": 0,
+                                "value": 130
+                              },
+                              {
+                                "name": 1,
+                                "value": 28
+                              },
+                              {
+                                "name": 2,
+                                "value": 10
+                              },
+                              {
+                                "name": 3,
+                                "value": 127
+                              },
+                              {
+                                "name": 4,
+                                "value": 255
+                              },
+                              {
+                                "name": 5,
+                                "value": 240
+                              },
+                              {
+                                "name": 6,
+                                "value": 12
+                              },
+                              {
+                                "name": 7,
+                                "value": 0
+                              },
+                              {
+                                "name": 8,
+                                "value": 0
+                              },
+                              {
+                                "name": 9,
+                                "value": 0
+                              },
+                              {
+                                "name": 10,
+                                "value": 220
+                              },
+                              {
+                                "name": 11,
+                                "value": 0
+                              },
+                              {
+                                "name": 12,
+                                "value": 4
+                              },
+                              {
+                                "name": 13,
+                                "value": 70
+                              },
+                              {
+                                "name": 14,
+                                "value": 0
+                              },
+                              {
+                                "name": 15,
+                                "value": 0
+                              },
+                              {
+                                "name": 16,
+                                "value": 0
+                              },
+                              {
+                                "name": 17,
+                                "value": 0
+                              },
+                              {
+                                "name": 18,
+                                "value": 128
+                              },
+                              {
+                                "name": 19,
+                                "value": 0
+                              },
+                              {
+                                "name": 20,
+                                "value": 7
+                              },
+                              {
+                                "name": 21,
+                                "value": 255
+                              },
+                              {
+                                "name": 22,
+                                "value": 252
+                              },
+                              {
+                                "name": 23,
+                                "value": 0
+                              },
+                              {
+                                "name": 24,
+                                "value": 0
+                              },
+                              {
+                                "name": 25,
+                                "value": 0
+                              },
+                              {
+                                "name": 26,
+                                "value": 128
+                              },
+                              {
+                                "name": 27,
+                                "value": 229
+                              },
+                              {
+                                "name": 28,
+                                "value": 252
+                              },
+                              {
+                                "name": 29,
+                                "value": 142
+                              },
+                              {
+                                "name": 30,
+                                "value": 50
+                              },
+                              {
+                                "name": 31,
+                                "value": 205
+                              },
+                              {
+                                "name": 32,
+                                "value": 109
+                              },
+                              {
+                                "name": 33,
+                                "value": 22
+                              },
+                              {
+                                "name": 34,
+                                "value": 209
+                              },
+                              {
+                                "name": 35,
+                                "value": 165
+                              },
+                              {
+                                "name": 36,
+                                "value": 39
+                              },
+                              {
+                                "name": 37,
+                                "value": 59
+                              },
+                              {
+                                "name": 38,
+                                "value": 147
+                              },
+                              {
+                                "name": 39,
+                                "value": 73
+                              },
+                              {
+                                "name": 40,
+                                "value": 52
+                              },
+                              {
+                                "name": 41,
+                                "value": 162
+                              },
+                              {
+                                "name": 42,
+                                "value": 228
+                              },
+                              {
+                                "name": 43,
+                                "value": 37
+                              },
+                              {
+                                "name": 44,
+                                "value": 172
+                              },
+                              {
+                                "name": 45,
+                                "value": 137
+                              },
+                              {
+                                "name": 46,
+                                "value": 90
+                              },
+                              {
+                                "name": 47,
+                                "value": 210
+                              },
+                              {
+                                "name": 48,
+                                "value": 52
+                              },
+                              {
+                                "name": 49,
+                                "value": 156
+                              },
+                              {
+                                "name": 50,
+                                "value": 236
+                              },
+                              {
+                                "name": 51,
+                                "value": 77
+                              },
+                              {
+                                "name": 52,
+                                "value": 9
+                              },
+                              {
+                                "name": 53,
+                                "value": 165
+                              },
+                              {
+                                "name": 54,
+                                "value": 43
+                              },
+                              {
+                                "name": 55,
+                                "value": 49
+                              },
+                              {
+                                "name": 56,
+                                "value": 140
+                              },
+                              {
+                                "name": 57,
+                                "value": 98
+                              },
+                              {
+                                "name": 58,
+                                "value": 45
+                              },
+                              {
+                                "name": 59,
+                                "value": 99
+                              },
+                              {
+                                "name": 60,
+                                "value": 74
+                              },
+                              {
+                                "name": 61,
+                                "value": 68
+                              },
+                              {
+                                "name": 62,
+                                "value": 172
+                              },
+                              {
+                                "name": 63,
+                                "value": 77
+                              }
+                            ]
+                          },
+                          {
+                            "name": "non_intra_quantiser_matrix",
+                            "value": [
+                              {
+                                "name": 0,
+                                "value": 224
+                              },
+                              {
+                                "name": 1,
+                                "value": 7
+                              },
+                              {
+                                "name": 2,
+                                "value": 250
+                              },
+                              {
+                                "name": 3,
+                                "value": 15
+                              },
+                              {
+                                "name": 4,
+                                "value": 255
+                              },
+                              {
+                                "name": 5,
+                                "value": 224
+                              },
+                              {
+                                "name": 6,
+                                "value": 24
+                              },
+                              {
+                                "name": 7,
+                                "value": 0
+                              },
+                              {
+                                "name": 8,
+                                "value": 0
+                              },
+                              {
+                                "name": 9,
+                                "value": 1
+                              },
+                              {
+                                "name": 10,
+                                "value": 184
+                              },
+                              {
+                                "name": 11,
+                                "value": 0
+                              },
+                              {
+                                "name": 12,
+                                "value": 8
+                              },
+                              {
+                                "name": 13,
+                                "value": 204
+                              },
+                              {
+                                "name": 14,
+                                "value": 0
+                              },
+                              {
+                                "name": 15,
+                                "value": 0
+                              },
+                              {
+                                "name": 16,
+                                "value": 0
+                              },
+                              {
+                                "name": 17,
+                                "value": 1
+                              },
+                              {
+                                "name": 18,
+                                "value": 0
+                              },
+                              {
+                                "name": 19,
+                                "value": 0
+                              },
+                              {
+                                "name": 20,
+                                "value": 15
+                              },
+                              {
+                                "name": 21,
+                                "value": 255
+                              },
+                              {
+                                "name": 22,
+                                "value": 248
+                              },
+                              {
+                                "name": 23,
+                                "value": 0
+                              },
+                              {
+                                "name": 24,
+                                "value": 0
+                              },
+                              {
+                                "name": 25,
+                                "value": 1
+                              },
+                              {
+                                "name": 26,
+                                "value": 1
+                              },
+                              {
+                                "name": 27,
+                                "value": 203
+                              },
+                              {
+                                "name": 28,
+                                "value": 248
+                              },
+                              {
+                                "name": 29,
+                                "value": 188
+                              },
+                              {
+                                "name": 30,
+                                "value": 242
+                              },
+                              {
+                                "name": 31,
+                                "value": 198
+                              },
+                              {
+                                "name": 32,
+                                "value": 210
+                              },
+                              {
+                                "name": 33,
+                                "value": 46
+                              },
+                              {
+                                "name": 34,
+                                "value": 75
+                              },
+                              {
+                                "name": 35,
+                                "value": 24
+                              },
+                              {
+                                "name": 36,
+                                "value": 68
+                              },
+                              {
+                                "name": 37,
+                                "value": 92
+                              },
+                              {
+                                "name": 38,
+                                "value": 140
+                              },
+                              {
+                                "name": 39,
+                                "value": 97
+                              },
+                              {
+                                "name": 40,
+                                "value": 17
+                              },
+                              {
+                                "name": 41,
+                                "value": 98
+                              },
+                              {
+                                "name": 42,
+                                "value": 148
+                              },
+                              {
+                                "name": 43,
+                                "value": 140
+                              },
+                              {
+                                "name": 44,
+                                "value": 69
+                              },
+                              {
+                                "name": 45,
+                                "value": 138
+                              },
+                              {
+                                "name": 46,
+                                "value": 70
+                              },
+                              {
+                                "name": 47,
+                                "value": 49
+                              },
+                              {
+                                "name": 48,
+                                "value": 43
+                              },
+                              {
+                                "name": 49,
+                                "value": 88
+                              },
+                              {
+                                "name": 50,
+                                "value": 198
+                              },
+                              {
+                                "name": 51,
+                                "value": 88
+                              },
+                              {
+                                "name": 52,
+                                "value": 139
+                              },
+                              {
+                                "name": 53,
+                                "value": 122
+                              },
+                              {
+                                "name": 54,
+                                "value": 73
+                              },
+                              {
+                                "name": 55,
+                                "value": 24
+                              },
+                              {
+                                "name": 56,
+                                "value": 139
+                              },
+                              {
+                                "name": 57,
+                                "value": 147
+                              },
+                              {
+                                "name": 58,
+                                "value": 66
+                              },
+                              {
+                                "name": 59,
+                                "value": 145
+                              },
+                              {
+                                "name": 60,
+                                "value": 23
+                              },
+                              {
+                                "name": 61,
+                                "value": 35
+                              },
+                              {
+                                "name": 62,
+                                "value": 44
+                              },
+                              {
+                                "name": 63,
+                                "value": 209
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "pixel_aspect_ratio",
+                        "value": 1
+                      },
+                      {
+                        "name": "pixel_aspect_ratio_text",
+                        "value": "square pixels"
+                      },
+                      {
+                        "name": "frame_rate",
+                        "value": 29.97
+                      },
+                      {
+                        "name": "bitrate_mode",
+                        "value": "vbr"
+                      },
+                      {
+                        "name": "bitrate",
+                        "value": 104448000
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 0.06673340006673341
+              },
+              {
+                "name": "bitrate",
+                "value": 104448000
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:00"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-03 14:05:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Football teams training at Cirillo Reserve in Middleton Grange, New South Wales",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cirillo Reserve, Middleton Grange|Self-published work|Files with coordinates missing SDC location of creation (34\u00b0 S, 150\u00b0 E)|Playing fields in Australia|December 2022 in Middleton Grange, New South Wales",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-33.916788",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "150.849075",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Football teams training at Cirillo Reserve in Middleton Grange, New South Wales",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris.sherlock2\" title=\"User:Chris.sherlock2\">Chris.sherlock2</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Chris.sherlock2\" title=\"User talk:Chris.sherlock2\"><span class=\"signature-talk\">talk</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "120427827": {
+        "pageid": 120427827,
+        "ns": 6,
+        "title": "File:Football training.webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12078002,
+            "width": 1280,
+            "height": 720,
+            "duration": 18.477,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Football_training.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Football_training.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120427827",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.21-202109171300"
+              },
+              {
+                "name": "filesize",
+                "value": 12078002
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 12078002
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 160000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "02",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 160000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.05668934240362812
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.05668934240362812
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.61
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "01",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.61
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 5069421
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 100"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.56.101"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.56.101"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 18.477
+              },
+              {
+                "name": "bitrate",
+                "value": 5229421
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:18"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-07-14 09:31:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Football training",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Anasskoko videos|NCPUG Videos|Audio and Video Edithathon in Wikimedia Commons (Videos)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Audio and Video Edithathon in Wikimedia Commons (Videos)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-06-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Anasskoko\" title=\"User:Anasskoko\">Anasskoko</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "82145476": {
+        "pageid": 82145476,
+        "ns": 6,
+        "title": "File:Football training video.webm",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8887088,
+            "width": 1920,
+            "height": 1080,
+            "duration": 14.143,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Football_training_video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Football_training_video.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82145476",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.17-201902071234"
+              },
+              {
+                "name": "filesize",
+                "value": 8887088
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 8887088
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 7
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 7
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 5026988.899102029
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [3 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 398"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "qt  "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "qt  "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.54.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Core Media Video"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:14.143000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 14.143
+              },
+              {
+                "name": "bitrate",
+                "value": 5026988.899102029
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:14"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-09-14 06:52:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Football training video",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Clay animation|Flickr images missing SDC creator|Flickr images missing SDC source of file|Videos of 2016|Uploaded with video2commons|Flickr videos reviewed by trusted users",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Stopmotion av Emil Aale H\u00e6germark",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/photos/132761058@N07/28856290003/\">Football training - Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/132761058@N07/\">Norsensus Mediaforum</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Norsensus Mediaforum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "77353630": {
+        "pageid": 77353630,
+        "ns": 6,
+        "title": "File:Girls football training.webm",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5572217,
+            "width": 1920,
+            "height": 1080,
+            "duration": 9.18,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Girls_football_training.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Girls_football_training.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77353630",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.17-201902071234"
+              },
+              {
+                "name": "filesize",
+                "value": 5572217
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 5572217
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 224000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 224000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.07291666666666667
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.07291666666666667
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "Display Aspect Ratio"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 90000.9
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "Display Aspect Ratio"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 90000.9
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 4631963
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [3 bytes]) at 100"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf54.20.4"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf54.20.4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 9.18
+              },
+              {
+                "name": "bitrate",
+                "value": 4855963
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:09"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-03-15 12:25:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Girls football training",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Women's sports|Self-published work|Videos from Sudan|Uploaded with videoconvert|Videos of association football|Files by User:Evworo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "girls football training",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-03-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Evworo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Evworo (page does not exist)\">Evworo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106214891": {
+        "pageid": 106214891,
+        "ns": 6,
+        "title": "File:Norsensus Mediaforum - Football training.webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7075511,
+            "width": 1920,
+            "height": 1080,
+            "duration": 14.133000000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Norsensus_Mediaforum_-_Football_training.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Norsensus_Mediaforum_-_Football_training.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106214891",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.20-202006061653"
+              },
+              {
+                "name": "filesize",
+                "value": 7075511
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 7075511
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 7.5
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "1634dee62359a9c0",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 7.5
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 4005100.6863369416
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 337"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.45.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.45.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.45.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.91.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:14.133000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 14.133000000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 4005100.6863369416
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:14"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-02 19:35:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Norsensus Mediaforum - Football training",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from external sources with reviewed licenses|Clay animation|Uploaded with video2commons|Video display resolution 1920 x 1080",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Stopmotion av Emil Aale H\u00e6germark",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/132761058@N07/28856290003/\">Football training - Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/132761058@N07/\">Norsensus Mediaforum</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Norsensus Mediaforum",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14761553": {
+        "pageid": 14761553,
+        "ns": 6,
+        "title": "File:Training Olympische voetballers Weeknummer 60-09 - Open Beelden - 56634.ogv",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10051905,
+            "width": 384,
+            "height": 288,
+            "duration": 88.08,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Training_Olympische_voetballers_Weeknummer_60-09_-_Open_Beelden_-_56634.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Training_Olympische_voetballers_Weeknummer_60-09_-_Open_Beelden_-_56634.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14761553",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 917293265,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 917293265
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.1 20090822 (Thusnelda)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 88.08
+                      },
+                      {
+                        "name": "size",
+                        "value": 9324062
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 22
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 18
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 352
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 288
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 50
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 2
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 12
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 11
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 159
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 2376
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 396
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.27"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "6c0c1f47c5964eff"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 1701595065,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 1701595065
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20070622"
+                      },
+                      {
+                        "name": "length",
+                        "value": 87.43183673469387
+                      },
+                      {
+                        "name": "size",
+                        "value": 726832
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 80000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.27"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "6c0c1f47c5964eff"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 88.08
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-04-01 21:48:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Training Olympische voetballers Weeknummer 60-09 - Open Beelden - 56634",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Association football in the Netherlands|Alexander Schwartz|Media from Open Beelden|Video display resolution 384 x 288",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Newsreels in which Dutch subjects of a certain week are presented.\nPractice in Amsterdam of the Dutch amateur team for the Olympic Games, led by national coach Elek Schwartz.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1960-02-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/56634/\">519788 at Open Beelden</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 nl",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 nl",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/56634/Training_Olympische_voetballers\">Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-nl",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

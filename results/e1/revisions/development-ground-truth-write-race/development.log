@@ -1,0 +1,28 @@
+development 20 / 378 wall_s 51
+development 40 / 378 wall_s 102
+development 60 / 378 wall_s 135
+development 80 / 378 wall_s 166
+development 100 / 378 wall_s 218
+development 120 / 378 wall_s 306
+development 140 / 378 wall_s 360
+development 160 / 378 wall_s 390
+development 180 / 378 wall_s 431
+development 200 / 378 wall_s 499
+development 220 / 378 wall_s 561
+development 240 / 378 wall_s 589
+development 260 / 378 wall_s 635
+development 280 / 378 wall_s 703
+development 300 / 378 wall_s 775
+development 320 / 378 wall_s 806
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\SuperAdmin\.vscode\cliptrace-e1\cliptrace-e1\src\cliptrace_e1\e1_run.py", line 272, in <module>
+    else: score_partition(args.stage)
+          ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\SuperAdmin\.vscode\cliptrace-e1\cliptrace-e1\src\cliptrace_e1\e1_run.py", line 106, in score_partition
+    finished_generation={r['candidate_id']:r for r in verify(OUT/'ground-truth.json')['records']}
+                                                      ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SuperAdmin\.vscode\cliptrace-e1\cliptrace-e1\src\cliptrace_e1\e1_common.py", line 32, in verify
+    raise ValueError(f'Hash mismatch: {path}')
+ValueError: Hash mismatch: C:\Users\SuperAdmin\.vscode\cliptrace-e1\cliptrace-e1\results\e1\ground-truth.json

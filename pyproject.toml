@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "CLIPTRACE-E1 experimental harness for video derivation matching"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { text = "Apache-2.0" }
 dependencies = [
     "numpy>=1.24",
     "Pillow>=10.0",
@@ -17,13 +17,19 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=7.4"]
+dev = ["pytest>=7.4", "numpy>=2.0", "opencv-python-headless>=4.8", "scipy>=1.10", "psutil>=5.9"]
+e1 = ["numpy>=2.0", "opencv-python-headless>=4.8", "scipy>=1.10", "psutil>=5.9"]
+mvp = ["numpy>=2.0", "opencv-python-headless>=4.8", "scipy>=1.10", "psutil>=5.9", "fastapi>=0.100", "uvicorn>=0.20", "cryptography>=41", "python-multipart>=0.0.9"]
 
 [project.scripts]
 cliptrace-e1 = "cliptrace_e1.cli:main"
+cliptrace = "cliptrace_mvp.web:run"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-data]
+cliptrace_mvp = ["static/*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

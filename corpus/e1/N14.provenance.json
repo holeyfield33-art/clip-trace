@@ -1,0 +1,101 @@
+{
+  "asset_id": "N14",
+  "partition": "evaluation",
+  "category": "talking_head",
+  "role": "negative",
+  "identity_group": "commons:146967456",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm",
+  "source_title": "File:Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm/Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm.480p.vp9.webm",
+  "download_sha256": "19279f65405b79ee6c572aa18560773ab869ccc3c9cda7fb21d25b39696f6e83",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Suyash.dwivedi\" title=\"User:Suyash.dwivedi\">Suyash Dwivedi</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2024-03-31 22:35:23",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "People of India|Videos by User:Suyash.dwivedi|Self-published work|Images from Wiki Loves Folklore 2024|Images from Wiki Loves Folklore 2024 in India|Images from Wiki Loves Folklore 2024 to check|Uploaded via Campaign:wlf 2024|Videos from Wiki Loves Folklore 2024",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2023-07-22",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Suyash.dwivedi\" title=\"User:Suyash.dwivedi\">Suyash Dwivedi</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N14.mp4",
+  "sha256": "2af58dd9fb3d1bc031906be53feca8d1085065619f8c4c10d72d2a01a0f4bfa0",
+  "status": "ready"
+}

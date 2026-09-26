@@ -1,0 +1,18 @@
+{
+  "acquisition": "self-created",
+  "asset_id": "S11",
+  "audio_note": "self-created synthetic waveform or silence",
+  "category": "low_visual_high_audio",
+  "duration_s": 48,
+  "identity_group": "self-created:S11",
+  "license": "CC0-1.0",
+  "original_has_audio": true,
+  "partition": "calibration",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S11.mp4",
+  "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+  "role": "source",
+  "sha256": "82e27b741f3c1471ef12630a5def24afebb677295cd419440d6233d8d8a33bcb",
+  "status": "ready",
+  "transcript": "A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. ",
+  "voice": "Microsoft David Desktop"
+}

@@ -1,0 +1,106 @@
+{
+  "asset_id": "N02",
+  "partition": "development",
+  "category": "talking_head",
+  "role": "negative",
+  "identity_group": "commons:152397191",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm",
+  "source_title": "File:Interview on extreme weather with physical geographer Hannah Cloke \u2013 The Royal Society.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm/Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm.480p.vp9.webm",
+  "download_sha256": "4ddc7306f8969265cb336b3fbd4685120d354d80c6bcd1e51e007308b87bf5d0",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@royalsociety\">The Royal Society</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2024-09-08 21:20:43",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Interview on extreme weather with physical geographer Hannah Cloke \u2013 The Royal Society",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Roma Agrawal|Hannah Cloke|Files from external sources with reviewed licenses|Extreme weather events|Videos from YouTube|Media of the day|Uploaded with video2commons|Videos of climate change|Scientist interview videos|Videos by The Royal Society|Videos of scientists in the 2020s|Global heating|Videos uploaded by Prototyperspective",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Roma Agrawal speaks to physical geographer Hannah Cloke about her work in flood prevention and how global heating is causing extreme weather disasters around the world.\nThe Royal Society is a Fellowship of many of the world's most eminent scientists and is the oldest scientific academy in continuous existence.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2023-09-01",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=t1Xh_fh3FbU\"><bdi lang=\"\">Extreme weather with Hannah Cloke | The Royal Society</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=t1Xh_fh3FbU\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@royalsociety\">The Royal Society</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "The Royal Society",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N02.mp4",
+  "sha256": "7f7818927226d9f4f207237d5c71973e7d199239df07d4eb0a996d28bdc4bdf8",
+  "status": "ready"
+}

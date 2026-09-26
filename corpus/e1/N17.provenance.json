@@ -1,0 +1,101 @@
+{
+  "asset_id": "N17",
+  "partition": "evaluation",
+  "category": "stock_broll",
+  "role": "negative",
+  "identity_group": "commons:161729092",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_a_10,000_hectares_of_rice_farm.webm",
+  "source_title": "File:An aerial view of a 10,000 hectares of rice farm.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/An_aerial_view_of_a_10%2C000_hectares_of_rice_farm.webm/An_aerial_view_of_a_10%2C000_hectares_of_rice_farm.webm.480p.vp9.webm",
+  "download_sha256": "345a8fb8244da89df0b4836b9719688999a1690806ec6a377684506eb8b81713",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ahbeegyd\" title=\"User:Ahbeegyd\">Ahbeegyd</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2025-03-11 12:19:16",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "An aerial view of a 10,000 hectares of rice farm",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "CC-Zero|Self-published work|Images from Wiki Loves Africa 2025|Videos from Wiki Loves Africa 2025|Clip Videos from Wiki Loves Africa 2025|Winners of Wiki Loves Africa 2025 in Africa|Best videos from Wiki Loves Africa 2025|Wiki Loves Africa 2025 winning pictures",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "This 59-second video showcases the farm's landscape.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2025-03-01",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ahbeegyd\" title=\"User:Ahbeegyd\">Ahbeegyd</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Zero, Public Domain Dedication",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N17.mp4",
+  "sha256": "0262312f519e753ba80c3d26b48f416170b8f19f19dd497423f6f87c0a5a7d3f",
+  "status": "ready"
+}

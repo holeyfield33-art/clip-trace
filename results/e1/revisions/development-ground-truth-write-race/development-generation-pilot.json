@@ -1,0 +1,3741 @@
+[
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00000",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00000.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "trim",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00000.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "927838526d7fba74b7dbd3eee851414a5001f353315899d0203b081f970ffd27",
+    "size_bytes": 1262265,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "trim",
+    "visual_ancestry": true,
+    "wall_s": 1.6963396999999532
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00001",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "35",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00001.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "h264_q35",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00001.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "27e1f33370710c78767da8316df1f9baec26cb164de9adfce152e22f8ada012a",
+    "size_bytes": 468257,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "h264_q35",
+    "visual_ancestry": true,
+    "wall_s": 1.0248893000007229
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00002",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "crop=trunc(iw*0.75/2)*2:trunc(ih*0.75/2)*2",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00002.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "crop25",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00002.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "85d5d55b7b2cea025a23b9b7c236839a19e0675e977ac78786660b05948c094d",
+    "size_bytes": 861959,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "crop25",
+    "visual_ancestry": true,
+    "wall_s": 1.0769076999995377
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00003",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          8.25
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "setpts=PTS/1.25",
+      "-af",
+      "atempo=1.25",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00003.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "speed125",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00003.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "14646bdca2c99e3432d08609efdb1121c26a143e2d2978db4c9277e6723b2c80",
+    "size_bytes": 1315518,
+    "source_intervals_s": [
+      [
+        2.0,
+        8.25
+      ]
+    ],
+    "speed": 1.25,
+    "status": "evaluated",
+    "transform": "speed125",
+    "visual_ancestry": true,
+    "wall_s": 1.5789109000006647
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": false,
+    "candidate_id": "P00004",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-f",
+      "lavfi",
+      "-i",
+      "anoisesrc=color=pink:amplitude=0.15:seed=4:r=16000:d=5",
+      "-map",
+      "0:v",
+      "-map",
+      "1:a",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00004.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "audio_replace",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00004.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "c0b40b6626ca4a1ae0c0a2d78b105b7f84313b6f82d7a1595d8910b6da220e5b",
+    "size_bytes": 1262151,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "audio_replace",
+    "visual_ancestry": true,
+    "wall_s": 1.5750450000005003
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00005",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "subtitles",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00005.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "failed",
+    "transform": "subtitles",
+    "visual_ancestry": true,
+    "wall_s": 11.248781100000087
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00006",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "pad=iw:ih+120:0:60:black",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00006.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "letterbox",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00006.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "7ed0ef221d3da3792a81f31c9e6719e34279d19bf5bd1af8bb16897f9bda8bda",
+    "size_bytes": 1488569,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "letterbox",
+    "visual_ancestry": true,
+    "wall_s": 1.8142928999996002
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00007",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          5.75
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "setpts=PTS/0.75",
+      "-af",
+      "atempo=0.75",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00007.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "speed075",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00007.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "a7f2aa0a0f5152c7d239faa542d72c076c31225b7ccc324b6f9d2a054c215257",
+    "size_bytes": 1251811,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.75
+      ]
+    ],
+    "speed": 0.75,
+    "status": "evaluated",
+    "transform": "speed075",
+    "visual_ancestry": true,
+    "wall_s": 1.3104316999997536
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00008",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          9.5
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "setpts=PTS/1.5",
+      "-af",
+      "atempo=1.5",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00008.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "speed150",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00008.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "9ec6b95d2c13937fdf266bdb318ad6316666ba6034d657c84b0c40a741191e6b",
+    "size_bytes": 1460014,
+    "source_intervals_s": [
+      [
+        2.0,
+        9.5
+      ]
+    ],
+    "speed": 1.5,
+    "status": "evaluated",
+    "transform": "speed150",
+    "visual_ancestry": true,
+    "wall_s": 1.6307363000005353
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00009",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.5
+        ],
+        "source": [
+          6.5,
+          9.0
+        ]
+      },
+      {
+        "candidate": [
+          2.5,
+          5.0
+        ],
+        "source": [
+          2.0,
+          4.5
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-filter_complex",
+      "[0:v]trim=start=6.5:end=9.0,setpts=PTS-STARTPTS[v0];[0:a]atrim=start=6.5:end=9.0,asetpts=PTS-STARTPTS[a0];[0:v]trim=start=2.0:end=4.5,setpts=PTS-STARTPTS[v1];[0:a]atrim=start=2.0:end=4.5,asetpts=PTS-STARTPTS[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]",
+      "-map",
+      "[v]",
+      "-map",
+      "[a]",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00009.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "reordered",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00009.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "2603c9b40ddeb9adcdc0be782fe6b1d1696bb93cfb05e142e98cd50bf278f32c",
+    "size_bytes": 1476306,
+    "source_intervals_s": [
+      [
+        6.5,
+        9.0
+      ],
+      [
+        2.0,
+        4.5
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "reordered",
+    "visual_ancestry": true,
+    "wall_s": 2.529122599999937
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00010",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.5
+        ],
+        "source": [
+          2.0,
+          4.5
+        ]
+      },
+      {
+        "candidate": [
+          2.5,
+          5.0
+        ],
+        "source": [
+          26.0,
+          28.5
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-filter_complex",
+      "[0:v]trim=start=2.0:end=4.5,setpts=PTS-STARTPTS[v0];[0:a]atrim=start=2.0:end=4.5,asetpts=PTS-STARTPTS[a0];[0:v]trim=start=26.0:end=28.5,setpts=PTS-STARTPTS[v1];[0:a]atrim=start=26.0:end=28.5,asetpts=PTS-STARTPTS[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]",
+      "-map",
+      "[v]",
+      "-map",
+      "[a]",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00010.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "discontinuous",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00010.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "db0a6b296f17eae3466b1691692d0c8d9318cf4e40ec7cfd0014ff40b05a58b0",
+    "size_bytes": 1447368,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.5
+      ],
+      [
+        26.0,
+        28.5
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "discontinuous",
+    "visual_ancestry": true,
+    "wall_s": 3.7168480000000272
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00011",
+    "category": "vertical_talking_head",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S14",
+    "family": "TEMPORAL",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          0.08333333333333333
+        ],
+        "source": [
+          2.0,
+          2.0833333333333335
+        ]
+      },
+      {
+        "candidate": [
+          0.08333333333333333,
+          0.16666666666666666
+        ],
+        "source": [
+          2.0,
+          2.0833333333333335
+        ]
+      },
+      {
+        "candidate": [
+          0.16666666666666666,
+          0.25
+        ],
+        "source": [
+          2.1666666666666665,
+          2.25
+        ]
+      },
+      {
+        "candidate": [
+          0.25,
+          0.3333333333333333
+        ],
+        "source": [
+          2.25,
+          2.3333333333333335
+        ]
+      },
+      {
+        "candidate": [
+          0.3333333333333333,
+          0.4166666666666667
+        ],
+        "source": [
+          2.3333333333333335,
+          2.4166666666666665
+        ]
+      },
+      {
+        "candidate": [
+          0.4166666666666667,
+          0.5
+        ],
+        "source": [
+          2.3333333333333335,
+          2.4166666666666665
+        ]
+      },
+      {
+        "candidate": [
+          0.5,
+          0.5833333333333334
+        ],
+        "source": [
+          2.5,
+          2.5833333333333335
+        ]
+      },
+      {
+        "candidate": [
+          0.5833333333333334,
+          0.6666666666666666
+        ],
+        "source": [
+          2.5833333333333335,
+          2.6666666666666665
+        ]
+      },
+      {
+        "candidate": [
+          0.6666666666666666,
+          0.75
+        ],
+        "source": [
+          2.6666666666666665,
+          2.75
+        ]
+      },
+      {
+        "candidate": [
+          0.75,
+          0.8333333333333334
+        ],
+        "source": [
+          2.6666666666666665,
+          2.75
+        ]
+      },
+      {
+        "candidate": [
+          0.8333333333333334,
+          0.9166666666666666
+        ],
+        "source": [
+          2.8333333333333335,
+          2.9166666666666665
+        ]
+      },
+      {
+        "candidate": [
+          0.9166666666666666,
+          1.0
+        ],
+        "source": [
+          2.9166666666666665,
+          3.0
+        ]
+      },
+      {
+        "candidate": [
+          1.0,
+          1.0833333333333333
+        ],
+        "source": [
+          3.0,
+          3.083333333333333
+        ]
+      },
+      {
+        "candidate": [
+          1.0833333333333333,
+          1.1666666666666667
+        ],
+        "source": [
+          3.0,
+          3.083333333333333
+        ]
+      },
+      {
+        "candidate": [
+          1.1666666666666667,
+          1.25
+        ],
+        "source": [
+          3.166666666666667,
+          3.25
+        ]
+      },
+      {
+        "candidate": [
+          1.25,
+          1.3333333333333333
+        ],
+        "source": [
+          3.25,
+          3.333333333333333
+        ]
+      },
+      {
+        "candidate": [
+          1.3333333333333333,
+          1.4166666666666667
+        ],
+        "source": [
+          3.333333333333333,
+          3.416666666666667
+        ]
+      },
+      {
+        "candidate": [
+          1.4166666666666667,
+          1.5
+        ],
+        "source": [
+          3.333333333333333,
+          3.416666666666667
+        ]
+      },
+      {
+        "candidate": [
+          1.5,
+          1.5833333333333333
+        ],
+        "source": [
+          3.5,
+          3.583333333333333
+        ]
+      },
+      {
+        "candidate": [
+          1.5833333333333333,
+          1.6666666666666667
+        ],
+        "source": [
+          3.583333333333333,
+          3.666666666666667
+        ]
+      },
+      {
+        "candidate": [
+          1.6666666666666667,
+          1.75
+        ],
+        "source": [
+          3.666666666666667,
+          3.75
+        ]
+      },
+      {
+        "candidate": [
+          1.75,
+          1.8333333333333333
+        ],
+        "source": [
+          3.666666666666667,
+          3.75
+        ]
+      },
+      {
+        "candidate": [
+          1.8333333333333333,
+          1.9166666666666667
+        ],
+        "source": [
+          3.833333333333333,
+          3.916666666666667
+        ]
+      },
+      {
+        "candidate": [
+          1.9166666666666667,
+          2.0
+        ],
+        "source": [
+          3.916666666666667,
+          4.0
+        ]
+      },
+      {
+        "candidate": [
+          2.0,
+          2.0833333333333335
+        ],
+        "source": [
+          4.0,
+          4.083333333333334
+        ]
+      },
+      {
+        "candidate": [
+          2.0833333333333335,
+          2.1666666666666665
+        ],
+        "source": [
+          4.0,
+          4.083333333333334
+        ]
+      },
+      {
+        "candidate": [
+          2.1666666666666665,
+          2.25
+        ],
+        "source": [
+          4.166666666666666,
+          4.25
+        ]
+      },
+      {
+        "candidate": [
+          2.25,
+          2.3333333333333335
+        ],
+        "source": [
+          4.25,
+          4.333333333333334
+        ]
+      },
+      {
+        "candidate": [
+          2.3333333333333335,
+          2.4166666666666665
+        ],
+        "source": [
+          4.333333333333334,
+          4.416666666666666
+        ]
+      },
+      {
+        "candidate": [
+          2.4166666666666665,
+          2.5
+        ],
+        "source": [
+          4.333333333333334,
+          4.416666666666666
+        ]
+      },
+      {
+        "candidate": [
+          2.5,
+          2.5833333333333335
+        ],
+        "source": [
+          4.5,
+          4.583333333333334
+        ]
+      },
+      {
+        "candidate": [
+          2.5833333333333335,
+          2.6666666666666665
+        ],
+        "source": [
+          4.583333333333334,
+          4.666666666666666
+        ]
+      },
+      {
+        "candidate": [
+          2.6666666666666665,
+          2.75
+        ],
+        "source": [
+          4.666666666666666,
+          4.75
+        ]
+      },
+      {
+        "candidate": [
+          2.75,
+          2.8333333333333335
+        ],
+        "source": [
+          4.666666666666666,
+          4.75
+        ]
+      },
+      {
+        "candidate": [
+          2.8333333333333335,
+          2.9166666666666665
+        ],
+        "source": [
+          4.833333333333334,
+          4.916666666666666
+        ]
+      },
+      {
+        "candidate": [
+          2.9166666666666665,
+          3.0
+        ],
+        "source": [
+          4.916666666666666,
+          5.0
+        ]
+      },
+      {
+        "candidate": [
+          3.0,
+          3.0833333333333335
+        ],
+        "source": [
+          5.0,
+          5.083333333333334
+        ]
+      },
+      {
+        "candidate": [
+          3.0833333333333335,
+          3.1666666666666665
+        ],
+        "source": [
+          5.0,
+          5.083333333333334
+        ]
+      },
+      {
+        "candidate": [
+          3.1666666666666665,
+          3.25
+        ],
+        "source": [
+          5.166666666666666,
+          5.25
+        ]
+      },
+      {
+        "candidate": [
+          3.25,
+          3.3333333333333335
+        ],
+        "source": [
+          5.25,
+          5.333333333333334
+        ]
+      },
+      {
+        "candidate": [
+          3.3333333333333335,
+          3.4166666666666665
+        ],
+        "source": [
+          5.333333333333334,
+          5.416666666666666
+        ]
+      },
+      {
+        "candidate": [
+          3.4166666666666665,
+          3.5
+        ],
+        "source": [
+          5.333333333333334,
+          5.416666666666666
+        ]
+      },
+      {
+        "candidate": [
+          3.5,
+          3.5833333333333335
+        ],
+        "source": [
+          5.5,
+          5.583333333333334
+        ]
+      },
+      {
+        "candidate": [
+          3.5833333333333335,
+          3.6666666666666665
+        ],
+        "source": [
+          5.583333333333334,
+          5.666666666666666
+        ]
+      },
+      {
+        "candidate": [
+          3.6666666666666665,
+          3.75
+        ],
+        "source": [
+          5.666666666666666,
+          5.75
+        ]
+      },
+      {
+        "candidate": [
+          3.75,
+          3.8333333333333335
+        ],
+        "source": [
+          5.666666666666666,
+          5.75
+        ]
+      },
+      {
+        "candidate": [
+          3.8333333333333335,
+          3.9166666666666665
+        ],
+        "source": [
+          5.833333333333334,
+          5.916666666666666
+        ]
+      },
+      {
+        "candidate": [
+          3.9166666666666665,
+          4.0
+        ],
+        "source": [
+          5.916666666666666,
+          6.0
+        ]
+      },
+      {
+        "candidate": [
+          4.0,
+          4.083333333333333
+        ],
+        "source": [
+          6.0,
+          6.083333333333333
+        ]
+      },
+      {
+        "candidate": [
+          4.083333333333333,
+          4.166666666666667
+        ],
+        "source": [
+          6.0,
+          6.083333333333333
+        ]
+      },
+      {
+        "candidate": [
+          4.166666666666667,
+          4.25
+        ],
+        "source": [
+          6.166666666666667,
+          6.25
+        ]
+      },
+      {
+        "candidate": [
+          4.25,
+          4.333333333333333
+        ],
+        "source": [
+          6.25,
+          6.333333333333333
+        ]
+      },
+      {
+        "candidate": [
+          4.333333333333333,
+          4.416666666666667
+        ],
+        "source": [
+          6.333333333333333,
+          6.416666666666667
+        ]
+      },
+      {
+        "candidate": [
+          4.416666666666667,
+          4.5
+        ],
+        "source": [
+          6.333333333333333,
+          6.416666666666667
+        ]
+      },
+      {
+        "candidate": [
+          4.5,
+          4.583333333333333
+        ],
+        "source": [
+          6.5,
+          6.583333333333333
+        ]
+      },
+      {
+        "candidate": [
+          4.583333333333333,
+          4.666666666666667
+        ],
+        "source": [
+          6.583333333333333,
+          6.666666666666667
+        ]
+      },
+      {
+        "candidate": [
+          4.666666666666667,
+          4.75
+        ],
+        "source": [
+          6.666666666666667,
+          6.75
+        ]
+      },
+      {
+        "candidate": [
+          4.75,
+          4.833333333333333
+        ],
+        "source": [
+          6.666666666666667,
+          6.75
+        ]
+      },
+      {
+        "candidate": [
+          4.833333333333333,
+          4.916666666666667
+        ],
+        "source": [
+          6.833333333333333,
+          6.916666666666667
+        ]
+      },
+      {
+        "candidate": [
+          4.916666666666667,
+          5
+        ],
+        "source": [
+          6.916666666666667,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S14.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "shuffleframes=0 0 2 3",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00011.mp4"
+    ],
+    "identity": "S14",
+    "interactions": [
+      "frame_insert_delete",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00011.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "01104f2ddaa3243ba3c1392c4b88a97231f4d0dcb9a0d36652fb43bfc183e056",
+    "size_bytes": 577563,
+    "source_intervals_s": [
+      [
+        2.0,
+        2.0833333333333335
+      ],
+      [
+        2.0,
+        2.0833333333333335
+      ],
+      [
+        2.1666666666666665,
+        2.25
+      ],
+      [
+        2.25,
+        2.3333333333333335
+      ],
+      [
+        2.3333333333333335,
+        2.4166666666666665
+      ],
+      [
+        2.3333333333333335,
+        2.4166666666666665
+      ],
+      [
+        2.5,
+        2.5833333333333335
+      ],
+      [
+        2.5833333333333335,
+        2.6666666666666665
+      ],
+      [
+        2.6666666666666665,
+        2.75
+      ],
+      [
+        2.6666666666666665,
+        2.75
+      ],
+      [
+        2.8333333333333335,
+        2.9166666666666665
+      ],
+      [
+        2.9166666666666665,
+        3.0
+      ],
+      [
+        3.0,
+        3.083333333333333
+      ],
+      [
+        3.0,
+        3.083333333333333
+      ],
+      [
+        3.166666666666667,
+        3.25
+      ],
+      [
+        3.25,
+        3.333333333333333
+      ],
+      [
+        3.333333333333333,
+        3.416666666666667
+      ],
+      [
+        3.333333333333333,
+        3.416666666666667
+      ],
+      [
+        3.5,
+        3.583333333333333
+      ],
+      [
+        3.583333333333333,
+        3.666666666666667
+      ],
+      [
+        3.666666666666667,
+        3.75
+      ],
+      [
+        3.666666666666667,
+        3.75
+      ],
+      [
+        3.833333333333333,
+        3.916666666666667
+      ],
+      [
+        3.916666666666667,
+        4.0
+      ],
+      [
+        4.0,
+        4.083333333333334
+      ],
+      [
+        4.0,
+        4.083333333333334
+      ],
+      [
+        4.166666666666666,
+        4.25
+      ],
+      [
+        4.25,
+        4.333333333333334
+      ],
+      [
+        4.333333333333334,
+        4.416666666666666
+      ],
+      [
+        4.333333333333334,
+        4.416666666666666
+      ],
+      [
+        4.5,
+        4.583333333333334
+      ],
+      [
+        4.583333333333334,
+        4.666666666666666
+      ],
+      [
+        4.666666666666666,
+        4.75
+      ],
+      [
+        4.666666666666666,
+        4.75
+      ],
+      [
+        4.833333333333334,
+        4.916666666666666
+      ],
+      [
+        4.916666666666666,
+        5.0
+      ],
+      [
+        5.0,
+        5.083333333333334
+      ],
+      [
+        5.0,
+        5.083333333333334
+      ],
+      [
+        5.166666666666666,
+        5.25
+      ],
+      [
+        5.25,
+        5.333333333333334
+      ],
+      [
+        5.333333333333334,
+        5.416666666666666
+      ],
+      [
+        5.333333333333334,
+        5.416666666666666
+      ],
+      [
+        5.5,
+        5.583333333333334
+      ],
+      [
+        5.583333333333334,
+        5.666666666666666
+      ],
+      [
+        5.666666666666666,
+        5.75
+      ],
+      [
+        5.666666666666666,
+        5.75
+      ],
+      [
+        5.833333333333334,
+        5.916666666666666
+      ],
+      [
+        5.916666666666666,
+        6.0
+      ],
+      [
+        6.0,
+        6.083333333333333
+      ],
+      [
+        6.0,
+        6.083333333333333
+      ],
+      [
+        6.166666666666667,
+        6.25
+      ],
+      [
+        6.25,
+        6.333333333333333
+      ],
+      [
+        6.333333333333333,
+        6.416666666666667
+      ],
+      [
+        6.333333333333333,
+        6.416666666666667
+      ],
+      [
+        6.5,
+        6.583333333333333
+      ],
+      [
+        6.583333333333333,
+        6.666666666666667
+      ],
+      [
+        6.666666666666667,
+        6.75
+      ],
+      [
+        6.666666666666667,
+        6.75
+      ],
+      [
+        6.833333333333333,
+        6.916666666666667
+      ],
+      [
+        6.916666666666667,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "frame_insert_delete",
+    "visual_ancestry": true,
+    "wall_s": 0.737139500000012
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00012",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "logo",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00012.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "failed",
+    "transform": "logo",
+    "visual_ancestry": true,
+    "wall_s": 7.097485700000107
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00013",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "[AVFilterGraph @ 000001a33e971fc0] No option name near '):fontsize=42:fontcolor=white:x=(w-text_w)/2:y=h/2'\r\n[AVFilterGraph @ 000001a33e971fc0] Error parsing a filter description around: \r\n[AVFilterGraph @ 000001a33e971fc0] Error parsing filterchain 'drawbox=x=iw/4:y=ih/3:w=iw/2:h=ih/3:color=black@0.9:t=fill,drawtext=text='WATCH THIS :)':fontsize=42:fontcolor=white:x=(w-text_w)/2:y=h/2' around: \r\nError opening output file C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00013.mp4.\r\nError opening output files: Invalid argument\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "central_text",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00013.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "failed",
+    "transform": "central_text",
+    "visual_ancestry": true,
+    "wall_s": 0.10240299999986746
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00014",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "picture_in_picture",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00014.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "failed",
+    "transform": "picture_in_picture",
+    "visual_ancestry": true,
+    "wall_s": 6.494684300000699
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00015",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "error": "Fontconfig error: Cannot load default config file: No such file: (null)\r\n",
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "OVERLAY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "reaction_layout",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00015.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "failed",
+    "transform": "reaction_layout",
+    "visual_ancestry": true,
+    "wall_s": 6.789329600000201
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00016",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-af",
+      "adelay=1500",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00016.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "audio_offset",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00016.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "34396078d2ee270d13afe95a71a522ae9869a710a7c10177534dd72524c37c13",
+    "size_bytes": 563387,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "audio_offset",
+    "visual_ancestry": true,
+    "wall_s": 1.0188670999996248
+  },
+  {
+    "actual_duration_s": 2.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00017",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          2.0
+        ],
+        "source": [
+          2.0,
+          4.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-af",
+      "asetrate=16000*1.122462048309373,aresample=16000,atempo=0.8908987181403393",
+      "-t",
+      "2",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00017.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "pitch_up2",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 2,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00017.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "49c1260dead30d074134ef08bcc86778f7934b47981936ea478388ca7cbc1ba5",
+    "size_bytes": 576163,
+    "source_intervals_s": [
+      [
+        2.0,
+        4.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "pitch_up2",
+    "visual_ancestry": true,
+    "wall_s": 0.7473563000003196
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00018",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-f",
+      "lavfi",
+      "-i",
+      "aevalsrc=0.15*sin(2*PI*330*t)+0.1*sin(2*PI*440*t):s=16000:d=3",
+      "-filter_complex",
+      "[0:a][1:a]amix=inputs=2:duration=first:normalize=0[a]",
+      "-map",
+      "0:v",
+      "-map",
+      "[a]",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00018.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "music_overlay",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00018.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "14b012d7965ed7f7e1f98b566140d68946b557a9500f4edb5ffa08eac193d280",
+    "size_bytes": 790827,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "music_overlay",
+    "visual_ancestry": true,
+    "wall_s": 0.6604537999992317
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00019",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-f",
+      "lavfi",
+      "-i",
+      "anoisesrc=color=white:amplitude=0.025:seed=19:r=16000:d=3",
+      "-filter_complex",
+      "[0:a][1:a]amix=inputs=2:duration=first:normalize=0,acompressor=threshold=0.1:ratio=4[a]",
+      "-map",
+      "0:v",
+      "-map",
+      "[a]",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00019.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "noise_compression",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00019.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "f4deea24b7c3538c0cd5d486a1bf4db2c1ef6a22c91070aaaf88d2c882a77902",
+    "size_bytes": 790716,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "noise_compression",
+    "visual_ancestry": true,
+    "wall_s": 0.6282334999996237
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00020",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AUDIO",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-filter_complex",
+      "[0:a]asplit=2[x][y];[x]atrim=0:1,asetpts=PTS-STARTPTS[a0];anullsrc=r=16000:cl=mono,atrim=0:1[a1];[y]atrim=start=1,asetpts=PTS-STARTPTS[a2];[a0][a1][a2]concat=n=3:v=0:a=1[a]",
+      "-map",
+      "0:v",
+      "-map",
+      "[a]",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00020.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "silence_insertion",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00020.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "0bbc1bca073a84eb869fa7041c1b37ce62a59bfa8a0acf07a3a149f7e207072f",
+    "size_bytes": 783720,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "silence_insertion",
+    "visual_ancestry": true,
+    "wall_s": 0.6435701000000336
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00021",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "CAPTURE",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "screen_recording",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00021.mp4",
+    "reason": "No authorized native capture surface / physical camera; no simulation mislabeled as capture.",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "unsupported",
+    "transform": "screen_recording",
+    "visual_ancestry": true,
+    "wall_s": 0.0
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "P00022",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "CAPTURE",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "identity": "S02",
+    "interactions": [
+      "film_monitor",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00022.mp4",
+    "reason": "No authorized native capture surface / physical camera; no simulation mislabeled as capture.",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": null,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "unsupported",
+    "transform": "film_monitor",
+    "visual_ancestry": true,
+    "wall_s": 0.0
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00023",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AI_LIGHT",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=iw/2:ih/2,scale=iw*2:ih*2:flags=lanczos",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00023.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "upscale_lanczos",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00023.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "acb0076a9ef08d7e61c00328270aafb84cbfbc01f4067937b1034f3100a547e2",
+    "size_bytes": 663167,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "upscale_lanczos",
+    "visual_ancestry": true,
+    "wall_s": 0.7241280999996889
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00024",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AI_LIGHT",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "minterpolate=fps=24:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00024.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "frame_interpolation",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00024.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "f9a7dc8354ea16da89bb5bf179ab92f7f793fb5a27d13dac27a7cea84fd9a254",
+    "size_bytes": 1571141,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "frame_interpolation",
+    "visual_ancestry": true,
+    "wall_s": 37.21249420000004
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00025",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "AI_LIGHT",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "hqdn3d=4:3:6:4.5",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00025.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "denoise",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00025.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "0f3ae44285790a532a4a02feb135815cf959e5b8a41860e582578329bd641b57",
+    "size_bytes": 1224011,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "denoise",
+    "visual_ancestry": true,
+    "wall_s": 0.7732863000001089
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00026",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "18",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00026.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "h264_q18",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00026.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "fae829662ac14d0b5cbd970078c1d1f317c92cfd21510c7d42e9877be8419f33",
+    "size_bytes": 2616763,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "h264_q18",
+    "visual_ancestry": true,
+    "wall_s": 1.1557509999993272
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00027",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "42",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00027.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "h264_q42",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00027.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "8f76c74759e47447af5db8cfc71c7e85d25bbdc4a37f76c7837844758fc267f2",
+    "size_bytes": 221398,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "h264_q42",
+    "visual_ancestry": true,
+    "wall_s": 1.0737279000004492
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00028",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-t",
+      "5",
+      "-c:v",
+      "mpeg4",
+      "-q:v",
+      "8",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00028.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "mpeg4",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00028.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "03a607cef8f91dfe719900a5e3ba2a3872cfbbb3aa27fba971bb2c8905096056",
+    "size_bytes": 620426,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "mpeg4",
+    "visual_ancestry": true,
+    "wall_s": 1.5814974999993865
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00029",
+    "category": "two_person_podcast",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S02",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=-2:720",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00029.mp4"
+    ],
+    "identity": "S02",
+    "interactions": [
+      "scale720",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00029.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "927838526d7fba74b7dbd3eee851414a5001f353315899d0203b081f970ffd27",
+    "size_bytes": 1262265,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "scale720",
+    "visual_ancestry": true,
+    "wall_s": 1.208693200000198
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00030",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=-2:480",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00030.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "scale480",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00030.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "2bfcec144a4c08c9ec062097d4c558abd4c52fc23e6b5c7d00b62ba7b3b65de4",
+    "size_bytes": 160797,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "scale480",
+    "visual_ancestry": true,
+    "wall_s": 0.47473489999993035
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00031",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "TRANSCODING",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "scale=-2:360",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00031.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "scale360",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00031.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "39f8f226ea64070c4116084df0d6bc6d673d5b224ce9e29b875848237e88158f",
+    "size_bytes": 108747,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "scale360",
+    "visual_ancestry": true,
+    "wall_s": 0.4355221999994683
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00032",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "crop=trunc(iw*0.9/2)*2:trunc(ih*0.9/2)*2",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00032.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "crop10",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00032.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "4b590616dad89ff764ac3ba2c8ab3c6ce126bd86ff5e19fb27fd64fdfd98ce9a",
+    "size_bytes": 576823,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "crop10",
+    "visual_ancestry": true,
+    "wall_s": 0.9540579000004072
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00033",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "crop=trunc(iw*0.6/2)*2:trunc(ih*0.6/2)*2",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00033.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "crop40",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00033.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "cad7d10fb7740bfef9083c8b986af772ff98d73464e716d8e8fa45113ffd3d1b",
+    "size_bytes": 263642,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "crop40",
+    "visual_ancestry": true,
+    "wall_s": 0.6194085999995878
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00034",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "crop=trunc(iw*0.4/2)*2:trunc(ih*0.4/2)*2",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00034.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "crop60",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00034.mp4",
+    "role": "source",
+    "severity": "harsh",
+    "sha256": "93ec90afc79bcb6864972490aa7b55f413acfd9a23cc0420b35b4f3e5b5a00bc",
+    "size_bytes": 132595,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "crop60",
+    "visual_ancestry": true,
+    "wall_s": 0.7340266000001066
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00035",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "crop=trunc(iw*0.75/2)*2:trunc(ih*0.75/2)*2:0:0",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00035.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "offcenter25",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00035.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "82cfeda6fa7ab45f015729310e8c681f914bc26c07176de0a5795d4a0d1c656e",
+    "size_bytes": 420705,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "offcenter25",
+    "visual_ancestry": true,
+    "wall_s": 0.6657733000001826
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00036",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "hflip",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00036.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "mirror",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00036.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "c63995be94d133d99687f31e2f264b2fbbfdc9c0e0f6d47ee1576987695d273a",
+    "size_bytes": 696105,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "mirror",
+    "visual_ancestry": true,
+    "wall_s": 0.9159773999999743
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00037",
+    "category": "stock_broll",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S08",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "rotate=0.08726646259971647:fillcolor=black",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00037.mp4"
+    ],
+    "identity": "S08",
+    "interactions": [
+      "rotate5",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00037.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "c8d903a08eaa5ceaaf70e9b65416bd14c51bd8341453f32b5b06a9c90231c0d4",
+    "size_bytes": 660486,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "rotate5",
+    "visual_ancestry": true,
+    "wall_s": 2.144100100000287
+  },
+  {
+    "actual_duration_s": 3.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00038",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          3.0
+        ],
+        "source": [
+          2.0,
+          5.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "rotate=0.2617993877991494:fillcolor=black",
+      "-t",
+      "3",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00038.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "rotate15",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 3,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00038.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "7b344c5bdf3aceaeaeede7e6927a76d307aa35bfe8cd1846d9b401a3bb3c5f60",
+    "size_bytes": 898742,
+    "source_intervals_s": [
+      [
+        2.0,
+        5.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "rotate15",
+    "visual_ancestry": true,
+    "wall_s": 1.5443273000000772
+  },
+  {
+    "actual_duration_s": 5.0,
+    "audio_ancestry": true,
+    "candidate_id": "P00039",
+    "category": "animation",
+    "common_content_note": null,
+    "expected_ambiguity": false,
+    "expected_parent": "S09",
+    "family": "GEOMETRY",
+    "frame_mapping": [
+      {
+        "candidate": [
+          0.0,
+          5.0
+        ],
+        "source": [
+          2.0,
+          7.0
+        ]
+      }
+    ],
+    "generation_command": [
+      "ffmpeg",
+      "-ss",
+      "2",
+      "-i",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "-map",
+      "0:v",
+      "-map",
+      "0:a",
+      "-vf",
+      "perspective=x0=20:y0=10:x1=W-10:y1=20:x2=0:y2=H-20:x3=W:y3=H",
+      "-t",
+      "5",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "ultrafast",
+      "-crf",
+      "26",
+      "-threads",
+      "1",
+      "-pix_fmt",
+      "yuv420p",
+      "-c:a",
+      "aac",
+      "-ar",
+      "16000",
+      "-ac",
+      "1",
+      "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00039.mp4"
+    ],
+    "identity": "S09",
+    "interactions": [
+      "perspective",
+      "H264 CRF26",
+      "AAC mono16k"
+    ],
+    "length_s": 5,
+    "partition": "development",
+    "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\results\\e1\\pilot\\P00039.mp4",
+    "role": "source",
+    "severity": "moderate",
+    "sha256": "a270aab6bb9d42a37a375ee81023c75401aea60d3ccf5314c056fdf34811a561",
+    "size_bytes": 1340233,
+    "source_intervals_s": [
+      [
+        2.0,
+        7.0
+      ]
+    ],
+    "speed": 1,
+    "status": "evaluated",
+    "transform": "perspective",
+    "visual_ancestry": true,
+    "wall_s": 1.4435012999992978
+  }
+]

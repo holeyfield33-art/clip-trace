@@ -1,0 +1,18 @@
+{
+  "acquisition": "self-created",
+  "asset_id": "N23",
+  "audio_note": "self-created synthetic waveform or silence",
+  "category": "semantic_recreation",
+  "duration_s": 48,
+  "identity_group": "self-created:N23",
+  "license": "CC0-1.0",
+  "original_has_audio": true,
+  "partition": "evaluation",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N23.mp4",
+  "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+  "role": "negative",
+  "sha256": "1b6de5a90a3fe9af6814ef2bb42b94fb321b32622dc95e133a2a5005d22c32a0",
+  "status": "ready",
+  "transcript": null,
+  "voice": null
+}

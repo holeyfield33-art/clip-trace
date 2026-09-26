@@ -1,0 +1,101 @@
+{
+  "asset_id": "N10",
+  "partition": "calibration",
+  "category": "news_broll",
+  "role": "negative",
+  "identity_group": "commons:16058303",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Night_riots_in_the_Salford_shopping_precinct_area.ogv",
+  "source_title": "File:Night riots in the Salford shopping precinct area.ogv",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/Night_riots_in_the_Salford_shopping_precinct_area.ogv/Night_riots_in_the_Salford_shopping_precinct_area.ogv.480p.vp9.webm",
+  "download_sha256": "ccea0627c665fed41fff10eb6492aee9340d6de2a33d8dbca16f65c96043cb1a",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Miko%C5%82ka\" title=\"User:Miko\u0142ka\">Miko\u0142ka</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2011-08-11 00:27:56",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Night riots in the Salford shopping precinct area",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "GFDL|License migration redundant|Greater Manchester Police|Self-published work|Ogv videos|Video display resolution 640 x 480|Videos of emergency service vehicles|Videos of 2011 riots in England|2011 Manchester riots|Night in the City of Salford",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Night riots in the <a href=\"https://en.wikipedia.org/wiki/Salford,_Greater_Manchester\" class=\"extiw\" title=\"w:Salford, Greater Manchester\">Salford</a> shopping precinct area.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2011-08-10",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Miko%C5%82ka\" title=\"User:Miko\u0142ka\">Miko\u0142ka</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 640,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N10.mp4",
+  "sha256": "78766a270ac7da02a68971e40a25edf4a11a89b5cc584637bdf66217822d25cc",
+  "status": "ready"
+}

@@ -1,0 +1,101 @@
+{
+  "asset_id": "S14",
+  "partition": "development",
+  "category": "vertical_talking_head",
+  "role": "source",
+  "identity_group": "commons:87945461",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm",
+  "source_title": "File:Internet Hall of Fame 2014 Michael Kende interview.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm/Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm.480p.vp9.webm",
+  "download_sha256": "e9ae5505d4d36be1a17cb3c149f4dc05e88b9491b7b32bed4932b876be7c4f29",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCqgUiU9oNKq23z6z0BXk0Sw\">ImaginingtheInternet</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2020-03-11 22:22:06",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Internet Hall of Fame 2014 Michael Kende interview",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Media from YouTube|Internet Hall of Fame|Michael Kende|Files with closed captioning in English|Interview videos|Uploaded with video2commons|Video display resolution 1920 x 1080|Videos of 2014 from the United States|License reviewed by YouTubeReviewBot",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Michael Kende, chief economist for the Internet Society, previously with the US Federal Communications Commissions, discusses Internet evolution and shares thoughts on the status of the Internet and the challenges and opportunities that lie ahead",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2014-04-15",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=N_SR4UhQSWg\"><bdi lang=\"\">Internet Hall of Fame 2014: Michael Kende</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=N_SR4UhQSWg\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCqgUiU9oNKq23z6z0BXk0Sw\">ImaginingtheInternet</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,crop=ih*9/16:ih,scale=406:720,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S14.mp4",
+  "sha256": "8be5f913a4ad3102b553fe83fb196bd64fec3347e614cb12ba41718681fc66ba",
+  "status": "ready"
+}

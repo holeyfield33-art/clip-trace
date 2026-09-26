@@ -1,0 +1,106 @@
+{
+  "asset_id": "S13",
+  "partition": "calibration",
+  "category": "news_broll",
+  "role": "source",
+  "identity_group": "commons:14761922",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Nederland_-_Amerika_door_de_lucht,_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv",
+  "source_title": "File:Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918.ogv",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Nederland_-_Amerika_door_de_lucht%2C_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv/Nederland_-_Amerika_door_de_lucht%2C_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv.480p.vp9.webm",
+  "download_sha256": "53e53f721688075558efa3cd591cb225e7451c933a0f2fd49f6f0a4cc9519885",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY-SA 3.0 nl",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+  "attribution": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2011-12-22 19:30:21",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Glasgow Prestwick Airport|May 1946|Aerial videos|Media of the day|Videos from the United Kingdom|Media from Open Beelden|Ogv videos|Videos from New York City|Aerial photographs of the Statue of Liberty and Liberty Island|Polygoonjournaal in 1946|Video display resolution 768 x 576|Videos of Schiphol|PH-TAR (aircraft)|PH-TAS (aircraft)|Radio operators (aircraft)|Videos of aircraft landings|Videos of history|Videos of starts in aviation|Videos of aircraft with 4 engines|Videos of aircraft cockpits",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Newsreels in which Dutch subjects of a certain week are presented.\nThe KLM opens a regular service between the Netherlands and America. The Douglas DC-4 Skymaster PH-TAR \"Rotterdam\" departs from Schiphol Airport for the first flight to New York. SHOTS: - the journey of the ship \"De Halve Maan\" (The Half Moon) from the Netherlands to America and the foundation of the colony New Amsterdam at the Hudson estuary in 1609 is visualised with prints and an old sea chart; - departure from Schiphol Airport: ext. airplane; captain Evert van Dijk talks to KLM director H. Martin; passengers board the plane, a.o. a Polygoon Camera for Neerlands Nieuws (Dutch News); crew poses; airplane takes off; - during the flight: several aerial shots: Schiphol Airport, landscape, clouds, IJmuiden, the Dutch and Scottish coast, sunset above the clouds, Statue of Liberty, suspension bridge across the bay; skyscrapers; shots of the wings with engines and turning propellers; int. airplane: crew in the cockpit; radio operator talks in the microphone; passengers in the cabin: talking to each other, looking out the window, receiving a cup of tea, sleeping; - stop over at Prestwick airport, where the plane is refueled and then departs again; - passengers leave the airplane in America; - edited in between these shots: flying shots and the landing of another Skymaster, the PH-TAS.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "1946-05-21",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/\">520191 at Open Beelden</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0 nl",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0 nl",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/Nederland___Amerika_door_de_lucht__de_eerste_KLM_vlucht_Amsterdam___New_York\">Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)</a>",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0-nl",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 640,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S13.mp4",
+  "sha256": "ef54e034daff1350920f3b67a438338088763adc9e6a36f6e13d98f3c308b7c5",
+  "status": "ready"
+}

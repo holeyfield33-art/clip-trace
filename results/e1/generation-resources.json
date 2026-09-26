@@ -1,0 +1,18 @@
+{
+  "label": "generation",
+  "command": [
+    "python",
+    "-X",
+    "utf8",
+    "-m",
+    "cliptrace_e1.e1_design"
+  ],
+  "returncode": 0,
+  "wall_s": 2818.341452598572,
+  "sampled_process_tree_cpu_s_lower_bound": 4009.765625,
+  "peak_sampled_process_tree_rss_bytes": 700526592,
+  "process_count": 2415,
+  "samples": 10082,
+  "sampling_interval_s": 0.25,
+  "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled."
+}

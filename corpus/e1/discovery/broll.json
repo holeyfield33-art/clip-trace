@@ -1,0 +1,4184 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "154926275": {
+        "pageid": 154926275,
+        "ns": 6,
+        "title": "File:Addison, VT Home (aerial drone footage).webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 74761647,
+            "width": 1920,
+            "height": 1080,
+            "duration": 124.758,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Addison%2C_VT_Home_%28aerial_drone_footage%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Addison,_VT_Home_(aerial_drone_footage).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154926275",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 74761647
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 74761647
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 59.94
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "5104d45795d3be97",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 59.94
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 4794026.643581975
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 332"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:02:04.758000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 124.758
+              },
+              {
+                "name": "bitrate",
+                "value": 4794026.643581975
+              },
+              {
+                "name": "playtime_string",
+                "value": "2:05"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-11-06 10:12:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Addison, VT Home (aerial drone footage)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "2019 in Vermont|Media from YouTube|WebM videos|Houses in Vermont|Addison, Vermont|License review needed (video)|Uploaded with video2commons|Video display resolution 1920 x 1080|Videos without audio|Drone videos from Vermont",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Another in a three part series of homes I took footage for in Sept-Oct 2019. This is another of my Uncles homes in Addison, VT. I love how the colors pop in this footage, looks more real than in person!  Here you get some good panoramic shots of the surrounding Vermont landscape. As opposed to the other footage by the lake, this was much more 'fun' to fly since there wasn't the worries of hitting all those trees or crashing to a watery end. \n<p>I put the drone in sport mode for the shots where we fly down to the back edge of the property and back, we hit 40+mph on that shot as well. I am attempting to be more smooth in my transitions, such as the 360 around the home, but I really feel this needs more work. \n</p><p>The footage took very little editing, since the first take was pretty spot on, but I did experiment with adding graphics (title/credit/etc) and some music track to keep it a bit more interesting.\n</p>\nHope you enjoy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=zBguJrEFlzc\"><bdi lang=\"\">Addison, VT Home (aerial drone footage)</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=zBguJrEFlzc\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herrickspencer1690\">Herrick Spencer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Herrick Spencer",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "199828110": {
+        "pageid": 199828110,
+        "ns": 6,
+        "title": "File:Aerial video of Fazlagi\u0107a Kula near Gacko - Bosnia and Herzegovina (2026)-bs.webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 129116231,
+            "width": 640,
+            "height": 360,
+            "duration": 181.9,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aerial_video_of_Fazlagi%C4%87a_Kula_near_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_video_of_Fazlagi%C4%87a_Kula_near_Gacko_-_Bosnia_and_Herzegovina_(2026)-bs.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199828110",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 129116231
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 129116231
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.967
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "78e0875d828e6fbb",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.967
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 5678558.812534359
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [24 bytes]) at 359"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "2705068043243120"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.134.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:03:01.900000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 181.9
+              },
+              {
+                "name": "bitrate",
+                "value": 5678558.812534359
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:02"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-19 20:41:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aerial video of Fazlagi\u0107a Kula near Gacko - Bosnia and Herzegovina (2026)-bs",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gacko|Creative Commons Attribution-Share Alike missing SDC copyright status|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Aerial videos from Bosnia and Herzegovina|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.190600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "18.528100",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aerial drone footage of the Fazlagi\u0107a Kula village area in Gacko municipality, showing the surrounding landscape, local road, and cemetery, Bosnia and Herzegovina.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Video recorded by Nedim Jugo (used with explicit permission / uploaded on behalf of the author).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Nedim Jugo",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026091910008857 2%3D2026091910008857\">\u00a0</span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026091910008857\" class=\"extiw\" title=\"ticket:2026091910008857\">ticket #2026091910008857</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026091910008857\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026091910008857</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026091910008857%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026091910008857\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "199853129": {
+        "pageid": 199853129,
+        "ns": 6,
+        "title": "File:Aerial video of Gacko - Bosnia and Herzegovina (2026)-bs.webm",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 78930643,
+            "width": 640,
+            "height": 360,
+            "duration": 214,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aerial_video_of_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_video_of_Gacko_-_Bosnia_and_Herzegovina_(2026)-bs.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199853129",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 78930643
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 78930643
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 640
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 360
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "2e5076e97b434799",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 640
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 360
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 2950678.2429906544
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [24 bytes]) at 359"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1452019490154524"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.134.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:03:34.000000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 214
+              },
+              {
+                "name": "bitrate",
+                "value": 2950678.2429906544
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:34"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-20 10:01:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aerial video of Gacko - Bosnia and Herzegovina (2026)-bs",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Gacko|Creative Commons Attribution-Share Alike missing SDC copyright status|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Aerial videos from Bosnia and Herzegovina|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.167200",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "18.535300",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aerial drone footage showing the town of Gacko, surrounding hills, and Gacko Power Plant in the background, Bosnia and Herzegovina.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Video recorded by Nedim Jugo (used with explicit permission / uploaded on behalf of the author).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Nedim Jugo",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026092010003475 2%3D2026092010003475\">\u00a0</span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\" class=\"extiw\" title=\"ticket:2026092010003475\">ticket #2026092010003475</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026092010003475%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\"></span></td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "70834592": {
+        "pageid": 70834592,
+        "ns": 6,
+        "title": "File:Aerial view of snowy landscape.webm",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 194023313,
+            "width": 3840,
+            "height": 2160,
+            "duration": 25.725,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Aerial_view_of_snowy_landscape.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_snowy_landscape.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70834592",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.14-201703261440"
+              },
+              {
+                "name": "filesize",
+                "value": 194023313
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 194023313
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 60337667.79397473
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [4 bytes]) at 100"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.25.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.25.100"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 25.725
+              },
+              {
+                "name": "bitrate",
+                "value": 60337667.79397473
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:26"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-13 23:51:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aerial view of snowy landscape",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Files from external sources with reviewed licenses|Drone videos from the United States|Uploaded with video2commons|Videos from Vimeo|Videos of 2017 from the United States|Videos without audio",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aerial view of snowy landscape in United States.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-03-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/209303617\" href=\"https://vimeo.com/209303617\">DJI_0015</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/209303617\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/mechame\">Mecha.Me</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161729092": {
+        "pageid": 161729092,
+        "ns": 6,
+        "title": "File:An aerial view of a 10,000 hectares of rice farm.webm",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 153802651,
+            "width": 3840,
+            "height": 2160,
+            "duration": 59.743,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/An_aerial_view_of_a_10%2C000_hectares_of_rice_farm.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_a_10,000_hectares_of_rice_farm.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161729092",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 153802651
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 153802651
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 112000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "a10f39feabba216e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 112000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.03968253968253968
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.03968253968253968
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 50
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "e31f12d50bc0e8de",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 50
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 20483236
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 4372"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf59.34.101"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf59.34.101"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isommp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "14"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf59.34.101"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc59.51.100 libvorbis"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc59.51.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "SoundHandle"
+                          },
+                          {
+                            "name": 1,
+                            "value": "VideoHandle"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:59.725000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:59.743000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 59.743
+              },
+              {
+                "name": "bitrate",
+                "value": 20595236
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:00"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-11 12:19:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "An aerial view of a 10,000 hectares of rice farm",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Images from Wiki Loves Africa 2025|Videos from Wiki Loves Africa 2025|Clip Videos from Wiki Loves Africa 2025|Winners of Wiki Loves Africa 2025 in Africa|Best videos from Wiki Loves Africa 2025|Wiki Loves Africa 2025 winning pictures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This 59-second video showcases the farm's landscape.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-03-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ahbeegyd\" title=\"User:Ahbeegyd\">Ahbeegyd</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "61277776": {
+        "pageid": 61277776,
+        "ns": 6,
+        "title": "File:Kinburn Spit -DJI Phantom 4.webm",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 65267550,
+            "width": 1920,
+            "height": 1080,
+            "duration": 185.58100000000002,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kinburn_Spit_-DJI_Phantom_4.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kinburn_Spit_-DJI_Phantom_4.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61277776",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.14-201703261440"
+              },
+              {
+                "name": "filesize",
+                "value": 65267550
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 65267550
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [4 bytes]) at 100"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:771] (5802::16aa [3 bytes]) at 476"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:771] (5819::16bb [4 bytes]) at 482"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 185.58100000000002
+              },
+              {
+                "name": "bitrate",
+                "value": 2813544.4900070587
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:06"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-07-24 13:27:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kinburn Spit -DJI Phantom 4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Kinburn peninsula|Files from external sources with reviewed licenses|Aerial videos|Uploaded with video2commons|Videos of 2016 from Ukraine|Videos of the Black Sea|Videos from YouTube by channel (assorted)|Videos with music by Chris Zabriskie",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kinburn Spit.  Regional Landscape Park\n<p>Black Sea in Ukraine\nK\u00ednburn Foreland or Kinburn Spit \u2013 a spit in Ochakiv Raion (district) of Mykolaiv Oblast at the Black Sea in Ukraine. It occupies the western part of the Kinburn Peninsula, being its natural extension stretching west into the Black Sea between the Dnieper-Buh estuary and the Bay of Yahorlyk. Its length is about 40 km, width \u2013 8\u201310 km. In southern Ukraine, the Kinburn Foreland is often mistaken for being the entirety of the Kinburn Peninsula, of which it appears to be a part.\n</p><p>Now it is well-known  because of its unique nature but centuries ago this place was webbed with exciting events, stories, legends.\n</p><p>Oleksandr Kabanov. DJI Phantom 4. 09/2016\n</p><p>_Enchanted Journey_,_Kevin MacLeod_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799\">http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799</a>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/\">http://incompetech.com/</a>\n</p><p>_I Need to Start Writing Things Down_,_Chris Zabriskie_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/darkglow/\">http://chriszabriskie.com/darkglow/</a>\n</p>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/\">http://chriszabriskie.com/</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=5Gh1I2oJnfM\"><bdi lang=\"\">Kinburn Spit -DJI Phantom 4</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=5Gh1I2oJnfM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/MukolaTV\">Mukola TV</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Mukola TV",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "141584284": {
+        "pageid": 141584284,
+        "ns": 6,
+        "title": "File:Lala Lake, Romania - 4K Aerial.webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 463580401,
+            "width": 3840,
+            "height": 2160,
+            "duration": 211.741,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lala_Lake%2C_Romania_-_4K_Aerial.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lala_Lake,_Romania_-_4K_Aerial.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141584284",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 463580401
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 463580401
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "e0e8fe79f5af8ee4",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "19db577b75cfd29a",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 338"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 390"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 396"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:03:31.718000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:03:31.741000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 211.741
+              },
+              {
+                "name": "bitrate",
+                "value": 17514998.07784038
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:32"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-30 20:36:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lala Lake, Romania - 4K Aerial",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rodna Mountains|Media from YouTube|Music in 2015|Bistri\u021ba-N\u0103s\u0103ud County|Lakes of Romania|License review needed (video)|Videos from Romania|Documentary videos|Uploaded with video2commons|Drone videos from Romania|Videos featuring unidentified music|4K videos|Drone videos of mountains|Drone videos of bodies of water",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Lala Lake, a crystal tear within the Eastern Carpathians landscape, appears in its entire splendour: Ineu Peak on top, dominating the entire area and on the bottom, the valley which takes your breath away due to the beauty of the landscape.\n<p>Located in the Eastern Carpathians, in Rodna Mountains, at almost 1,800 meters altitude in a glacial valley, Lala lake is part of the Mixed Reservation \u201cIneu-Lala\u201d and it also has a younger/smaller sibling nearby, the Lala Mic Lake.\n</p><p>Music copyrighted to:  Y&amp;V - Lune [NCS Release] \n\u2022 <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/watch?v=n79aphwhpW0\">https://www.youtube.com/watch?v=n79aphwhpW0</a>\n\u2022 <a rel=\"nofollow\" class=\"external free\" href=\"https://www.facebook.com/itsyandv\">https://www.facebook.com/itsyandv</a>\n\u2022 <a rel=\"nofollow\" class=\"external free\" href=\"https://soundcloud.com/itsyandv\">https://soundcloud.com/itsyandv</a>\n\u2022 <a rel=\"nofollow\" class=\"external free\" href=\"https://twitter.com/itsyandv\">https://twitter.com/itsyandv</a>\n</p>\nFilming &amp; Editing: \u00a9 Marian Cepeha 2016   -   www.max3d.ro",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=25WxX-dr9QU\"><bdi lang=\"\">Lala Lake, Romania - 4K Aerial</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=25WxX-dr9QU\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@MarianCepeha\">Marian Cepeha</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Marian Cepeha",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "50200422": {
+        "pageid": 50200422,
+        "ns": 6,
+        "title": "File:Miejscu-pracy-koparka-budowlanych-3741.webm",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 100046103,
+            "width": 3840,
+            "height": 2160,
+            "duration": 20.086000000000002,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Miejscu-pracy-koparka-budowlanych-3741.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Miejscu-pracy-koparka-budowlanych-3741.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50200422",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.6-20130603"
+              },
+              {
+                "name": "filesize",
+                "value": 100046103
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 100046103
+              },
+              {
+                "name": "fileformat",
+                "value": "matroska"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 39847098.67569451
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 20.086000000000002
+              },
+              {
+                "name": "bitrate",
+                "value": 39847098.67569451
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:20"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-07-17 12:23:38",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Miejscu-pracy-koparka-budowlanych-3741",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|WebM videos|Aerial videos|Unidentified landscapes|Uploaded with video2commons|Videos from Pixabay|Video display resolution 3840 x 2160|Videos of construction",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "flying over a working or construction site with excavator equipment in use",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-07-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://pixabay.com/pl/videos/miejscu-pracy-koparka-budowlanych-3741/\">https://pixabay.com/pl/videos/miejscu-pracy-koparka-budowlanych-3741/</a> <bdi lang=\"en\" dir=\"ltr\" title=\"archived on 19 January 2019 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20190119002901/https%3A//pixabay.com/pl/videos/miejscu-pracy-koparka-budowlanych-3741/\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://pixabay.com/users/bellergy-1846871/?tab=videos\">bellergy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "14761922": {
+        "pageid": 14761922,
+        "ns": 6,
+        "title": "File:Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918.ogv",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25076461,
+            "width": 768,
+            "height": 576,
+            "duration": 222.72272272272272,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nederland_-_Amerika_door_de_lucht%2C_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nederland_-_Amerika_door_de_lucht,_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14761922",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 956529277,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 956529277
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libTheora I 20060526 3 2 0"
+                      },
+                      {
+                        "name": "length",
+                        "value": 222.72272272272272
+                      },
+                      {
+                        "name": "size",
+                        "value": 21483390
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 0
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 48
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 36
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 768
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 576
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 2997
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 100
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 640000
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 0
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 4
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 648
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 10368
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 1728
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": 3842322136,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 3842322136
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20050304"
+                      },
+                      {
+                        "name": "length",
+                        "value": 222.66630385487528
+                      },
+                      {
+                        "name": "size",
+                        "value": 3593071
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 128000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "encoder",
+                            "value": "Lavc51.40.4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 222.72272272272272
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-12-22 19:30:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Glasgow Prestwick Airport|May 1946|Aerial videos|Media of the day|Videos from the United Kingdom|Media from Open Beelden|Ogv videos|Videos from New York City|Aerial photographs of the Statue of Liberty and Liberty Island|Polygoonjournaal in 1946|Video display resolution 768 x 576|Videos of Schiphol|PH-TAR (aircraft)|PH-TAS (aircraft)|Radio operators (aircraft)|Videos of aircraft landings|Videos of history|Videos of starts in aviation|Videos of aircraft with 4 engines|Videos of aircraft cockpits",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Newsreels in which Dutch subjects of a certain week are presented.\nThe KLM opens a regular service between the Netherlands and America. The Douglas DC-4 Skymaster PH-TAR \"Rotterdam\" departs from Schiphol Airport for the first flight to New York. SHOTS: - the journey of the ship \"De Halve Maan\" (The Half Moon) from the Netherlands to America and the foundation of the colony New Amsterdam at the Hudson estuary in 1609 is visualised with prints and an old sea chart; - departure from Schiphol Airport: ext. airplane; captain Evert van Dijk talks to KLM director H. Martin; passengers board the plane, a.o. a Polygoon Camera for Neerlands Nieuws (Dutch News); crew poses; airplane takes off; - during the flight: several aerial shots: Schiphol Airport, landscape, clouds, IJmuiden, the Dutch and Scottish coast, sunset above the clouds, Statue of Liberty, suspension bridge across the bay; skyscrapers; shots of the wings with engines and turning propellers; int. airplane: crew in the cockpit; radio operator talks in the microphone; passengers in the cabin: talking to each other, looking out the window, receiving a cup of tea, sleeping; - stop over at Prestwick airport, where the plane is refueled and then departs again; - passengers leave the airplane in America; - edited in between these shots: flying shots and the landing of another Skymaster, the PH-TAS.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1946-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/\">520191 at Open Beelden</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 nl",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 nl",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/Nederland___Amerika_door_de_lucht__de_eerste_KLM_vlucht_Amsterdam___New_York\">Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-nl",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187684378": {
+        "pageid": 187684378,
+        "ns": 6,
+        "title": "File:Night landscape of Bhopal city.webm",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14738777,
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.733,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Night_landscape_of_Bhopal_city.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_landscape_of_Bhopal_city.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187684378",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 14738777
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 14738777
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "ede3eadfc3657973",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "884dec9554a5298e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [16 bytes]) at 332"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:852] (5802::16aa [3 bytes]) at 392"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:852] (5819::16bb [4 bytes]) at 398"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isommp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.capture.fps",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "30.000000"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "12"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.3.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.3.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandle"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandle"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:16.700000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:16.733000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 16.733
+              },
+              {
+                "name": "bitrate",
+                "value": 7046567.620868942
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-02 05:26:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Night landscape of Bhopal city",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Nightlife|Self-published work|Aerial photographs of Bhopal|Transport corridors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bhopal is a capital of Madhya Pradesh, also known as smart and green city. It lies in the heart of India. Bhopal has multiple Historical castle and monuments. In this video, places which are seeing from the top hill in a 360-degree view.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Diwaskar_Dahal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Diwaskar Dahal (page does not exist)\">Diwaskar Dahal</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84809791": {
+        "pageid": 84809791,
+        "ns": 6,
+        "title": "File:Off to Lithuania by drone (Back home).webm",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 115052958,
+            "width": 1920,
+            "height": 1080,
+            "duration": 202.888,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Off_to_Lithuania_by_drone_%28Back_home%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Off_to_Lithuania_by_drone_(Back_home).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84809791",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.18-201907240906"
+              },
+              {
+                "name": "filesize",
+                "value": 115052958
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 115052958
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 25
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 25
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [4 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 399"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5802::16aa [3 bytes]) at 444"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5819::16bb [4 bytes]) at 450"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.54.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.54.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:03:22.887000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:03:22.888000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 202.888
+              },
+              {
+                "name": "bitrate",
+                "value": 4536609.676274595
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:23"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-11 13:04:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Off to Lithuania by drone (Back home)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Views of Lithuania|Nature of Lithuania|Lithuania in the 2010s|Aerial videos|Videos of 2016|Uploaded with video2commons|Videos from Vimeo|Video display resolution 1920 x 1080|License reviewed by YouTubeReviewBot|Drone videos from Lithuania|Videos containing non-free audio",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "As a traveler I see beautiful landscapes and environments everywhere I go, but one place attract my eyes the most - my home, Lithuania. Because of its flatness, often we don't really notice how beautiful it is. But from birds eye view - it's incredible.\n<p>Music: Tycho - Receiver\nFilming and editing Danas Macijauskas (Danulis)\n</p>\nUsing DJI Phantom 4",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/187575620\" href=\"https://vimeo.com/187575620\">Off to Lithuania by drone (Back home)</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/187575620\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/danulis\">Danulis Off To Somewhere</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Danulis Off To Somewhere",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "52502304": {
+        "pageid": 52502304,
+        "ns": 6,
+        "title": "File:\u0420\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442\u043d\u0438\u0439 \u043f\u0430\u0440\u043a '\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a\u0438\u0439', \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c.webm",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1230977,
+            "width": 1280,
+            "height": 720,
+            "duration": 28.127,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%D0%A0%D0%B5%D0%B3%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B0%D0%BD%D0%B4%D1%88%D0%B0%D1%84%D1%82%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_%27%D0%9A%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%27%2C_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B5%D0%B3%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B0%D0%BD%D0%B4%D1%88%D0%B0%D1%84%D1%82%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_%27%D0%9A%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%27,_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52502304",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.6-20130603"
+              },
+              {
+                "name": "filesize",
+                "value": 1230977
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 1230977
+              },
+              {
+                "name": "fileformat",
+                "value": "matroska"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:776] (5802::16aa [3 bytes]) at 476"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:776] (5819::16bb [4 bytes]) at 482"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 28.127
+              },
+              {
+                "name": "bitrate",
+                "value": 350119.6714900274
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:28"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-10-25 14:38:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "\u0420\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442\u043d\u0438\u0439 \u043f\u0430\u0440\u043a '\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a\u0438\u0439', \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Aerial photographs of Ukraine|Regional Landscape Park \u00abKramatorsky\u00bb|Self-published work|Videos from Kramatorsk Raion",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a\u0435 \u0441\u043a\u0435\u043b\u0435\u043f\u043e\u0434\u0456\u0431\u043d\u0435 \u043e\u0433\u043e\u043b\u0435\u043d\u043d\u044f \u0432\u0435\u0440\u0445\u043d\u044c\u043e\u0457 \u043a\u0440\u0435\u0439\u0434\u0438",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-10-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Konung_yaropolk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Konung yaropolk (page does not exist)\">Konung yaropolk</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

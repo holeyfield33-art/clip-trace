@@ -1,0 +1,18 @@
+{
+  "acquisition": "self-created",
+  "asset_id": "N12",
+  "audio_note": "self-created synthetic waveform or silence",
+  "category": "room_tone",
+  "duration_s": 48,
+  "identity_group": "self-created:N12",
+  "license": "CC0-1.0",
+  "original_has_audio": true,
+  "partition": "calibration",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N12.mp4",
+  "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+  "role": "negative",
+  "sha256": "2f562670eb503889807c2ac0a11fe0c851b203f2c6beb26b1d5154bd7eca8d82",
+  "status": "ready",
+  "transcript": null,
+  "voice": null
+}

@@ -1,0 +1,4762 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "184609193": {
+        "pageid": 184609193,
+        "ns": 6,
+        "title": "File:11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage.webm",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 136643345,
+            "width": 1920,
+            "height": 1080,
+            "duration": 890.4680000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184609193",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.24-202509040923"
+              },
+              {
+                "name": "filesize",
+                "value": 136643345
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 136643345
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "2c072cfde63666b6",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 25
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "bb6548038774e6de",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 25
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 332"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 400"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 406"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.19.101 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.19.101 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:14:50.440000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:14:50.468000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 890.4680000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 1227609.2571546647
+              },
+              {
+                "name": "playtime_string",
+                "value": "14:50"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-20 22:24:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Daxophone|License review needed (video)|Videos of musicians|Files with coordinates missing SDC location of creation (50\u00b0 N, 3\u00b0 E)|Videos of musical instruments",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.482000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "3.764000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Following her creative residency at Transcultures (Centre of digital and sound arts, Saint-Ghislain, Belgium) in October 2024, sound artist Joyul (Seoul-South Korea) presented an improvised performance centered around the daxophone (an instrument invented by German musician Hans Reichel\u2014a wooden tongue mounted on a tripod with contact microphones, played with a bow and a dax, a curved piece of wood, one side of which is fretted) in the vibrant environment of the baroque Chapel of the Convent of Hautrage.\nWith the support of Transcultures &amp; European Pepinieres of Cr\u00e9ation",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-10-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=58w3vII9-yw\"><bdi lang=\"\">11.10.2024 | JOYUL - Sound Art / Daxophone performance | Transcultures - Couvent d'Hautage</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=58w3vII9-yw\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@TransculturesBe\">Transcultures - Media &amp; Sound Arts Center</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Transcultures - Media &amp; Sound Arts Center",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "87171613": {
+        "pageid": 87171613,
+        "ns": 6,
+        "title": "File:Bulgarian folklore.ogv",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 109068333,
+            "width": 1080,
+            "height": 1920,
+            "duration": 87,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bulgarian_folklore.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulgarian_folklore.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87171613",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 2473882247,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 2473882247
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf58.45.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 87
+                      },
+                      {
+                        "name": "size",
+                        "value": 109068333
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 68
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 120
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1080
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 1920
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 25
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 9962880
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 0
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 3060
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 48960
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 8160
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "creation_time",
+                            "value": "2020-02-17T16:04:02.000000Z"
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "handler_name",
+                            "value": "\ufffdMainconcept Video Media Handler"
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavc58.68.100 libtheora"
+                          },
+                          {
+                            "name": "major_brand",
+                            "value": "mp42"
+                          },
+                          {
+                            "name": "minor_version",
+                            "value": "0"
+                          },
+                          {
+                            "name": "compatible_brands",
+                            "value": "mp42mp41"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 87
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-02-16 20:48:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bulgarian folklore",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Traditional songs|Folklore of Bulgaria|Folk dance of Bulgaria|Self-published work|Bells in Bulgaria|Images from Wiki Loves Folklore 2020|Uploaded via Campaign:wllove|Images from Wiki Loves Folklore 2020 in Bulgaria|Dance costumes of Bulgaria|Videos from Wiki Loves Folklore 2020",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<table cellspacing=\"0\" style=\"width:600px; text-align:start; color:#000; background:#ddd; border:1px solid #bbb; margin:1px;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate\">\n<tbody><tr>\n<td style=\"width:22px; height:22px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wiki-Loves-Love-logo.svg\" class=\"mw-file-description\" title=\"Logo Wiki Loves Love\"><img alt=\"Logo Wiki Loves Love\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/40px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/60px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1024\" data-file-height=\"1024\"></a></span>\n</td>\n<td style=\"padding:1pt; line-height:1.1em;\">This photo has been taken in the country: <b>Bulgaria</b>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-04-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Annboeva&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Annboeva (page does not exist)\">Annboeva</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196083057": {
+        "pageid": 196083057,
+        "ns": 6,
+        "title": "File:Colorful Autumn \u2014 Live Performance Excerpt.ogg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 126780495,
+            "width": 1920,
+            "height": 1080,
+            "duration": 53.20666666666666,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196083057",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 89801776,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 89801776
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf58.44.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 53.2
+                      },
+                      {
+                        "name": "size",
+                        "value": 124962563
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 120
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 68
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1920
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 1080
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 8
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 30
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 6550784
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 0
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 3060
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 48960
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 8160
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "encoder",
+                            "value": "Lavf58.44.100"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 375097465,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 375097465
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf58.44.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 53.20666666666666
+                      },
+                      {
+                        "name": "size",
+                        "value": 1817932
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 317000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 4294967295
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavf58.44.100"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 53.20666666666666
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-24 00:07:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Colorful Autumn \u2014 Live Performance Excerpt",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Self-published work|Photographs by Mostafa Meraji|Mortaz Band",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Recorded during Mortaz\u2019s live show on Thursday, 11 June 2026, at the performance hall of Sazineh Complex in Karaj, this video features an excerpt from Colorful Autumn, part of Mortaz Band\u2019s Autumn Collection.\n<p>Performers:\nBassist \u2014 Aydin Karbalaei\nDrummer \u2014 Armin Izadi\nGuitarist \u2014 AmirMahdi Tavakoli\nGuitarist \u2014 Radin Khaki\nSynthesizer \u2014 Amirreza Tavakoli\nPhoto &amp; Video Capture: Mostafa Meraji\n</p>\nEditor: Taha Tavakoli",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161219989": {
+        "pageid": 161219989,
+        "ns": 6,
+        "title": "File:Musical Odia folk play Pala.webm",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 322598216,
+            "width": 1920,
+            "height": 1080,
+            "duration": 374.1,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Musical_Odia_folk_play_Pala.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Musical_Odia_folk_play_Pala.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161219989",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 322598216
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 322598216
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 16
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 128000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 4823,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 16
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 128000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.09070294784580499
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.09070294784580499
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "Display Aspect Ratio"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 29,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "Display Aspect Ratio"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 6770652
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 78"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 93"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 110"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5056::13c0 [1 bytes]) at 4263"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [3 bytes]) at 4289"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "WonderShare Matroska Muxer"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 374.1
+              },
+              {
+                "name": "bitrate",
+                "value": 6898652
+              },
+              {
+                "name": "playtime_string",
+                "value": "6:14"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-05 19:13:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Musical Odia folk play Pala",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Photographs by Gapu|Enhancing Indic Oral Culture 2024-25|Videos by Gapu|Pala performers from Odisha|Pala (Folk performance)|Pala (Odia-language folk play)|Media uploaded as a part of Enhancing Indic Oral Culture 2024-25|Media uploaded by Odia Team 2024-25",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Musical Odia folk play Pala",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-01-16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi>Sangram Keshari Senapati</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"max-width:70em; margin:auto; padding: 2em; background:#e0dee4; box-shadow: 8px 8px 5px #93a1a1; -moz-border-radius: 15px; border-radius: 15px; color:#0A0F0D;\" class=\"plainlinks\">\n<p><b>Credit information:</b>\n</p>\n<ul><li>This work was created by <a href=\"//commons.wikimedia.org/wiki/User:Ssgapu22\" title=\"User:Ssgapu22\">Sangram Keshari Senapati</a>. You are free to use it for any purpose as long as you credit me properly.</li></ul>\n<p>\u2710 <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Ssgapu22\" title=\"Special:EmailUser/Ssgapu22\">Contact me</a></b> (<i>log in required</i>) \u2022\u00a0\u270d\ufe0e <a rel=\"nofollow\" class=\"external text\" href=\"https://www.gapu.in/#contact\">Email</a>\n</p>\n<ul><li><b>If you are the subject</b> of the picture and would like to schedule another shoot.</li>\n<li>If you're unsure about how you can use this picture.</li></ul>\n<p><b>Reuse:</b>\n</p>\n<ul><li>If you use this image outside of Wikimedia projects, I would be happy to hear from you.</li>\n<li>If you use this image in a printed publication, I would love to get a copy for my archives.</li></ul>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "79008862": {
+        "pageid": 79008862,
+        "ns": 6,
+        "title": "File:Rudy Mancuso & Maia Mitchell - Magic (Official Music Video).webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 54112536,
+            "width": 1920,
+            "height": 1080,
+            "duration": 226.781,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Rudy_Mancuso_%26_Maia_Mitchell_-_Magic_%28Official_Music_Video%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rudy_Mancuso_%26_Maia_Mitchell_-_Magic_(Official_Music_Video).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79008862",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.17-201902071234"
+              },
+              {
+                "name": "filesize",
+                "value": 54112536
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 54112536
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 24
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 24
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 100"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [4 bytes]) at 115"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 419"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5802::16aa [3 bytes]) at 464"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5819::16bb [4 bytes]) at 470"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.20.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.20.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.20.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:03:46.757000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:03:46.781000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 226.781
+              },
+              {
+                "name": "bitrate",
+                "value": 1908891.3445129883
+              },
+              {
+                "name": "playtime_string",
+                "value": "3:47"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-17 12:04:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rudy Mancuso & Maia Mitchell - Magic (Official Music Video)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Maia Mitchell|Music in 2018|Files from external sources with reviewed licenses|Files with closed captioning in Czech|Featured media|Videos from YouTube|Media of the day|Files with closed captioning in Norwegian Bokm\u00e5l|Files with closed captioning in English|Videos of 2018|Uploaded with video2commons|Rudy Mancuso|Files with closed captioning in Slovene|Files with closed captioning in German|Videos uploaded by Eatcha|Files with closed captioning in Serbian|Files with closed captioning in Spanish|Files with closed captioning in Hebrew|Files with closed captioning in Italian|Files with closed captioning in Chinese|Files with closed captioning in Dutch|Files with closed captioning in Turkish|Files with closed captioning in Finnish|Files with closed captioning in Portuguese|Files with closed captioning in Romanian|Files with closed captioning in Macedonian|Files with closed captioning in Bengali|Files with closed captioning in Russian|Files with closed captioning in Brazilian Portuguese|Files with closed captioning in Polish|Files with closed captioning in Swedish|Files with closed captioning in Vietnamese|Featured media of music|Files with closed captioning in French|Files with closed captioning in Hungarian|Files with closed captioning in Azerbaijani|Files with closed captioning in Estonian|Files with closed captioning in Greek|Files with closed captioning in Japanese|Files with closed captioning in Kannada|Files with closed captioning in Korean|Files with closed captioning in Malay|Files with closed captioning in Urdu|Files with closed captioning in Ukrainian|Files with closed captioning in Indonesian|Files with closed captioning in Arabic|Files with closed captioning in Bulgarian|Files with closed captioning in Danish|Files with closed captioning in Hindi|Files with closed captioning in Telugu|Files with closed captioning in Croatian|Files with closed captioning in Thai|Videos of music with English subtitles of lyrics|Files with closed captioning in Tamil|Files with closed captioning in Lithuanian|Files with closed captioning in Albanian|Files with closed captioning in Marathi|Files with closed captioning in Lingala|Files with closed captioning in Nepali|Files with closed captioning in Extremaduran|Files with closed captioning in Khmer|Music videos in English",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\"Magic\", a <a href=\"//commons.wikimedia.org/wiki/Music\" title=\"Music\">music</a> <a href=\"//commons.wikimedia.org/w/index.php?title=Videos&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Videos (page does not exist)\">video</a> sung by American singer Rudy Mancuso and Australian <a href=\"//commons.wikimedia.org/wiki/Singing\" class=\"mw-redirect\" title=\"Singing\">singer</a> Maia Mitchell . \n<p><br>\nARTISTS:\nRudy Mancuso \nMaia Mitchell \n</p><p>DP: Daniel Gomez Benmergui\nCamera Operator: Aaron Gantt\n1st AC: Eugene du Plessis\n2nd AC: Bryce Platz\nGaffer: Ernesto Pletsch\nBB electric: JJ Flores\nElectric: Joann Wong\nKey Grip: Stephen Harris\nBB Grip: Akira Hayakawa\n</p><p>Producer/Writer: Avi Snow\nProducer/Writer: Iro\nProducer/Writer: Rudy Mancuso\nProducer: Jamie Almos\n</p><p>LYRICS:\n</p><p>When I run from the blame,\nHide from the pain,\nI feel it in my body.\n</p><p>When I just can\u2019t let go,\nFear starts to show,\nI feel it in my body.\n</p><p>Oh I feel this Magic,\nAnd it\u2019s deep inside.\nCause I believe in Magic,\nWhen I see your eyes.\nYou know that it\u2019s Magic.\nCause I believe in Magic.\n</p><p>When I\u2019m numb from the game,\nTired of the blame,\nI feel it in my body.\n</p><p>When I just can\u2019t say no,\nFear starts to show,\nI feel it in my body.\n</p><p>Oh I feel this Magic,\nAnd it\u2019s deep inside.\nCause I believe in Magic,\nWhen I see your eyes.\nYou know that it\u2019s Magic.\nCause I believe in Magic.\n</p>\n<hr>\n<ol><li>RudyMusic</li>\n<li>RudyMancuso</li>\n<li>MaiaMitchell</li>\n<li>Magic</li></ol>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-03-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=lRkTgVynmbM\"><bdi lang=\"\">Rudy Mancuso &amp; Maia Mitchell - Magic (Official Music Video)</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=lRkTgVynmbM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/rudymancuso\">Rudy Mancuso</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Rudy Mancuso",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165711339": {
+        "pageid": 165711339,
+        "ns": 6,
+        "title": "File:Shattering Silence with Song How a 2018 Musical Theater Sparked Justice for Women in Rural Indonesia 01.webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 96135135,
+            "width": 1920,
+            "height": 1080,
+            "duration": 103.881,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Shattering_Silence_with_Song_How_a_2018_Musical_Theater_Sparked_Justice_for_Women_in_Rural_Indonesia_01.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shattering_Silence_with_Song_How_a_2018_Musical_Theater_Sparked_Justice_for_Women_in_Rural_Indonesia_01.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165711339",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 96135135
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 96135135
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 128000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "fbca052025e8385a",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "name",
+                            "value": "unknown"
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 128000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.045351473922902494
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.045351473922902494
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.987
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "97fc4564b9ff3675",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": false
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.987
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 7275482
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 337"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso6iso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "hw",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "lvmetainfo",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "{\"data\":{\"appVersion\":\"15.4.0\",\"ch1\":\"Direct\",\"ch2\":\"enter_url\",\"editType\":\"edit\",\"exportType\":\"export\",\"original_edittype\":\"edit\",\"os\":\"web\",\"product\":\"vicutweb\",\"videoId\":\"fU8fm2nb5VVrnNy5mBLs2vGHRze4bimIKig6-3x\"},\"source_type\":\"vicutweb\"}"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "te_is_reencode",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:01:43.881000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:01:43.866000000\ufffd"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 103.881
+              },
+              {
+                "name": "bitrate",
+                "value": 7403482
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:44"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-21 01:46:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shattering Silence with Song How a 2018 Musical Theater Sparked Justice for Women in Rural Indonesia 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Musical theatre|Gender equality|Community art|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-6.821300",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "107.132600",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Shattering Silence with Song is a narrative-based musical theater performance held in March 2018 at Gedung Dewan Kesenian Cianjur, Indonesia. Initiated by the Bumi Manusia Foundation, the play merged traditional Sundanese performing arts with powerful narratives addressing gender-based violence. Drawing over 1,600 attendees, the performance served as a catalyst for dialogue, empathy, and advocacy on women's rights in rural communities.\n<p>This image is part of a broader documentation effort to highlight the transformative power of community-based cultural action in promoting gender justice. The initiative is also the subject of an impact report that details the program\u2019s design, execution, and long-term outcomes in alignment with the UN Sustainable Development Goals (SDG 5, SDG 16, SDG 17).\n</p><p>DOI: 10.5281/ZENODO.15477686\n</p>\nURL   <a rel=\"nofollow\" class=\"external free\" href=\"https://zenodo.org/doi/10.5281/zenodo.15477686\">https://zenodo.org/doi/10.5281/zenodo.15477686</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebi_Wijaya_Archive\" title=\"User:Ebi Wijaya Archive\">Ebi Wijaya Archive</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165711365": {
+        "pageid": 165711365,
+        "ns": 6,
+        "title": "File:Shattering Silence with Song How a 2018 Musical Theater Sparked Justice for Women in Rural Indonesia 13.webm",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 33599084,
+            "width": 1280,
+            "height": 720,
+            "duration": 47.582,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Shattering_Silence_with_Song_How_a_2018_Musical_Theater_Sparked_Justice_for_Women_in_Rural_Indonesia_13.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shattering_Silence_with_Song_How_a_2018_Musical_Theater_Sparked_Justice_for_Women_in_Rural_Indonesia_13.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165711365",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 33599084
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 33599084
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 128000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "1ee2ea753ee47ad4",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "name",
+                            "value": "unknown"
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 128000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.045351473922902494
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.045351473922902494
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.971
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "bab93f83c6817422",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": false
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.971
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 5521041
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 337"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso6iso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "hw",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "lvmetainfo",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "{\"data\":{\"appVersion\":\"15.4.0\",\"ch1\":\"Direct\",\"ch2\":\"enter_url\",\"editType\":\"edit\",\"exportType\":\"export\",\"original_edittype\":\"edit\",\"os\":\"web\",\"product\":\"vicutweb\",\"videoId\":\"xI14oUfYJpFG71ZIm58MTWreEDEod6MaH_LMfHk\"},\"source_type\":\"vicutweb\"}"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "te_is_reencode",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:47.582000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:47.534000000\ufffd"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 47.582
+              },
+              {
+                "name": "bitrate",
+                "value": 5649041
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:48"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-21 01:47:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shattering Silence with Song How a 2018 Musical Theater Sparked Justice for Women in Rural Indonesia 13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Musical theatre|Gender equality|Community art|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-6.821300",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "107.132600",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Shattering Silence with Song is a narrative-based musical theater performance held in March 2018 at Gedung Dewan Kesenian Cianjur, Indonesia. Initiated by the Bumi Manusia Foundation, the play merged traditional Sundanese performing arts with powerful narratives addressing gender-based violence. Drawing over 1,600 attendees, the performance served as a catalyst for dialogue, empathy, and advocacy on women's rights in rural communities.\n<p>This image is part of a broader documentation effort to highlight the transformative power of community-based cultural action in promoting gender justice. The initiative is also the subject of an impact report that details the program\u2019s design, execution, and long-term outcomes in alignment with the UN Sustainable Development Goals (SDG 5, SDG 16, SDG 17).\n</p><p>DOI: 10.5281/ZENODO.15477686\n</p>\nURL   <a rel=\"nofollow\" class=\"external free\" href=\"https://zenodo.org/doi/10.5281/zenodo.15477686\">https://zenodo.org/doi/10.5281/zenodo.15477686</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebi_Wijaya_Archive\" title=\"User:Ebi Wijaya Archive\">Ebi Wijaya Archive</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "31271045": {
+        "pageid": 31271045,
+        "ns": 6,
+        "title": "File:Simulating-and-stimulating-performance-introducing-distributed-simulation-to-enhance-musical-Movie1.ogv",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7445761,
+            "width": 492,
+            "height": 360,
+            "duration": 123.6,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Simulating-and-stimulating-performance-introducing-distributed-simulation-to-enhance-musical-Movie1.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Simulating-and-stimulating-performance-introducing-distributed-simulation-to-enhance-musical-Movie1.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31271045",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 414814249,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 414814249
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.1 20090822 (Thusnelda)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 123.6
+                      },
+                      {
+                        "name": "size",
+                        "value": 6131887
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 31
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 23
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 492
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 360
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 8
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 25
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1600
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1599
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 48
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 288
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 4278
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 713
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "title",
+                            "value": ""
+                          },
+                          {
+                            "name": "album",
+                            "value": "Simulating and stimulating performance: introducing distributed simulation to enhance musical learning and performance"
+                          },
+                          {
+                            "name": "artist",
+                            "value": "Williamon A, Aufegger L, Eiholzer H"
+                          },
+                          {
+                            "name": "copyrights",
+                            "value": "Copyright \ufffd 2014 Williamon, Aufegger and Eiholzer."
+                          },
+                          {
+                            "name": "license",
+                            "value": "http://creativecommons.org/licenses/by/3.0/"
+                          },
+                          {
+                            "name": "description",
+                            "value": ""
+                          },
+                          {
+                            "name": "date",
+                            "value": "2014-02-04"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 914680188,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 914680188
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20101101 (Schaufenugget)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 123.53733333333334
+                      },
+                      {
+                        "name": "size",
+                        "value": 1313874
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 112000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 123.6
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2014-02-21 05:23:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Simulating-and-stimulating-performance-introducing-distributed-simulation-to-enhance-musical-Movie1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Music education|Media from Frontiers in Psychology|Media lacking a description|Uploaded with Open Access Media Importer|Ogv videos|Uploaded with Open Access Media Importer and needing category review|Video display resolution 492 x 360|Videos from open-access scholarly articles|Videos of virtual reality|Distributed simulation|Performance anxiety|Performance science",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "DateTimeOriginal": {
+                "value": "2014-02-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<cite style=\"font-style:normal\">Williamon A, Aufegger L, Eiholzer H (2014). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912881\">Simulating and stimulating performance: introducing distributed simulation to enhance musical learning and performance</a>\". <i>Frontiers in Psychology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.3389/fpsyg.2014.00025\">10.3389/fpsyg.2014.00025</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/24550856\">24550856</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912881\">3912881</a>.</cite>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Williamon A, Aufegger L, Eiholzer H",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> \u2013 to copy, distribute and transmit the work</li>\n<li><b>to remix</b> \u2013 to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> \u2013 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "83499537": {
+        "pageid": 83499537,
+        "ns": 6,
+        "title": "File:Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 11.ogv",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 200553227,
+            "width": 3840,
+            "height": 2160,
+            "duration": 33.62133333333333,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_11.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_11.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83499537",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 2034428292,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 2034428292
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.48.101"
+                      },
+                      {
+                        "name": "length",
+                        "value": 33.19168869408104
+                      },
+                      {
+                        "name": "size",
+                        "value": 200053446
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 240
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 135
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 3840
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 2160
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 29887
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1000
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 65536
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 65536
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 14400568
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 0
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 12240
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 194400
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 32400
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "creation_time",
+                            "value": "2017-10-14 15:12:33"
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "handler_name",
+                            "value": "VideoHandle"
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavc55.69.100 libtheora"
+                          },
+                          {
+                            "name": "major_brand",
+                            "value": "mp42"
+                          },
+                          {
+                            "name": "minor_version",
+                            "value": "0"
+                          },
+                          {
+                            "name": "compatible_brands",
+                            "value": "isommp42"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 3744861085,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 3744861085
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.48.101"
+                      },
+                      {
+                        "name": "length",
+                        "value": 33.62133333333333
+                      },
+                      {
+                        "name": "size",
+                        "value": 499781
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 128000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "creation_time",
+                            "value": "2017-10-14 15:12:33"
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "handler_name",
+                            "value": "SoundHandle"
+                          },
+                          {
+                            "name": "encoder",
+                            "value": "Lavc55.69.100 libvorbis"
+                          },
+                          {
+                            "name": "major_brand",
+                            "value": "mp42"
+                          },
+                          {
+                            "name": "minor_version",
+                            "value": "0"
+                          },
+                          {
+                            "name": "compatible_brands",
+                            "value": "isommp42"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 33.62133333333333
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-10-30 07:33:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with LG G4|People of Tbilisi|Self-published work|Street musicians in Georgia (country)|2017 in Tbilisi|Women singing|Vaping-related videos|Videos of 2017 from Georgia (country)|Videos of people singing|Men playing acoustic guitars|Women with microphones in Georgia (country)|People using electronic cigarettes|Photographs by Mostafa Meraji|Guitar cases|October 2017 videos|October 2017 in Georgia (country)|Unidentified locations in Tbilisi|Videos of street musicians|Videos from Tbilisi|Pedestrian underpasses in Tbilisi",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tbilisi, in some countries also still known by its pre-1936 international designation Tiflis, is the capital and the largest city of Georgia, lying on the banks of the Kura River with a population of approximately 1.5 million people.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<ul><li>Taken in\u00a0October 2017</li>\n<li>The date provided by the uploader, 2018-11-03, is incorrect, as the video was most likely taken between <a href=\"//commons.wikimedia.org/wiki/File:Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_08.ogv\" title=\"File:Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 08.ogv\">File:Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 08.ogv</a> on 2017-10-14 and <a href=\"//commons.wikimedia.org/wiki/File:Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_12.ogv\" title=\"File:Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 12.ogv\">File:Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 12.ogv</a> on 2017-10-17</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "87196162": {
+        "pageid": 87196162,
+        "ns": 6,
+        "title": "File:Thawra Protests TyreSourLebanon RomanDeckert22102019.webm",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3039705,
+            "width": 1920,
+            "height": 1080,
+            "duration": 10.429,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Thawra_Protests_TyreSourLebanon_RomanDeckert22102019.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thawra_Protests_TyreSourLebanon_RomanDeckert22102019.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87196162",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.19-201912131005"
+              },
+              {
+                "name": "filesize",
+                "value": 3039705
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 3039705
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 128000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 128000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.045351473922902494
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.045351473922902494
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 2203733
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [3 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 399"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.104"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.104"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "qt  "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "qt  "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.apple.quicktime.creationdate",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "2019-10-22T17:57:06+0300"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.apple.quicktime.make",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Apple"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.apple.quicktime.model",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iPhone 5"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.apple.quicktime.software",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "10.3.4"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.104"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.66.100 libvpx"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.66.100 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Core Media Video"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Core Media Audio"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:10.413000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:10.429000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 10.429
+              },
+              {
+                "name": "bitrate",
+                "value": 2331733
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:10"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-18 10:13:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Thawra Protests TyreSourLebanon RomanDeckert22102019",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Tyre Corniche|2019 Lebanese protests in Tyre|Videos from Tyre, Lebanon",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Protestors in Tyre/Sour, Southern Lebanon, cheering to a female singer during nonsectarian demonstrations against government corruption and austerity measures that started across the country on October 17th, 2019. Elissa Square as the venue features the highest flagpole of Lebanon (32.6 meters) with a national flag of 11 X 19 meters, the skyline of Old Town's harbour area in the background",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-10-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:RomanDeckert\" title=\"User:RomanDeckert\">RomanDeckert</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "89168398": {
+        "pageid": 89168398,
+        "ns": 6,
+        "title": "File:Wiki loves planes.webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 61232727,
+            "width": 1920,
+            "height": 1080,
+            "duration": 69.19200000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wiki_loves_planes.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wiki_loves_planes.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89168398",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.19-201912131005"
+              },
+              {
+                "name": "filesize",
+                "value": 61232727
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 61232727
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [4 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 399"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5802::16aa [3 bytes]) at 444"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5819::16bb [4 bytes]) at 450"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.35.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.64.101 libvpx"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.64.101 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "\ufffdMainconcept Video Media Handler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "#Mainconcept MP4 Sound Media Handler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:01:09.176000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:01:09.192000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 69.19200000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 7079746.444675684
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:09"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-15 22:08:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wiki loves planes",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from Wiki Loves Africa 2020|Self-published work|Videos from Kenya|Best videos from Wiki Loves Africa 2020|Aircraft in Kenya|Images from Wiki Loves Africa 2020 to check|Uploaded via Campaign:wlafrica|Maintenance for Wiki Loves Africa 2020|Videos from Wiki Loves Africa 2020|Images from Wiki Loves Africa 2020 in Kenya",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The video contains footage of planes preparing for take off, cockpit footage and up close scenes of the aircraft passing right above.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-04-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alvin_Zulu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alvin Zulu (page does not exist)\">Alvin Zulu</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "87631224": {
+        "pageid": 87631224,
+        "ns": 6,
+        "title": "File:Wiyaala live performance kona bar.webm",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 24719732,
+            "width": 1920,
+            "height": 1080,
+            "duration": 31.763,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wiyaala_live_performance_kona_bar.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wiyaala_live_performance_kona_bar.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87631224",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.19-201912131005"
+              },
+              {
+                "name": "filesize",
+                "value": 24719732
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 24719732
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 128000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 128000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.045351473922902494
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.045351473922902494
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 25
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 25
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 6098045
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [4 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 399"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isommp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "location",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "+00.0000+000.0000/"
+                          },
+                          {
+                            "name": 1,
+                            "value": "+00.0000+000.0000/"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.54.100 libvpx"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.54.100 libvorbis"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandle"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandle"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:31.763000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:31.683000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 31.763
+              },
+              {
+                "name": "bitrate",
+                "value": 6226045
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:32"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-02 23:13:14",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wiyaala live performance kona bar",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Osu (Greater Accra)|Self-published work|Night in Ghana|Images from Wiki Loves Folklore 2020 in Ghana|Videos from Wiki Loves Folklore 2020|Uploaded via Campaign:wllghana",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Musician Wiyaala  performing live at Batakari festival Kona bar Osu.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-03-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Warmglow\" title=\"User:Warmglow\">Warmglow</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

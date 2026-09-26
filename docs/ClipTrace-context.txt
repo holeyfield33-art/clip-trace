@@ -1,0 +1,937 @@
+# CLIPTRACE — PROJECT SUMMARY FOR NEW AGENT
+
+## What ClipTrace is
+
+ClipTrace is a proposed **video provenance, derivative-detection, and verifiable-evidence system** for content creators.
+
+The problem we are trying to solve is simple:
+
+A creator uploads a video.
+
+Later, pieces of that video may appear elsewhere as:
+
+- TikTok clips
+- YouTube Shorts
+- reaction videos
+- compilations
+- screen recordings
+- reposts
+- cropped edits
+- mirrored versions
+- captioned versions
+- re-encoded versions
+- clips with replaced audio
+- clips inside picture-in-picture layouts
+
+Once video has been displayed to another person, it is impossible to guarantee that copying or screen recording cannot happen.
+
+Therefore ClipTrace is **not trying to make clipping technically impossible**.
+
+Instead, the goal is to make video provenance and reuse:
+
+**detectable, attributable when evidence supports it, cryptographically recordable, and independently verifiable.**
+
+The conceptual flow is:
+
+```text
+creator uploads video
+        ↓
+exact file is registered
+        ↓
+media fingerprints are extracted
+        ↓
+origin assertion is signed
+        ↓
+candidate clip appears
+        ↓
+ClipTrace compares candidate to registered media
+        ↓
+matching source interval is identified
+        ↓
+authorization is checked separately
+        ↓
+signed evidence receipt is produced
+```
+
+The long-term product idea is:
+
+**Know where your content came from, where pieces of it went, and what evidence supports that relationship.**
+
+---
+
+# The core distinction
+
+ClipTrace deliberately separates two fundamentally different kinds of evidence.
+
+## 1. Cryptographic provenance
+
+This can prove things like:
+
+- these exact bytes were registered
+- this manifest has not been altered
+- a particular ClipTrace signing key signed a particular claim
+- a signed child/parent relationship exists
+- a verification receipt has not been modified
+
+Examples:
+
+```text
+SHA-256
+Ed25519 signatures
+signed manifests
+signed receipts
+external checkpoints
+```
+
+Cryptography can prove the integrity of an assertion.
+
+It cannot automatically prove the assertion is true.
+
+For example:
+
+A signed statement saying:
+
+> Account A registered this video.
+
+does NOT prove:
+
+> Account A created or owns this video.
+
+---
+
+# 2. Perceptual derivation evidence
+
+This is used when the copied video is no longer byte-identical.
+
+For example:
+
+```text
+original.mp4
+    ↓
+crop
+re-encode
+captions
+mirror
+speed change
+screen recording
+    ↓
+different file
+```
+
+SHA-256 will no longer match.
+
+So ClipTrace uses versioned media evidence such as:
+
+- visual fingerprints
+- audio fingerprints
+- scene/time indexes
+- temporal alignment
+- optional transcript matching
+
+These produce probabilistic findings such as:
+
+> This 15-second candidate strongly resembles minutes 12:04–12:19 of registered Asset X.
+
+That is different from cryptographic proof.
+
+ClipTrace must never silently convert a similarity result into a claim of:
+
+- ownership
+- theft
+- infringement
+- authorization
+- authenticity
+
+---
+
+# ClipTrace claim model
+
+The current architecture separates evidence into explicit claims:
+
+### C1 — Exact Asset
+
+The candidate file's exact SHA-256 matches registered bytes.
+
+### C2 — Signed Lineage
+
+A valid signed parent/child provenance relationship exists.
+
+### C3 — Visual Derivation
+
+Visual evidence supports derivation from a registered source.
+
+### C4 — Audio Derivation
+
+Audio evidence supports derivation from a registered source.
+
+### C5 — Transcript Derivation
+
+Transcript evidence supports textual/speech similarity.
+
+This is supporting evidence and cannot establish audiovisual ancestry by itself.
+
+### C6 — Watermark Attribution
+
+Future capability.
+
+Not part of the current experiment.
+
+### C7 — Authorization
+
+A signed, scoped authorization record is valid at verification time.
+
+### C8 — Publication
+
+Not evaluated in the MVP.
+
+### C9 — Ownership
+
+ClipTrace does not determine ownership.
+
+---
+
+# Critical system rule
+
+The architecture has one non-negotiable invariant:
+
+```text
+C3 / C4 / C5
+cannot automatically establish
+C1 / C2 / C7 / C8 / C9
+```
+
+In plain English:
+
+**Similarity is not ownership.**
+
+**Similarity is not authorization.**
+
+**Similarity is not infringement.**
+
+---
+
+# What ClipTrace is NOT
+
+The MVP is deliberately narrow.
+
+ClipTrace is not currently:
+
+- DRM
+- anti-screen-recording software
+- a copyright court
+- an ownership certification service
+- an automated DMCA system
+- a social-media crawler
+- a moderation platform
+- a licensing marketplace
+- a blockchain system
+- a creator social network
+- a browser extension
+- a per-viewer watermarking system
+
+Those features were intentionally excluded so we can first answer whether the core technical premise works.
+
+---
+
+# Origin registration
+
+When a creator registers media, ClipTrace records the **exact bytes received**.
+
+The hard identity is:
+
+```text
+SHA-256(original uploaded bytes)
+```
+
+ClipTrace may create normalized versions for feature extraction, but the normalized version never replaces the original file's cryptographic identity.
+
+The signed Origin Manifest records approximately:
+
+- asset ID
+- exact SHA-256
+- file/media properties
+- processing/decode profile
+- hashes of fingerprint artifacts
+- registrant/account assertion
+- registration timestamp
+- ClipTrace signing key
+- signature
+
+Important semantic meaning:
+
+An Origin Manifest means:
+
+> Account X registered bytes Y with ClipTrace and asserted origin.
+
+It does NOT mean:
+
+> Account X legally owns Y.
+
+---
+
+# Competing registrations
+
+ClipTrace does not use a "first person wins" model.
+
+Two users may register:
+
+- identical bytes
+- near-identical videos
+- transformed versions of the same content
+
+The system may report:
+
+```text
+no known conflict
+
+exact registration conflict
+
+near-duplicate conflict
+
+common-content ambiguity
+```
+
+But ClipTrace must not automatically say that the later registrant is a derivative of the earlier one.
+
+This avoids creating a provenance-squatting system where someone could steal a video, register it first, and then block the actual creator.
+
+---
+
+# Authorized derivatives
+
+A creator may deliberately create a short clip from a registered video.
+
+An authorized derivative can have a signed Derivative Manifest binding:
+
+- exact child file hash
+- parent asset
+- parent manifest hash
+- source time intervals
+- declared transformations
+- authorization reference
+- validity period
+- authorizer identity
+- signature
+
+Example:
+
+```text
+Podcast Episode 47
+        ↓
+minutes 18:22–18:52
+        ↓
+authorized 30-second TikTok clip
+```
+
+This creates explicit lineage.
+
+---
+
+# Candidate verification
+
+When a suspected clip is uploaded, ClipTrace conceptually does:
+
+```text
+candidate video
+      ↓
+exact SHA-256 lookup
+      ↓
+feature extraction
+      ↓
+fast candidate retrieval
+      ↓
+pairwise temporal verification
+      ↓
+separate visual/audio evidence
+      ↓
+authorization check
+      ↓
+Verification Receipt
+```
+
+The receipt must preserve separate modality evidence.
+
+For example:
+
+```text
+C1 Exact Asset: different
+
+C2 Signed Lineage: absent
+
+C3 Visual Derivation: supported
+
+C4 Audio Derivation: insufficient
+
+C7 Authorization: unknown
+```
+
+That is a valid ClipTrace result.
+
+It should NOT become:
+
+> Stolen clip.
+
+---
+
+# Verification receipts
+
+The primary external evidence artifact is the signed Verification Receipt.
+
+A receipt records things such as:
+
+- candidate hash
+- source asset evaluated
+- registry snapshot
+- search scope
+- claim states C1–C9
+- temporal alignment
+- visual/audio scores
+- matcher version
+- decode version
+- threshold profile
+- content hashes of evidence artifacts
+- limitations
+- ClipTrace signing key
+- signature
+
+This allows a third party to distinguish different verification levels.
+
+---
+
+# Verification levels
+
+## V1 — Signature verification
+
+Proves:
+
+> ClipTrace signed this particular receipt.
+
+It does not prove the matcher was correct.
+
+---
+
+## V2 — Artifact integrity
+
+Proves:
+
+> These exact fingerprints/alignment artifacts are the ones referenced in the signed receipt.
+
+It still does not prove the worker honestly calculated them.
+
+---
+
+## V3-D — Deterministic computational reproduction
+
+A deterministic matcher can be rerun and produces the identical result.
+
+---
+
+## V3-T — Tolerance computational reproduction
+
+A floating-point or ML-based matcher can be rerun and reproduces the result within an explicitly defined tolerance.
+
+---
+
+# Why external checkpoints exist
+
+ClipTrace borrows an important trust principle from Aletheia:
+
+A signature by itself only proves self-consistency.
+
+If an attacker controls:
+
+```text
+manifest
+signature
+public key
+database
+```
+
+they could replace the entire bundle.
+
+Therefore ClipTrace maintains:
+
+- an append-only event history
+- a separate checkpoint signing key
+- externally published checkpoints
+
+A checkpoint binds approximately:
+
+```text
+event sequence
+log head
+key-directory state/hash
+previous checkpoint
+declared timestamp
+signature
+```
+
+The goal is to make large retroactive rewriting detectable.
+
+This is not blockchain.
+
+---
+
+# Current project stage
+
+The production ClipTrace service has **not** been built.
+
+We are intentionally running the core matching research first.
+
+The research repository is:
+
+`cliptrace-e1`
+
+The purpose of E1 is to determine whether the core derivation-detection idea actually works.
+
+---
+
+# Completed Stage 1 — Smoke pipeline
+
+Smoke baseline commit:
+
+`765509294925929cc7144af9d4ba036d3652c2b9`
+
+The smoke pipeline proved that the experimental harness works end-to-end:
+
+- SHA-256 bookkeeping
+- visual fingerprinting
+- audio fingerprinting
+- ground-truth generation
+- temporal alignment
+- evidence artifacts
+- metrics
+- report generation
+- repeatable CLI
+
+It deliberately did not establish whether the matching science works.
+
+---
+
+# Completed Stage 2 — Q0 qualification
+
+Q0 commit:
+
+`aeefc29f066a558322ab08dd477a5ad0ec04b56e`
+
+Q0 qualified the experimental methodology.
+
+Results:
+
+- 22 tests passed
+- 4 source videos
+- 8 confusing negatives
+- 48 candidates
+- calibration/evaluation split by parent identity
+- no ground-truth leakage
+- immutable threshold profiles
+- ambiguity supported
+- all candidates retained in metrics
+- deterministic fingerprint artifacts on focused reruns
+
+Q0 verdict:
+
+**PASS**
+
+This means the harness is trustworthy enough to run the real experiment.
+
+It does not mean ClipTrace itself works.
+
+---
+
+# Important Q0 findings
+
+Q0 exposed several real matcher weaknesses.
+
+## Current visual baseline
+
+Current frame pHash implementation:
+
+```text
+TPR = 0.90
+FPR = 0.75
+```
+
+Meaning:
+
+it recognizes many true positives but also incorrectly matches far too many negatives.
+
+Therefore the existing pHash approach remains only a baseline/control.
+
+It is NOT an acceptable final ClipTrace visual matcher.
+
+---
+
+# Current audio baseline
+
+The current spectral-landmark audio adapter produced essentially collapsed positive and negative scores.
+
+Therefore:
+
+the existing audio implementation is not useful for C4.
+
+E1 must either test a real audio fingerprint implementation or conclude audio is NO-GO for this version.
+
+---
+
+# Current temporal alignment
+
+Q0 improved temporal performance compared with smoke:
+
+```text
+mean IoU ≈ 0.55
+start error ≈ 0.89 s
+end error ≈ 3.2 s
+false-continuous rate = 0
+```
+
+This is promising but still not good enough to freeze.
+
+The most encouraging result is that discontinuous clips were not falsely converted into continuous provenance intervals.
+
+The weak point remains source interval accuracy, especially the end boundary.
+
+---
+
+# What E1 is now trying to answer
+
+The central scientific question is:
+
+**Can ClipTrace distinguish actual media derivation from mere resemblance?**
+
+For example:
+
+Can it recognize:
+
+```text
+original video
+→ crop
+→ subtitles
+→ re-encode
+→ mirror
+→ speed change
+```
+
+while NOT falsely matching:
+
+```text
+two unrelated talking-head videos
+```
+
+or:
+
+```text
+two videos using the same stock footage
+```
+
+or:
+
+```text
+two videos showing the same game map
+```
+
+---
+
+# Full E1 experiment
+
+E1 will use approximately:
+
+```text
+16 source videos
+24 deliberately confusing negatives
+~1,200–1,800 transformed candidates
+```
+
+The corpus will cover:
+
+- talking heads
+- interviews
+- gameplay
+- software screen recordings
+- outdoor footage
+- low-light footage
+- slides
+- stock-style B-roll
+- animation
+- music-heavy video
+- low-visual/high-audio media
+- high-visual media
+- vertical mobile video
+- high-motion footage
+- deliberately weak controls
+
+---
+
+# Transformations being tested
+
+Candidates will include transformations such as:
+
+- H.264/H.265/re-encoding
+- bitrate reduction
+- resolution reduction
+- crop
+- mirror
+- rotation
+- perspective changes
+- subtitles
+- large overlays
+- logos
+- emoji
+- reaction layouts
+- picture-in-picture
+- trimming
+- speed changes
+- frame insertion/deletion
+- reordered scenes
+- discontinuous excerpts
+- replaced audio
+- shifted audio
+- pitch changes
+- music overlay
+- noise
+- silence insertion
+- screen recording
+- filming a monitor
+- open-source upscale
+- frame interpolation
+
+---
+
+# Clip lengths
+
+E1 explicitly tests:
+
+```text
+1 second
+2 seconds
+3 seconds
+5 seconds
+10 seconds
+15 seconds
+30 seconds
+```
+
+We are not assuming that extremely short clips can be reliably attributed.
+
+E1 must discover the minimum defensible clip length for each modality.
+
+---
+
+# Candidate matching approaches
+
+No final algorithm has been chosen.
+
+That is intentional.
+
+E1 will compare approaches such as:
+
+### Visual
+
+- simple frame perceptual hashes
+- temporal visual fingerprints
+- crop/region-resistant local evidence
+- lightweight visual embeddings if resources permit
+
+### Audio
+
+- current failed baseline
+- genuine locally runnable audio fingerprinting if feasible
+
+### Alignment
+
+- temporal scene/landmark alignment approaches
+
+### Transcript
+
+Exploratory only.
+
+Transcript similarity must not become media ancestry.
+
+---
+
+# Retrieval vs verification
+
+ClipTrace uses a two-stage architecture.
+
+## Stage 1 — Retrieval
+
+Fast search asks:
+
+> Which registered videos might this clip have come from?
+
+This should return a small candidate set.
+
+---
+
+## Stage 2 — Verification
+
+A more expensive process asks:
+
+> Does this clip actually align with this source, and where?
+
+This is where temporal evidence is established.
+
+We do not want expensive pairwise alignment against every video in the registry.
+
+---
+
+# E1 scientific partitioning
+
+Full E1 uses:
+
+```text
+DEVELOPMENT
+CALIBRATION
+SEALED EVALUATION
+```
+
+Development can be used for debugging.
+
+Calibration can be used for selecting thresholds.
+
+The sealed evaluation set cannot be used to tune the system.
+
+Source identity determines the partition so transformed copies of the same source cannot leak between sets.
+
+This prevents us from accidentally training on our own test set.
+
+---
+
+# Major metrics
+
+E1 evaluates:
+
+- true positive rate
+- false positive rate
+- precision
+- recall
+- F1
+- retrieval recall@K
+- correct-parent rate
+- wrong-parent rate
+- ambiguity rate
+- temporal IoU
+- start-time error
+- end-time error
+- fragmentation error
+- false-continuous rate
+- CPU/runtime
+- RAM
+- evidence artifact size
+- reproducibility
+
+Results must be broken down by:
+
+- matcher
+- modality
+- transformation
+- clip length
+- source category
+- severity
+
+An overall average is not sufficient.
+
+---
+
+# Ambiguity is a valid result
+
+ClipTrace is allowed to say:
+
+`AMBIGUOUS`
+
+This is important.
+
+If two registered videos both contain the same stock footage, ClipTrace should not automatically choose whichever receives a slightly higher similarity score.
+
+Correct behavior may be:
+
+> Multiple registered sources contain matching media evidence; source ancestry cannot be uniquely attributed.
+
+This is better than a confident false accusation.
+
+---
+
+# Scientific success criteria
+
+E1 produces independent verdicts:
+
+```text
+VISUAL-GO / CAUTION / NO-GO
+
+AUDIO-GO / CAUTION / NO-GO
+
+ALIGNMENT-GO / CAUTION / NO-GO
+
+REPRODUCIBILITY-GO / CAUTION / NO-GO
+```
+
+Then an overall verdict.
+
+### STRONG GO
+
+Visual and audio both work well, alignment is trustworthy, and multimodal evidence materially improves performance.
+
+### CORE GO
+
+At least one perceptual modality reliably separates real derivation from confusing negatives and temporal provenance works sufficiently well.
+
+### CAUTION
+
+The system works only under restricted conditions such as longer clips or mild transformations.
+
+### CORE NO-GO
+
+No tested modality can distinguish derivation from resemblance at an acceptable false-positive rate,
+
+or temporal alignment routinely invents false provenance intervals.
+
+A NO-GO is an acceptable scientific result.
+
+We are explicitly not allowed to force the experiment to succeed.
+
+---
+
+# What the new agent must NOT do
+
+Do not:
+
+- start production ClipTrace
+- build a creator dashboard
+- build authentication/billing
+- build crawling
+- build enforcement
+- build watermarking
+- add blockchain
+- assume pHash is the final matcher
+- hide the failed audio baseline
+- tune using sealed evaluation results
+- treat semantic similarity as ancestry
+- drop failed candidates from denominators
+- change thresholds after examining final evaluation
+- automatically proceed to product implementation after E1
+
+---
+
+# Current mission for the new agent
+
+Continue from commit:
+
+`aeefc29f066a558322ab08dd477a5ad0ec04b56e`
+
+The harness and methodology are qualified.
+
+The next task is the **full CLIPTRACE-E1 experiment** under the separate directive.
+
+The immediate goal is not:
+
+> Build ClipTrace.
+
+The immediate goal is:
+
+> Determine, with controlled evidence, whether ClipTrace's fundamental media-derivation detection premise is technically viable.
+
+The question E1 must answer is:
+
+# Can ClipTrace distinguish actual video derivation from ordinary visual/audio resemblance while preserving honest source attribution and temporal evidence?
+
+Only after an explicit E1 GO decision may production ClipTrace matching integration begin.

@@ -1,0 +1,38 @@
+{
+  "all_asset_and_generated_media_hashes_verified": true,
+  "asset_count": 40,
+  "candidate_count": 1512,
+  "code_and_frozen_inputs_unchanged": true,
+  "completed_at": "2026-09-26T14:14:47.807362+00:00",
+  "content_addressed_artifacts_checked": 12815,
+  "frozen_profile_sha256": "8bc5c78b4b02eaf44c4367b55628f82a6fee748416f33b43a5e836252addd25e",
+  "partitions": {
+    "calibration": {
+      "count": 378,
+      "states": {
+        "evaluated": 365,
+        "failed": 1,
+        "unsupported": 12
+      }
+    },
+    "development": {
+      "count": 378,
+      "states": {
+        "evaluated": 366,
+        "unsupported": 12
+      }
+    },
+    "evaluation": {
+      "count": 756,
+      "states": {
+        "evaluated": 739,
+        "failed": 1,
+        "unsupported": 16
+      }
+    }
+  },
+  "passed": true,
+  "reproduction": "12 candidates and 16 sources in each of two runtimes; exact media/feature hashes and zero numeric deltas; ranking comparator caveat documented",
+  "required_deliverables": 17,
+  "tests": "34 passed before frozen evaluation"
+}

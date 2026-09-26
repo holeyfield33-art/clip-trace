@@ -1,0 +1,366 @@
+{
+  "comparisons": [
+    {
+      "candidate_id": "E00004",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00289",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00291",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00292",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00046",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00457",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00459",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00460",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00088",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00205",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00207",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    },
+    {
+      "candidate_id": "E00208",
+      "methods": {
+        "A-baseline": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "A-chromaprint": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-A": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-B": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        },
+        "V-C": {
+          "fresh_entry_type": "tuple",
+          "original_entry_type": "list",
+          "serialized_ranking_equal": true
+        }
+      }
+    }
+  ],
+  "finding": "Frozen reproducibility code compares JSON-loaded list entries to fresh tuple entries. This causes ranking_equal=False even for identical serialized rankings.",
+  "scope": "Post-evaluation reporting audit only; frozen code and classifications unchanged."
+}

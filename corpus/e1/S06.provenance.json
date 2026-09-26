@@ -1,0 +1,105 @@
+{
+  "asset_id": "S06",
+  "partition": "calibration",
+  "category": "low_light",
+  "role": "source",
+  "identity_group": "commons:115344735",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Ljubljana_city_by_night_(4k).webm",
+  "source_title": "File:Ljubljana city by night (4k).webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Ljubljana_city_by_night_%284k%29.webm/Ljubljana_city_by_night_%284k%29.webm.480p.vp9.webm",
+  "download_sha256": "1316cad697bae8abe3abfe33e00067450f5d7e148b9298f7fb499c8687c1d6bd",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/SpiritOfSlovenia\">Miha Lesjak</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2022-02-18 11:37:11",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Ljubljana city by night (4k)",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Media from YouTube|Cessna 152|Files from external sources with reviewed licenses|Letalski center Maribor|Uploaded with video2commons|Aerial videos from Slovenia|Night in Ljubljana|Videos from Ljubljana|Videos of 2021 from Slovenia|Videos by Miha Lesjak",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Ljubljana city by night from the air in a Cessna 152.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2021-04-15",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ctPocvam9iM\"><bdi lang=\"\">[4k] Ljubljana city by night</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctPocvam9iM\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/SpiritOfSlovenia\">Miha Lesjak</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Miha Lesjak",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S06.mp4",
+  "sha256": "6ce755e8c127afeb8cb08f549094f124b82fe976ecc971168561da480dade8d0",
+  "status": "ready"
+}

@@ -1,0 +1,254 @@
+{
+  "all_hashes_match": true,
+  "all_have_license_notes": true,
+  "assets": [
+    {
+      "asset_id": "N01",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N02",
+      "duration_s": 48.001,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N03",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N04",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N05",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N06",
+      "duration_s": 48.002,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N07",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N08",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N09",
+      "duration_s": 48.04,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N10",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N11",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N12",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N13",
+      "duration_s": 48.007,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N14",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N15",
+      "duration_s": 48.001,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N16",
+      "duration_s": 48.015,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N17",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N18",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N19",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N20",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N21",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N22",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N23",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "N24",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S01",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S02",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S03",
+      "duration_s": 48.001,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S04",
+      "duration_s": 48.001,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S05",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S06",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S07",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S08",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S09",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S10",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S11",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S12",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S13",
+      "duration_s": 48.02,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S14",
+      "duration_s": 48.021,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S15",
+      "duration_s": 48.011,
+      "hash_ok": true,
+      "license_present": true
+    },
+    {
+      "asset_id": "S16",
+      "duration_s": 48.0,
+      "hash_ok": true,
+      "license_present": true
+    }
+  ],
+  "counts": {
+    "('calibration', 'negative')": 6,
+    "('calibration', 'source')": 4,
+    "('development', 'negative')": 6,
+    "('development', 'source')": 4,
+    "('evaluation', 'negative')": 12,
+    "('evaluation', 'source')": 8
+  }
+}

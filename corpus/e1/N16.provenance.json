@@ -1,0 +1,101 @@
+{
+  "asset_id": "N16",
+  "partition": "evaluation",
+  "category": "outdoor_natural_motion",
+  "role": "negative",
+  "identity_group": "commons:124765853",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Picnicing_5525.ogg",
+  "source_title": "File:Picnicing 5525.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Picnicing_5525.ogg/Picnicing_5525.ogg.480p.vp9.webm",
+  "download_sha256": "5829a35986b40f31e56471c387abc82d08a9701cc65e2b55b4084c2b289838fa",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2022-10-31 04:51:33",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Picnicing 5525",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Self-published work|Videos of rivers in Washington (state)|White River in Federation Forest State Park|White River in (FFSP) Image by CLight|Washington (state) River Vid by CLight",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "White River in Federation Forest State Park.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2022-10-29",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N16.mp4",
+  "sha256": "e3268c651ec52d7ca6fb3a6970c16f3f531e73681b95867684a5db5ed7a5065f",
+  "status": "ready"
+}

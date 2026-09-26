@@ -1,0 +1,105 @@
+{
+  "asset_id": "S01",
+  "partition": "evaluation",
+  "category": "talking_head",
+  "role": "source",
+  "identity_group": "commons:67541948",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bernard_Mabille_-_Interview_par_Marc_Delomez.webm",
+  "source_title": "File:Bernard Mabille - Interview par Marc Delomez.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/Bernard_Mabille_-_Interview_par_Marc_Delomez.webm/Bernard_Mabille_-_Interview_par_Marc_Delomez.webm.480p.vp9.webm",
+  "download_sha256": "bd0e40209646d5384447979f107755b7f61a1fc5e33840170068865815a9ddf4",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/garysfez\">Gary Sfez (Director)</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2018-03-21 01:34:29",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Bernard Mabille - Interview par Marc Delomez",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Bernard Mabille|Videos of 2012|Interview videos|Uploaded with video2commons|Videos from Vimeo|Video display resolution 1280 x 720|License reviewed by YouTubeReviewBot|Videos in French",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "This is \"Bernard Mabille - Interview par Marc Delomez\" by Gary Sfez (Director) .",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2012-01-19",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/35308576\" href=\"https://vimeo.com/35308576\">Bernard Mabille - Interview par Marc Delomez</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/35308576\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/garysfez\">Gary Sfez (Director)</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Gary Sfez (Director)",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S01.mp4",
+  "sha256": "084fdf67ed1b2f7789f28f17f4d3b44e7190e9746c54f2fe03dc5f7545d44a04",
+  "status": "ready"
+}

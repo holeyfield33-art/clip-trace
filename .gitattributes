@@ -1,0 +1,5 @@
+* text=auto eol=lf
+results/** -text -eol
+corpus/** -text -eol
+docs/E1-directive.txt -text -eol
+docs/ClipTrace-context.txt -text -eol

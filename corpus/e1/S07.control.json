@@ -1,0 +1,18 @@
+{
+  "acquisition": "self-created",
+  "asset_id": "S07",
+  "audio_note": "self-created synthetic waveform or silence",
+  "category": "presentation_slides",
+  "duration_s": 48,
+  "identity_group": "self-created:S07",
+  "license": "CC0-1.0",
+  "original_has_audio": true,
+  "partition": "evaluation",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S07.mp4",
+  "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+  "role": "source",
+  "sha256": "d4996d0b53ad393e7b7e9030d65a02b0f10414d1faca887ff80f8d79b67b8e46",
+  "status": "ready",
+  "transcript": null,
+  "voice": null
+}

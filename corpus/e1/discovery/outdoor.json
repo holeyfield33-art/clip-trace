@@ -1,0 +1,4500 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "64082463": {
+        "pageid": 64082463,
+        "ns": 6,
+        "title": "File:Cosumnes River Preserve (37682282934).webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 43061368,
+            "width": 1920,
+            "height": 1080,
+            "duration": 19.42,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cosumnes_River_Preserve_%2837682282934%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cosumnes_River_Preserve_(37682282934).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64082463",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.14-201703261440"
+              },
+              {
+                "name": "filesize",
+                "value": 43061368
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 43061368
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [4 bytes]) at 100"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:771] (5802::16aa [3 bytes]) at 462"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:771] (5819::16bb [4 bytes]) at 468"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf57.71.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "XviD4PSP 7.0.423 DAILY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 19.42
+              },
+              {
+                "name": "bitrate",
+                "value": 17738977.54891864
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:19"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-15 13:31:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cosumnes River Preserve (37682282934)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Cosumnes River Preserve|Uploaded with Commonist|Flickr images missing SDC creator|Time-lapse videos from the United States|Flickr videos reviewed by trusted users|Files from the Bureau of Land Management California Flickr stream|Time-lapse videos of rivers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Cosumnes River Preserve is home to California\u2019s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state. Nestled in the heart of California\u2019s Central Valley, the Preserve is a critical stop on the Pacific Flyway for migrating and wintering waterfowl. Over 250 species of birds have been sighted on or near the Preserve, including the Swainson hawk, Canada geese, numerous ducks, and Sandhill cranes.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-11-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/blmcalifornia/37682282934/in/feed\">https://www.flickr.com/photos/blmcalifornia/37682282934/in/feed</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "John Ciccarelli, BLM",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "184158012": {
+        "pageid": 184158012,
+        "ns": 6,
+        "title": "File:Cow Island area of the Upper Missouri River Breaks National Monument (52294177378).webm",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4202214,
+            "width": 1920,
+            "height": 1080,
+            "duration": 8.933,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cow_Island_area_of_the_Upper_Missouri_River_Breaks_National_Monument_%2852294177378%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cow_Island_area_of_the_Upper_Missouri_River_Breaks_National_Monument_(52294177378).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184158012",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.24-202509040923"
+              },
+              {
+                "name": "filesize",
+                "value": 4202214
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 4202214
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "d62ddd7b96a39bb4",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "c771cd7befcbc202",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [12 bytes]) at 343"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 419"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 425"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "M4V "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomavc1mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.19.101 libsvtav1"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.19.101 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ETI ISO Video Media Handler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "ETI ISO Audio Media Handler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:08.933000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:08.913000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 8.933
+              },
+              {
+                "name": "bitrate",
+                "value": 3763317.138699205
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:09"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-15 21:50:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cow Island area of the Upper Missouri River Breaks National Monument (52294177378)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Upper Missouri River Breaks National Monument|PD US USDA FS|Flickr images missing SDC creator|Uploaded with video2commons|Video display resolution 1920 x 1080|Files from the U.S. Forest Service Northern Region Flickr stream|Videos of 2022 from the United States|Flickr videos review needed|Videos taken on 2022-08-17|U.S. Forest Service Flickr files uploaded by OptimusPrimeBot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "These photos show the landscape around river mile 126.5, where the Nez Perce (Nee-Mee-Poo) National Historic Trail crosses the Missouri River in the Upper Missouri River Breaks National Monument. \"In June 1877, the Nez Perce led by Chiefs Joseph, Looking Glass,Tulhuulhulsuit and Whitebird, left their homelands and set out for Canada to avoid being confined on a reservation and to continue to live by the customs and traditions of their ancestors. The trail begins in Oregon and follows the 1,200+ mile journey through Idaho, Wyoming, and finally terminates in Montana, 40 miles from the Canadian border. The trail crosses the Missouri River at this location.\" (2017 BLM Boaters' Gude Judith Landing to James Kipp Recreation Area, Upper Missouri River Breaks National Monument, BLM/MT/GI-08/009 Rev. 11/17, p. 62) \n<p>\"Battle of Cow Island Landing\nCow Island Landing was the location of a September 23-24, 1877, encounter between warriors belonging to five non-treaty Nez Perce bands and a small party of entrenched U.S. Army soldiers and civilian freight clerks. The clash occurred during the 1877 Nez Perce War, at the Cow Creek Landing which was then a commercial freight depot and landing located immediately above the mouth of Cow Creek on the Missouri River. The landing was constructed to enable overland shipping to Fort Benton during seasonal low water on the Missouri via the Cow Creek freight trail, which commenced at the landing. Two steamboats had recently unloaded freight,and a detachment of soldiers under Sergeant William Moelchert happened to be at the landing to retrieve supplies for engineers working upriver. On September 23, the Nez Perce unexpectedly crossed the Missouri River near the landing. Negotiations ensued between Nez Perce leaders and Moelchert regarding supplies sought by the Nez Perce. After Moelchert essentially denied the tribal requests for provisions, warriors opened fire on the soldiers and civilians. The soldiers and clerks took shelter in an irrigation ditch that had been recently dug around the clerks\u2019 tents and effectively defended their position through the night from Nez Perce gunfire from the steep hills north of the landing. \n</p><p>\"The Nez Perce took supplies from the tons of freight stored just north of the landing and camp and burned the remaining stores. The Nez Perce broke off the assault the following morning and resumed their trek north through Cow Creek Canyon in their attempt to reach refuge in Canada. \n</p><p>Approximately 70 miles from the river to the north, near presentday Chinook, Montana, is Bears Paw Battlefield where Chief Joseph surrendered on October 5, 1877, and is famed to have said, \u201cTell General Howard I know his heart. What he told me before, I have it in my heart. I am tired of fighting. Our Chiefs are killed; Looking Glass is dead, Ta Hool\nHool Shute is dead. The old men are all dead. It is the young men who say yes or no. He who led on the young men is dead. It is cold, and we have no blankets; the little children are freezing to death. My people, some of them, have run away to the hills, and have no blankets, no food. No one knows where they are - perhaps freezing to death. I want to have time to look for my children, and see how many of them I can find. Maybe I shall find them among the dead. Hear me, my Chiefs! I am tired; my heart is sick and sad. From where the sun now stands I will fight no more forever.\u201d (2017 BLM Boaters' Gude Judith Landing to James Kipp Recreation Area, Upper Missouri River Breaks National Monument, BLM/MT/GI-08/009 Rev. 11/17, pp. 36-37)\n</p>\nPhotos taken August 10, 2022. K. McCartney",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on\u00a017 August 2022, 19:53:16",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fsnorthernregion/52294177378\">Cow Island area of the Upper Missouri  River Breaks National Monument</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/fsnorthernregion/\">Forest Service - Northern Region</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "184158071": {
+        "pageid": 184158071,
+        "ns": 6,
+        "title": "File:Cow Island area of the Upper Missouri River Breaks National Monument (52294659490).webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9123357,
+            "width": 1920,
+            "height": 1080,
+            "duration": 15,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cow_Island_area_of_the_Upper_Missouri_River_Breaks_National_Monument_%2852294659490%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cow_Island_area_of_the_Upper_Missouri_River_Breaks_National_Monument_(52294659490).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184158071",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.24-202509040923"
+              },
+              {
+                "name": "filesize",
+                "value": 9123357
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 9123357
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "682821cb2f318d16",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "43839f3d69f1ed3e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [12 bytes]) at 343"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 419"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 425"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "M4V "
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomavc1mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.7.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.19.101 libsvtav1"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.19.101 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ETI ISO Video Media Handler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "ETI ISO Audio Media Handler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:15.000000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:14.993000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 15
+              },
+              {
+                "name": "bitrate",
+                "value": 4865790.4
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:15"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-15 21:51:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cow Island area of the Upper Missouri River Breaks National Monument (52294659490)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Upper Missouri River Breaks National Monument|PD US USDA FS|Flickr images missing SDC creator|Uploaded with video2commons|Video display resolution 1920 x 1080|Files from the U.S. Forest Service Northern Region Flickr stream|Videos of 2022 from the United States|Flickr videos review needed|Videos taken on 2022-08-17|U.S. Forest Service Flickr files uploaded by OptimusPrimeBot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "These photos show the landscape around river mile 126.5, where the Nez Perce (Nee-Mee-Poo) National Historic Trail crosses the Missouri River in the Upper Missouri River Breaks National Monument. \"In June 1877, the Nez Perce led by Chiefs Joseph, Looking Glass,Tulhuulhulsuit and Whitebird, left their homelands and set out for Canada to avoid being confined on a reservation and to continue to live by the customs and traditions of their ancestors. The trail begins in Oregon and follows the 1,200+ mile journey through Idaho, Wyoming, and finally terminates in Montana, 40 miles from the Canadian border. The trail crosses the Missouri River at this location.\" (2017 BLM Boaters' Gude Judith Landing to James Kipp Recreation Area, Upper Missouri River Breaks National Monument, BLM/MT/GI-08/009 Rev. 11/17, p. 62) \n<p>\"Battle of Cow Island Landing\nCow Island Landing was the location of a September 23-24, 1877, encounter between warriors belonging to five non-treaty Nez Perce bands and a small party of entrenched U.S. Army soldiers and civilian freight clerks. The clash occurred during the 1877 Nez Perce War, at the Cow Creek Landing which was then a commercial freight depot and landing located immediately above the mouth of Cow Creek on the Missouri River. The landing was constructed to enable overland shipping to Fort Benton during seasonal low water on the Missouri via the Cow Creek freight trail, which commenced at the landing. Two steamboats had recently unloaded freight,and a detachment of soldiers under Sergeant William Moelchert happened to be at the landing to retrieve supplies for engineers working upriver. On September 23, the Nez Perce unexpectedly crossed the Missouri River near the landing. Negotiations ensued between Nez Perce leaders and Moelchert regarding supplies sought by the Nez Perce. After Moelchert essentially denied the tribal requests for provisions, warriors opened fire on the soldiers and civilians. The soldiers and clerks took shelter in an irrigation ditch that had been recently dug around the clerks\u2019 tents and effectively defended their position through the night from Nez Perce gunfire from the steep hills north of the landing. \n</p><p>\"The Nez Perce took supplies from the tons of freight stored just north of the landing and camp and burned the remaining stores. The Nez Perce broke off the assault the following morning and resumed their trek north through Cow Creek Canyon in their attempt to reach refuge in Canada. \n</p><p>Approximately 70 miles from the river to the north, near presentday Chinook, Montana, is Bears Paw Battlefield where Chief Joseph surrendered on October 5, 1877, and is famed to have said, \u201cTell General Howard I know his heart. What he told me before, I have it in my heart. I am tired of fighting. Our Chiefs are killed; Looking Glass is dead, Ta Hool\nHool Shute is dead. The old men are all dead. It is the young men who say yes or no. He who led on the young men is dead. It is cold, and we have no blankets; the little children are freezing to death. My people, some of them, have run away to the hills, and have no blankets, no food. No one knows where they are - perhaps freezing to death. I want to have time to look for my children, and see how many of them I can find. Maybe I shall find them among the dead. Hear me, my Chiefs! I am tired; my heart is sick and sad. From where the sun now stands I will fight no more forever.\u201d (2017 BLM Boaters' Gude Judith Landing to James Kipp Recreation Area, Upper Missouri River Breaks National Monument, BLM/MT/GI-08/009 Rev. 11/17, pp. 36-37)\n</p>\nPhotos taken August 10, 2022. K. McCartney",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on\u00a017 August 2022, 20:03:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fsnorthernregion/52294659490\">Cow Island area of the Upper Missouri  River Breaks National Monument</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/fsnorthernregion/\">Forest Service - Northern Region</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "15627329": {
+        "pageid": 15627329,
+        "ns": 6,
+        "title": "File:Cut River 2.ogv",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12119055,
+            "width": 500,
+            "height": 375,
+            "duration": 16.85124716553288,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Cut_River_2.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cut_River_2.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15627329",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 7640,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 7640
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.1 20090822 (Thusnelda)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 16.833333333333332
+                      },
+                      {
+                        "name": "size",
+                        "value": 11925256
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 32
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 24
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 500
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 375
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 6
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 5
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 30
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 0
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 0
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 288
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 4608
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 768
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.26+svn16924"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "8fe22736336cd8fd"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 17365,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 17365
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20090709"
+                      },
+                      {
+                        "name": "length",
+                        "value": 16.85124716553288
+                      },
+                      {
+                        "name": "size",
+                        "value": 193490
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 1
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 110000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.26+svn16924"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "8fe22736336cd8fd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 16.85124716553288
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-06-26 20:10:41",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cut River 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Cut River|Self-published work|Videos from Michigan|Videos of 2011 from the United States|Videos of rivers|Videos of forests",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A short video clip of the Cut River in the Cut River Gorge under the Cut River Bridge.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-06-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:NMMIMAJ\" title=\"User:NMMIMAJ\">Joel Dykstra</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122842790": {
+        "pageid": 122842790,
+        "ns": 6,
+        "title": "File:Forest Pokljuka and river Nadi\u017ea - Slovenia.webm",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4147227503,
+            "width": 1920,
+            "height": 1080,
+            "duration": 1733.201,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122842790",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.21-202109171300"
+              },
+              {
+                "name": "filesize",
+                "value": 4147227503
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 4147227503
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "22b970ab836e5c27",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 60
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "eba9b27ddca8e584",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 60
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 340"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 408"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 414"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "iso6avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "dash"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.134.100 libvpx-vp9"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "ISO Media file produced by Google Inc."
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:28:53.167000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:28:53.201000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1733.201
+              },
+              {
+                "name": "bitrate",
+                "value": 19142511.47097192
+              },
+              {
+                "name": "playtime_string",
+                "value": "28:53"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-09 23:18:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Forest Pokljuka and river Nadi\u017ea - Slovenia",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pokljuka|Media from YouTube|Natisone|Files from external sources with reviewed licenses|Uploaded with video2commons|Videos of 2022 from Slovenia|Videos by Snicel 69",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "00:00 forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d\n<p>00:05 the forest on Pokljuka\n01:00 blueberries\n01:42 mushroom\n02:00 forest\n02:31 mushroom\n02:42 fastest in the forest\n02:56 mushroom\n03:08 mushrooms\n03:35 mushroom\n03:47 river\n04:21 Russian chapel in Slovenia\n04:54 Vr\u0161i\u010d 1611m\n05:55 the road to Nadi\u017ea\n06:31 let's start cooking in the forest\n06:44 making coffee in the forest\n09:26 preparation of \u010devap\u010di\u010ds in the forest\n11:50 \u010devapcici with butter on bread\n12:36 preparation Prebranec from a can\n13:33 testing of \u010devapci\u0107s\n14:12 prebranec\n14:22 fastest in the forest\n14:54 refreshment in the warm river Nadi\u017ea\n15:04 swimming in the Nadi\u017ea river\n18:40 relaxing in the Nadi\u017ea river\n</p>\n21:41 nice photos",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=qUnLPdJ7h3o\"><bdi lang=\"\">forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=qUnLPdJ7h3o\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCQliaJbs_MblWraSjcmdeuw\">Snicel 69</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Snicel 69",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12584889": {
+        "pageid": 12584889,
+        "ns": 6,
+        "title": "File:Merced River 4290.ogv",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 19657200,
+            "width": 640,
+            "height": 480,
+            "duration": 18.533333333333335,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Merced_River_4290.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Merced_River_4290.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12584889",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 19726,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 19726
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.1 20090822 (Thusnelda)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 18.533148
+                      },
+                      {
+                        "name": "size",
+                        "value": 19447631
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 40
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 30
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 640
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 480
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 1000000
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 33333
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 0
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 0
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 460
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 7200
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 1200
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.26+svn16924"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "5a434c696081a5c5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 27442,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 27442
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20090709"
+                      },
+                      {
+                        "name": "length",
+                        "value": 18.533333333333335
+                      },
+                      {
+                        "name": "size",
+                        "value": 209260
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 1
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 110000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.26+svn16924"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "5a434c696081a5c5"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 18.533333333333335
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-01-04 20:04:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Merced River 4290",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Merced River|License migration redundant|Attribution only license|Videos from California|Self-published work|Ogv videos|Video display resolution 640 x 480|Videos of 2010 from the United States|Videos of mountains|Videos of forests",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Merced River",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-09-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Deror_avi\" title=\"User:Deror avi\">deror_avi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "124765853": {
+        "pageid": 124765853,
+        "ns": 6,
+        "title": "File:Picnicing 5525.ogg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 239136693,
+            "width": 1280,
+            "height": 720,
+            "duration": 131.24266666666668,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Picnicing_5525.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Picnicing_5525.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124765853",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 1181975118,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 1181975118
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 131.24
+                      },
+                      {
+                        "name": "size",
+                        "value": 234922901
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 80
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 45
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1280
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 720
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 25
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 1400
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 21600
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 3600
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "encoder",
+                            "value": "Lavf55.33.100"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 3066155415,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 3066155415
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 131.24266666666668
+                      },
+                      {
+                        "name": "size",
+                        "value": 4213792
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 11
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODED_BY",
+                            "value": "Prism Plus \u00a9 NCH Software"
+                          },
+                          {
+                            "name": "marker_count",
+                            "value": "0"
+                          },
+                          {
+                            "name": "marker_postype",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 131.24266666666668
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-10-31 04:51:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Picnicing 5525",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Videos of rivers in Washington (state)|White River in Federation Forest State Park|White River in (FFSP) Image by CLight|Washington (state) River Vid by CLight",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "White River in Federation Forest State Park.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-10-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182587556": {
+        "pageid": 182587556,
+        "ns": 6,
+        "title": "File:SR 410 White R (August) 0400.ogg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 662217068,
+            "width": 1280,
+            "height": 720,
+            "duration": 196.20266666666666,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/SR_410_White_R_%28August%29_0400.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SR_410_White_R_(August)_0400.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182587556",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 4094201822,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 4094201822
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 196.2
+                      },
+                      {
+                        "name": "size",
+                        "value": 656611949
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 80
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 45
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1280
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 720
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 25
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 1400
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 21600
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 3600
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "encoder",
+                            "value": "Lavf55.33.100"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 1247546458,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 1247546458
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 196.20266666666666
+                      },
+                      {
+                        "name": "size",
+                        "value": 5605119
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 11
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODED_BY",
+                            "value": "Prism Plus \u00a9 NCH Software"
+                          },
+                          {
+                            "name": "marker_count",
+                            "value": "0"
+                          },
+                          {
+                            "name": "marker_postype",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 196.20266666666666
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-28 05:28:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SR 410 White R (August) 0400",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Videos of rivers in Washington (state)|White River in Federation Forest State Park|White River in (FFSP) Image by CLight|Washington (state) River Vid by CLight",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "White River at Federation Forest State Park in May.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "182587543": {
+        "pageid": 182587543,
+        "ns": 6,
+        "title": "File:SR 410 White R (May) 0392.ogg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 220024576,
+            "width": 1280,
+            "height": 720,
+            "duration": 94.016,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/SR_410_White_R_%28May%29_0392.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:SR_410_White_R_(May)_0392.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182587543",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 3593585702,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 3593585702
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 94
+                      },
+                      {
+                        "name": "size",
+                        "value": 216919004
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 80
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 45
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 1280
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 720
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 25
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 50
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 1400
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 21600
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 3600
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "encoder",
+                            "value": "Lavf55.33.100"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 2814949633,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 2814949633
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Lavf55.33.100"
+                      },
+                      {
+                        "name": "length",
+                        "value": 94.016
+                      },
+                      {
+                        "name": "size",
+                        "value": 3105572
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 11
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODED_BY",
+                            "value": "Prism Plus \u00a9 NCH Software"
+                          },
+                          {
+                            "name": "marker_count",
+                            "value": "0"
+                          },
+                          {
+                            "name": "marker_postype",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 94.016
+              },
+              {
+                "name": "offset",
+                "value": 0
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-28 05:28:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "SR 410 White R (May) 0392",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Videos of rivers in Washington (state)|White River in Federation Forest State Park|White River in (FFSP) Image by CLight|Washington (state) River Vid by CLight",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "White River at Federation Forest State Park in May.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-05-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165925813": {
+        "pageid": 165925813,
+        "ns": 6,
+        "title": "File:Sixes River (33895113543).webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 73505892,
+            "width": 1920,
+            "height": 1080,
+            "duration": 33.258,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sixes_River_%2833895113543%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sixes_River_(33895113543).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165925813",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 73505892
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 73505892
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "180c837a264f698e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "04c3245829f1b283",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 334"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 386"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 392"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:33.242000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:33.258000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 33.258
+              },
+              {
+                "name": "bitrate",
+                "value": 17681373.985206567
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:33"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 16:31:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sixes River (33895113543)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|2017-05-16|Sixes River|Flickr images missing SDC creator|Uploaded with video2commons|Files from the Bureau of Land Management Oregon and Washington Flickr stream|Video display resolution 1920 x 1080|Videos of 2017 from the United States|Flickr videos reviewed by trusted users|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Video clip of the Sixes River, March 14, 2017, by Greg Shine, BLM.\n<p>The Sixes River Recreation Site provides 19 campsites in a forested hideaway along Sixes River. Sixes River is an excellent spot to pan or sluice for gold, and offers enjoyable opportunities for camping, picnicking, fishing, and swimming.\n</p><p>Campsites have picnic tables and fire rings, and access to drinking water, universal access toilets, and site hosts. The site also offers a universal access campsite.\n</p><p>The rivers, streams, and forests that surround Sixes River Recreation Site are home to many different fish and wildlife. Sixes River has a large run of native Chinook salmon and steelhead. Bear, cougar, and bobcats are sometimes seen crossing the road in the early morning and late evening. River otters live along the riverbank and hunt for fish and crayfish. Bald eagles can be seen waiting in the trees hoping to feast on salmon.\n</p><p>Big-leaf maple, oak, and Douglas-fir provide shade for sites at Sixes River Recreation Site. In the spring, look for fawn lilies with their superb colors. While the plants are beautiful \u2015 watch out! Poison oak is common at these sites. Look for its distinctive, often glossy leaves with three leaflets. In the fall it is easy to avoid since the poison oak leaves turn a brilliant red.\n</p><p>Directions\nTo reach the site, travel five miles north Port Orford, Oregon, on US Hwy 101, turn right (east) onto Sixes River Road, and travel approximately 11 miles. When you pass the Edson Creek Recreation Site, you\u2019ll know you\u2019re almost halfway to the Sixes site. \n</p><p>Contact Information\n</p><p>Coos Bay District\nBureau of Land Management\n1300 Airport Lane North Bend, OR 97459 \n</p>\n(541) 756-0100",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on\u00a016 May 2017, 16:16:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmoregon/33895113543\">Sixes River</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmoregon/\">BLM Oregon &amp; Washington</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165924294": {
+        "pageid": 165924294,
+        "ns": 6,
+        "title": "File:Wallowa River (35001236162).webm",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17074876,
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.308,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Wallowa_River_%2835001236162%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wallowa_River_(35001236162).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165924294",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 17074876
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 17074876
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "c272e08d6d4fc1e1",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "507e74337ae512c6",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 334"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 386"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 392"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:16.308000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:16.285000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 16.308
+              },
+              {
+                "name": "bitrate",
+                "value": 8376196.222712779
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:16"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 16:08:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wallowa River (35001236162)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Wallowa River|Flickr images missing SDC creator|Uploaded with video2commons|Files from the Bureau of Land Management Oregon and Washington Flickr stream|Video display resolution 1920 x 1080|Videos of 2017 from the United States|Flickr videos review needed|Videos taken on 2017-06-07|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Wallowa River rushes through a thickly forested valley in white capped rushes. \n<p>The Wallowa River begins in the mountainous wilderness of the Wallowa-Whitman National Forest, flowing generally northwest past the eastern Oregon communities of Enterprise and Wallowa.\n</p><p>From there, the Wallowa moves north for 10 miles, becoming the Wild and Scenic Wallowa River, as designated by Congress in 1996.\n</p><p>That 10-mile stretch, protected by the Bureau of Land Management and Oregon State Parks, is beautiful northeast Oregon at its best: pine forests; grass-covered hills; and layered river canyons.\n</p><p>The Wallowa ends at the confluence with the Grande Ronde \u2013 another river designated for protection under the National Wild and Scenic Rivers Act \u2013 with a railroad bridge clearly marking the change.\n</p><p>The Wallowa River has an unusually long float season, according to Rivers.gov, from ice breakup in the spring to the fall freeze. It is also a national destination for fishing, known for its fall chinook, summer steelhead and rainbow trout.\n</p><p>For more information about the Wallowa River: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.rivers.gov/rivers/wallowa.php\">www.rivers.gov/rivers/wallowa.php</a>\nRiver flow data: <a rel=\"nofollow\" class=\"external text\" href=\"https://waterdata.usgs.gov/nwis/inventory/?site_no=13327500\">waterdata.usgs.gov/nwis/inventory/?site_no=13327500</a>\n</p><p>Contact our BLM office in Baker for more questions: \n3100 H Street\nBaker City, OR 97814\nPhone: 541-523-1256\nE-mail: BLM_OR_BK_Mail@blm.gov\n</p><p>Video clips captured May 25, 2017, from the Wild and Scenic portion of the Wallowa River\n</p>\nBy Michael Campbell and Aaron Haselby, BLM",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on\u00a07 June 2017, 16:00:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmoregon/35001236162\">Wallowa River</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmoregon/\">BLM Oregon &amp; Washington</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "165924279": {
+        "pageid": 165924279,
+        "ns": 6,
+        "title": "File:Wallowa River (35166286545).webm",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13583119,
+            "width": 1920,
+            "height": 1080,
+            "duration": 8.842,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wallowa_River_%2835166286545%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wallowa_River_(35166286545).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165924279",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 13583119
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 13583119
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "d675c359a8d6f6b0",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "33bacdb939d748f0",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [8 bytes]) at 334"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 386"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 392"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:08.842000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:08.831000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 8.842
+              },
+              {
+                "name": "bitrate",
+                "value": 12289634.924225288
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:09"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-05-24 16:07:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wallowa River (35166286545)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US BLM|Wallowa River|Flickr images missing SDC creator|Uploaded with video2commons|Files from the Bureau of Land Management Oregon and Washington Flickr stream|Video display resolution 1920 x 1080|Videos of 2017 from the United States|Flickr videos review needed|Videos taken on 2017-06-07|U.S. Bureau of Land Management Flickr files uploaded by OptimusPrimeBot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The Wallowa River flows through a forested valley near a railroad. \n<p>The Wallowa River begins in the mountainous wilderness of the Wallowa-Whitman National Forest, flowing generally northwest past the eastern Oregon communities of Enterprise and Wallowa.\n</p><p>From there, the Wallowa moves north for 10 miles, becoming the Wild and Scenic Wallowa River, as designated by Congress in 1996.\n</p><p>That 10-mile stretch, protected by the Bureau of Land Management and Oregon State Parks, is beautiful northeast Oregon at its best: pine forests; grass-covered hills; and layered river canyons.\n</p><p>The Wallowa ends at the confluence with the Grande Ronde \u2013 another river designated for protection under the National Wild and Scenic Rivers Act \u2013 with a railroad bridge clearly marking the change.\n</p><p>The Wallowa River has an unusually long float season, according to Rivers.gov, from ice breakup in the spring to the fall freeze. It is also a national destination for fishing, known for its fall chinook, summer steelhead and rainbow trout.\n</p><p>For more information about the Wallowa River: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.rivers.gov/rivers/wallowa.php\">www.rivers.gov/rivers/wallowa.php</a>\nRiver flow data: <a rel=\"nofollow\" class=\"external text\" href=\"https://waterdata.usgs.gov/nwis/inventory/?site_no=13327500\">waterdata.usgs.gov/nwis/inventory/?site_no=13327500</a>\n</p><p>Contact our BLM office in Baker for more questions: \n3100 H Street\nBaker City, OR 97814\nPhone: 541-523-1256\nE-mail: BLM_OR_BK_Mail@blm.gov\n</p><p>Video clips captured May 25, 2017, from the Wild and Scenic portion of the Wallowa River\n</p>\nBy Michael Campbell and Aaron Haselby, BLM",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on\u00a07 June 2017, 16:00:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blmoregon/35166286545\">Wallowa River</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmoregon/\">BLM Oregon &amp; Washington</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

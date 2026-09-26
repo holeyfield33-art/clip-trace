@@ -1,0 +1,68 @@
+{
+  "trials": [
+    {
+      "full_calibration_fit": {
+        "ambiguous": 1,
+        "fp": 0,
+        "fpr": 0.0,
+        "minimum_duration_s": 5,
+        "negative_available_denominator": 24,
+        "negative_expected_denominator": 24,
+        "positive_denominator": 192,
+        "threshold": 0.3171127932462079,
+        "tp_correct_parent": 169,
+        "tpr": 0.8802083333333334,
+        "wrong_parent": 0
+      },
+      "held_out_fp": 4,
+      "held_out_negative": 24,
+      "held_out_positive": 192,
+      "held_out_tp": 168,
+      "qualified": false,
+      "visual_weight": 0.25
+    },
+    {
+      "full_calibration_fit": {
+        "ambiguous": 0,
+        "fp": 0,
+        "fpr": 0.0,
+        "minimum_duration_s": 5,
+        "negative_available_denominator": 24,
+        "negative_expected_denominator": 24,
+        "positive_denominator": 192,
+        "threshold": 0.22553982496261596,
+        "tp_correct_parent": 176,
+        "tpr": 0.9166666666666666,
+        "wrong_parent": 0
+      },
+      "held_out_fp": 0,
+      "held_out_negative": 24,
+      "held_out_positive": 192,
+      "held_out_tp": 169,
+      "qualified": true,
+      "visual_weight": 0.5
+    },
+    {
+      "full_calibration_fit": {
+        "ambiguous": 0,
+        "fp": 0,
+        "fpr": 0.0,
+        "minimum_duration_s": 5,
+        "negative_available_denominator": 24,
+        "negative_expected_denominator": 24,
+        "positive_denominator": 192,
+        "threshold": 0.19393473744392398,
+        "tp_correct_parent": 176,
+        "tpr": 0.9166666666666666,
+        "wrong_parent": 0
+      },
+      "held_out_fp": 4,
+      "held_out_negative": 24,
+      "held_out_positive": 192,
+      "held_out_tp": 172,
+      "qualified": false,
+      "visual_weight": 0.75
+    }
+  ],
+  "validation": "Leave one complete identity out; weight grid restricted before evaluation."
+}

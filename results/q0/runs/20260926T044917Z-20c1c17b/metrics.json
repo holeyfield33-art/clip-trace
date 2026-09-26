@@ -1,0 +1,50 @@
+{
+  "evaluation_audio": {
+    "f1": null,
+    "fn": 16,
+    "fp": 0,
+    "fpr": 0.0,
+    "precision": null,
+    "recall": 0.0,
+    "support_negative": 8,
+    "support_positive": 16,
+    "tn": 8,
+    "tp": 0,
+    "tpr": 0.0
+  },
+  "evaluation_visual": {
+    "f1": 0.8780487804878048,
+    "fn": 2,
+    "fp": 3,
+    "fpr": 0.75,
+    "precision": 0.8571428571428571,
+    "recall": 0.9,
+    "support_negative": 4,
+    "support_positive": 20,
+    "tn": 1,
+    "tp": 18,
+    "tpr": 0.9
+  },
+  "n_ambiguous_all_partitions": 9,
+  "n_derivative_eval_approx": 20,
+  "n_evaluation_scored_audio": 24,
+  "n_evaluation_scored_visual": 24,
+  "n_failed": 0,
+  "profile_sha256": "ae7ee1efc206c0b91a731284bdcc3a8b533713f6db651333897aa603a5dfc571",
+  "retrieval_recall_at_1": 0.9,
+  "retrieval_recall_at_5": 1.0,
+  "run_id": "20260926T044917Z-20c1c17b",
+  "selection_rule": "max_tpr_at_fpr_le_0.20",
+  "temporal": {
+    "false_continuous_count": 0,
+    "false_continuous_rate": 0.0,
+    "mean_end_error_s": 3.2222222222222223,
+    "mean_iou": 0.5501489251489251,
+    "mean_start_error_s": 0.8888888888888888,
+    "n": 20
+  },
+  "thresholds": {
+    "audio": 1.0,
+    "visual": 0.55
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "asset_id": "N04",
+  "partition": "development",
+  "category": "animation",
+  "role": "negative",
+  "identity_group": "commons:127853211",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm",
+  "source_title": "File:Blender 3.2 New Features in LESS than Five Minutes.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm/Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm.480p.vp9.webm",
+  "download_sha256": "b0e3bbb9b4542f34c471fca15d2f8173c4504d4f292f949907fc448f65a8e710",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a href=\"https://en.wikipedia.org/wiki/Blender_Foundation\" class=\"extiw\" title=\"w:Blender Foundation\">Blender Foundation</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@SouthernShotty\">SouthernShotty</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2023-01-17 14:25:02",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Blender 3.2 New Features in LESS than Five Minutes",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Media from YouTube|Blender (software)|De minimis without reason|Videos of 2022|Videos of 3D animations|Videos in English",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Overview of new features in <a href=\"https://en.wikipedia.org/wiki/Blender_(software)\" class=\"extiw\" title=\"w:Blender (software)\">Blender</a> 3.2.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2022-06-08",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=TnX4_BcFY54\">YouTube</a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=TnX4_BcFY54\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"https://en.wikipedia.org/wiki/Blender_Foundation\" class=\"extiw\" title=\"w:Blender Foundation\">Blender Foundation</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@SouthernShotty\">SouthernShotty</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N04.mp4",
+  "sha256": "4466da4c83842ae122c338ecccabe7f76e02310edb1d89adc5dadc3e237db51b",
+  "status": "ready"
+}

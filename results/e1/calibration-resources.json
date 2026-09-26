@@ -1,0 +1,19 @@
+{
+  "label": "calibration",
+  "command": [
+    "python",
+    "-X",
+    "utf8",
+    "-m",
+    "cliptrace_e1.e1_run",
+    "calibration"
+  ],
+  "returncode": 0,
+  "wall_s": 589.4656100273132,
+  "sampled_process_tree_cpu_s_lower_bound": 556.34375,
+  "peak_sampled_process_tree_rss_bytes": 235683840,
+  "process_count": 1366,
+  "samples": 2148,
+  "sampling_interval_s": 0.25,
+  "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled."
+}

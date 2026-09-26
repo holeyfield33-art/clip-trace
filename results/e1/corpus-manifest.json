@@ -1,0 +1,3372 @@
+{
+  "assets": [
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N01",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@VOAAfrica\">VOA Africa</a>",
+      "audio_note": "preserved",
+      "category": "two_person_podcast",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "37bf436e77be3ea8de4aaf2abc4eb418a65e68cb4cb8326381d0f381fa0288ef",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/VOA_Interview%2C_Part_2-_Zambia%E2%80%99s_New_President_Hakainde_Hichilema.webm/VOA_Interview%2C_Part_2-_Zambia%E2%80%99s_New_President_Hakainde_Hichilema.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:142888871",
+      "license": "Public domain",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@VOAAfrica\">VOA Africa</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "false"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|PD VOA|CC-PD-Mark|Uploaded with video2commons|Hakainde Hichilema in 2021|Videos by VOA Africa"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "False"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=SpenDUzbYyI\"><bdi lang=\"\">VOA Interview, Part 2: Zambia\u2019s New President Hakainde Hichilema</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=SpenDUzbYyI\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2023-12-25 16:22:37"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2021-08-25"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "In part two of VOA\u2019s interview with President Hakainde Hichilema, the new Zambian leader says his vision for the nation includes encouraging democracy, stamping out corruption and developing infrastructure to help stabilize the country and the economy. VOA\u2019s Peter Clottey spoke to the president before his inauguration. \n<ol><li>Zambia #election #Hichilema</li></ol>\n<p>- - - - -\nFor more visit our news site, voaafrica.com \n</p><p>- - - - - -\n</p>\nVOA Africa reaches more than 25 million people on the web, social media, radio and television. We deliver Africa related content in English targeted to all 54 countries in Africa and the diaspora. Our programs engage audiences on a wide variety of topics including news, politics, science, technology, health, business, sports, music and entertainment."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "pd"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Public domain"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "VOA Interview, Part 2- Zambia\u2019s New President Hakainde Hichilema"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Public domain"
+        }
+      },
+      "license_url": null,
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N01.mp4",
+      "role": "negative",
+      "sha256": "bc1f45d92dde6da2edd3853fe81f1404c9127ff1c6e4cb4677088565ccf64c99",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VOA_Interview,_Part_2-_Zambia%E2%80%99s_New_President_Hakainde_Hichilema.webm",
+      "source_title": "File:VOA Interview, Part 2- Zambia\u2019s New President Hakainde Hichilema.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N02",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@royalsociety\">The Royal Society</a>",
+      "audio_note": "preserved",
+      "category": "talking_head",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "4ddc7306f8969265cb336b3fbd4685120d354d80c6bcd1e51e007308b87bf5d0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm/Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:152397191",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@royalsociety\">The Royal Society</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "The Royal Society"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Roma Agrawal|Hannah Cloke|Files from external sources with reviewed licenses|Extreme weather events|Videos from YouTube|Media of the day|Uploaded with video2commons|Videos of climate change|Scientist interview videos|Videos by The Royal Society|Videos of scientists in the 2020s|Global heating|Videos uploaded by Prototyperspective"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=t1Xh_fh3FbU\"><bdi lang=\"\">Extreme weather with Hannah Cloke | The Royal Society</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=t1Xh_fh3FbU\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-09-08 21:20:43"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2023-09-01"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Roma Agrawal speaks to physical geographer Hannah Cloke about her work in flood prevention and how global heating is causing extreme weather disasters around the world.\nThe Royal Society is a Fellowship of many of the world's most eminent scientists and is the oldest scientific academy in continuous existence."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Interview on extreme weather with physical geographer Hannah Cloke \u2013 The Royal Society"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N02.mp4",
+      "role": "negative",
+      "sha256": "7f7818927226d9f4f207237d5c71973e7d199239df07d4eb0a996d28bdc4bdf8",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Interview_on_extreme_weather_with_physical_geographer_Hannah_Cloke_%E2%80%93_The_Royal_Society.webm",
+      "source_title": "File:Interview on extreme weather with physical geographer Hannah Cloke \u2013 The Royal Society.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N03",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/danulis\">Danulis Off To Somewhere</a>",
+      "audio_note": "preserved",
+      "category": "stock_broll",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "1e9b93f91267953116e13cfd8217fb895b49ca0ad1aa48c61df3a0517696f3a9",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/Off_to_Lithuania_by_drone_%28Back_home%29.webm/Off_to_Lithuania_by_drone_%28Back_home%29.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:84809791",
+      "license": "CC BY-SA 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/danulis\">Danulis Off To Somewhere</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Danulis Off To Somewhere"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Views of Lithuania|Nature of Lithuania|Lithuania in the 2010s|Aerial videos|Videos of 2016|Uploaded with video2commons|Videos from Vimeo|Video display resolution 1920 x 1080|License reviewed by YouTubeReviewBot|Drone videos from Lithuania|Videos containing non-free audio"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/187575620\" href=\"https://vimeo.com/187575620\">Off to Lithuania by drone (Back home)</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/187575620\"><span style=\"color:#9602fc\">view archived source</span></a>)"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2019-12-11 13:04:52"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2016-10-16"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "As a traveler I see beautiful landscapes and environments everywhere I go, but one place attract my eyes the most - my home, Lithuania. Because of its flatness, often we don't really notice how beautiful it is. But from birds eye view - it's incredible.\n<p>Music: Tycho - Receiver\nFilming and editing Danas Macijauskas (Danulis)\n</p>\nUsing DJI Phantom 4"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Off to Lithuania by drone (Back home)"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N03.mp4",
+      "role": "negative",
+      "sha256": "bbf1b211d687ed7e3e6d818b66980c9f186c28da795cc3a1c17c1ffd89844996",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Off_to_Lithuania_by_drone_(Back_home).webm",
+      "source_title": "File:Off to Lithuania by drone (Back home).webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N04",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Blender_Foundation\" class=\"extiw\" title=\"w:Blender Foundation\">Blender Foundation</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@SouthernShotty\">SouthernShotty</a>",
+      "audio_note": "preserved",
+      "category": "animation",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "b0e3bbb9b4542f34c471fca15d2f8173c4504d4f292f949907fc448f65a8e710",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm/Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:127853211",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Blender_Foundation\" class=\"extiw\" title=\"w:Blender Foundation\">Blender Foundation</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@SouthernShotty\">SouthernShotty</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Blender (software)|De minimis without reason|Videos of 2022|Videos of 3D animations|Videos in English"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=TnX4_BcFY54\">YouTube</a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=TnX4_BcFY54\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2023-01-17 14:25:02"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2022-06-08"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Overview of new features in <a href=\"https://en.wikipedia.org/wiki/Blender_(software)\" class=\"extiw\" title=\"w:Blender (software)\">Blender</a> 3.2."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Blender 3.2 New Features in LESS than Five Minutes"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N04.mp4",
+      "role": "negative",
+      "sha256": "4466da4c83842ae122c338ecccabe7f76e02310edb1d89adc5dadc3e237db51b",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blender_3.2_New_Features_in_LESS_than_Five_Minutes.webm",
+      "source_title": "File:Blender 3.2 New Features in LESS than Five Minutes.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N05",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "common_intro_template",
+      "duration_s": 48,
+      "identity_group": "self-created:N05",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N05.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "negative",
+      "sha256": "34ba21fb02ebf31130ab72d085c6590c63631cd0e083a4df450563658c691e4f",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N06",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@TransculturesBe\">Transcultures - Media &amp; Sound Arts Center</a>",
+      "audio_note": "preserved",
+      "category": "similar_music_genre",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "006beefeba1f869439509c4205532cafbc42a5f8ec1f7849e85f47b3d5031dbf",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm/11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:184609193",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@TransculturesBe\">Transcultures - Media &amp; Sound Arts Center</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Transcultures - Media &amp; Sound Arts Center"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Daxophone|License review needed (video)|Videos of musicians|Files with coordinates missing SDC location of creation (50\u00b0 N, 3\u00b0 E)|Videos of musical instruments"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=58w3vII9-yw\"><bdi lang=\"\">11.10.2024 | JOYUL - Sound Art / Daxophone performance | Transcultures - Couvent d'Hautage</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=58w3vII9-yw\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2026-02-20 22:24:11"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2024-10-11"
+        },
+        "GPSLatitude": {
+          "source": "commons-desc-page",
+          "value": "50.482000"
+        },
+        "GPSLongitude": {
+          "source": "commons-desc-page",
+          "value": "3.764000"
+        },
+        "GPSMapDatum": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "WGS-84"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Following her creative residency at Transcultures (Centre of digital and sound arts, Saint-Ghislain, Belgium) in October 2024, sound artist Joyul (Seoul-South Korea) presented an improvised performance centered around the daxophone (an instrument invented by German musician Hans Reichel\u2014a wooden tongue mounted on a tripod with contact microphones, played with a bow and a dax, a curved piece of wood, one side of which is fretted) in the vibrant environment of the baroque Chapel of the Convent of Hautrage.\nWith the support of Transcultures &amp; European Pepinieres of Cr\u00e9ation"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N06.mp4",
+      "role": "negative",
+      "sha256": "c22dec87c6242fe48d14adf31a48b953460cc807f7a5bc88c2c17236c98f558a",
+      "source_page": "https://commons.wikimedia.org/wiki/File:11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm",
+      "source_title": "File:11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 768,
+      "asset_id": "N07",
+      "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Styp152&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Styp152 (page does not exist)\">Styp152</a>",
+      "audio_note": "preserved",
+      "category": "software_screen_recording",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "5522087691b6478d47aba4d03353bf45cff3678892f5b26a49c8b3974ff9c07a",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/Tutorial_recordmydesktop.ogv/Tutorial_recordmydesktop.ogv.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:9979850",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Styp152&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Styp152 (page does not exist)\">Styp152</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "GFDL|Screencast videos|RecordMyDesktop|License migration redundant|Self-published work|Video tutorials"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2010-04-11 05:51:53"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2010-03-21"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "ScreenCasts RecordMyDesktop"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Tutorial recordmydesktop"
+        },
+        "Permission": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "TODOS"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N07.mp4",
+      "role": "negative",
+      "sha256": "8010f81d78f156f73cebf630db400ae526fdaec5d8c0a1972040768b5de104e8",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tutorial_recordmydesktop.ogv",
+      "source_title": "File:Tutorial recordmydesktop.ogv",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N08",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/citcchandigarh\">CITC The Hub of IT</a>",
+      "audio_note": "preserved",
+      "category": "software_screen_recording",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "5ab1ec407c8178625438d7c2d0f2f00b830445eb34bf3349159eb11f48c8668d",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/Tutorial_video_on_Clone_effect_in_Corel_Draw.webm/Tutorial_video_on_Clone_effect_in_Corel_Draw.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:117821605",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/citcchandigarh\">CITC The Hub of IT</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CITC The Hub of IT"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos by PainterTutorials"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=8W9RZhUiZXo\"><bdi lang=\"\">Tutorial video on Clone effect in Corel Draw</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=8W9RZhUiZXo\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2022-05-09 04:04:08"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2019-03-08"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "CITC- An ISO Certified, Govt. of India Regd, NIELIT, Microsoft, MSME, CSC Authorized Institute for Computer Software &amp; Hardware Courses.\n<p>3 answers on how do you erase part of a line in Illustrator:\n1. You could use the Scissors Tool or Knife tool to cut the path, then delete the end section.\n2. You could draw a new line and use Pathfinder, then delete the end section.\n3. You can select the path then use the Eraser Tool to erase the art of it.\nFor more info, visit: <a rel=\"nofollow\" class=\"external free\" href=\"https://citcchandigarh.com/desktop-publishing\">https://citcchandigarh.com/desktop-publishing</a>\nRelated Topics:\n</p>\ncorel painter tutorials for beginners, corel painter tutorials pdf, clone effect in coreldraw."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Tutorial video on Clone effect in Corel Draw"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N08.mp4",
+      "role": "negative",
+      "sha256": "67ce8dfa55f10db3ca17fbc19ecb0a645c172a2c1452bb00e464fb5b8a60fab4",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tutorial_video_on_Clone_effect_in_Corel_Draw.webm",
+      "source_title": "File:Tutorial video on Clone effect in Corel Draw.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N09",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BigMarkMoto\">Big Mark Moto</a>",
+      "audio_note": "preserved",
+      "category": "low_light",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "427360d863ef26ff6f2b13fa72c89a7da3e1ffc165e588f068aeade844f1c8f8",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e7/Motorcycle_night_city_ride_-_Maribor%2C_Slovenia.webm/Motorcycle_night_city_ride_-_Maribor%2C_Slovenia.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:181219572",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BigMarkMoto\">Big Mark Moto</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Big Mark Moto"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos of road transport in Slovenia|First-person videos on motorcycle|Videos of 2025 from Slovenia|Videos from Maribor|Videos by Big Mark Moto"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ZZPXIObn48c\"><bdi lang=\"\">Motorcycle night city ride - Maribor, Slovenia</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ZZPXIObn48c\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2026-01-04 16:43:17"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2025-09-29"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Relaxing night city ride on a hot summer day in Maribor, Slovenia.\n<p>Motorcycle: Yamaha XSR 125\nCamera: GoPro Hero 13 Black\nMicrophone: DJI Mic Mini\nSound recorder: Zoom F1\n</p>\nRider: 196 cm, 110 kg (6'5\", 240 lbs)"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Motorcycle night city ride - Maribor, Slovenia"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N09.mp4",
+      "role": "negative",
+      "sha256": "92969d9a87871c71bfa946db8db4ca9c8ba008d75dd33dc4a7f25978d45873f8",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Motorcycle_night_city_ride_-_Maribor,_Slovenia.webm",
+      "source_title": "File:Motorcycle night city ride - Maribor, Slovenia.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 640,
+      "asset_id": "N10",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Miko%C5%82ka\" title=\"User:Miko\u0142ka\">Miko\u0142ka</a>",
+      "audio_note": "preserved",
+      "category": "news_broll",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "ccea0627c665fed41fff10eb6492aee9340d6de2a33d8dbca16f65c96043cb1a",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/Night_riots_in_the_Salford_shopping_precinct_area.ogv/Night_riots_in_the_Salford_shopping_precinct_area.ogv.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:16058303",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Miko%C5%82ka\" title=\"User:Miko\u0142ka\">Miko\u0142ka</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "GFDL|License migration redundant|Greater Manchester Police|Self-published work|Ogv videos|Video display resolution 640 x 480|Videos of emergency service vehicles|Videos of 2011 riots in England|2011 Manchester riots|Night in the City of Salford"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2011-08-11 00:27:56"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2011-08-10"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Night riots in the <a href=\"https://en.wikipedia.org/wiki/Salford,_Greater_Manchester\" class=\"extiw\" title=\"w:Salford, Greater Manchester\">Salford</a> shopping precinct area."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Night riots in the Salford shopping precinct area"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N10.mp4",
+      "role": "negative",
+      "sha256": "78766a270ac7da02a68971e40a25edf4a11a89b5cc584637bdf66217822d25cc",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Night_riots_in_the_Salford_shopping_precinct_area.ogv",
+      "source_title": "File:Night riots in the Salford shopping precinct area.ogv",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N11",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "same_transcript_new_speaker",
+      "duration_s": 48,
+      "identity_group": "self-created:N11",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N11.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "negative",
+      "sha256": "2ba3fadca8f9c4f8e48f510f0bafb34deabaddf716f3d69eb7dbb4416ff1adc1",
+      "status": "ready",
+      "transcript": "A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. ",
+      "voice": "Microsoft Zira Desktop"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N12",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "room_tone",
+      "duration_s": 48,
+      "identity_group": "self-created:N12",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N12.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "negative",
+      "sha256": "2f562670eb503889807c2ac0a11fe0c851b203f2c6beb26b1d5154bd7eca8d82",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N13",
+      "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Owoimsad&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Owoimsad (page does not exist)\">Owoimsad</a>",
+      "audio_note": "preserved",
+      "category": "talking_head",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "c6b3f7fde9c32c22501634682cd4635a83dbc43604859bffa8595190eb7cc967",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal%2C_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm/Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal%2C_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:149284744",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Owoimsad&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Owoimsad (page does not exist)\">Owoimsad</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Educators from Mexico|Women of Mexico by occupation|Self-published work|Women at work in Mexico|Files with coordinates missing SDC location of creation|Women of Mexico by location|Women of Coahuila"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-06-11 21:22:29"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2024-06-10"
+        },
+        "GPSLatitude": {
+          "source": "commons-desc-page",
+          "value": "25.637772"
+        },
+        "GPSLongitude": {
+          "source": "commons-desc-page",
+          "value": "-103.530969"
+        },
+        "GPSMapDatum": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "WGS-84"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Circe Esmeralda Rosales Portugal is a prominent animator specialized in illustration and animation in 2D format. She works as a professor of the Animation and Visual Effects Engineering program at the Polytechnic University of G\u00f3mez Palacio, G\u00f3mez Palacio, Durango. Likewise, Circe works as a freelancer or independent animator and has participated in commercial and government projects. Her career has been shaped by an early passion for cartoons and an education focused on animation and screenwriting. Circe has focused on impacting her community by contributing to the training of new generations of animators in Mexico. This is an excerpt from the interview conducted on May 24, 2024, at Building B in the Polytechnic University of G\u00f3mez Palacio campus."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Excerpt of interview to Circe Esmeralda Rosales Portugal, Professor at the Polytechnic University of Gom\u00e9z Palacio"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N13.mp4",
+      "role": "negative",
+      "sha256": "77a2add9a33e4183e40a8d0e586404b9015b7d3ea35fc2880613486afd27a96c",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal,_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm",
+      "source_title": "File:Excerpt of interview to Circe Esmeralda Rosales Portugal, Professor at the Polytechnic University of Gom\u00e9z Palacio.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N14",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Suyash.dwivedi\" title=\"User:Suyash.dwivedi\">Suyash Dwivedi</a>",
+      "audio_note": "preserved",
+      "category": "talking_head",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "19279f65405b79ee6c572aa18560773ab869ccc3c9cda7fb21d25b39696f6e83",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm/Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:146967456",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Suyash.dwivedi\" title=\"User:Suyash.dwivedi\">Suyash Dwivedi</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "People of India|Videos by User:Suyash.dwivedi|Self-published work|Images from Wiki Loves Folklore 2024|Images from Wiki Loves Folklore 2024 in India|Images from Wiki Loves Folklore 2024 to check|Uploaded via Campaign:wlf 2024|Videos from Wiki Loves Folklore 2024"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-03-31 22:35:23"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2023-07-22"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N14.mp4",
+      "role": "negative",
+      "sha256": "2af58dd9fb3d1bc031906be53feca8d1085065619f8c4c10d72d2a01a0f4bfa0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Interview_of_a_Baiga_tribe_named_Lakhan_Lal_in_Hindi_Language_by_Suyash_Dwivedi.webm",
+      "source_title": "File:Interview of a Baiga tribe named Lakhan Lal in Hindi Language by Suyash Dwivedi.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N15",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@kimdenstk\">kimden STK</a>",
+      "audio_note": "preserved",
+      "category": "same_game",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "3a2945e4907f206770988bbb5df8d33f4bd76125e409e14317a09b634933db9d",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/SuperTuxKart_2.x_GP_with_24%25_handicap_and_road_tracks_%28open_source_Mario_Kart-like_Linux_game%29.webm/SuperTuxKart_2.x_GP_with_24%25_handicap_and_road_tracks_%28open_source_Mario_Kart-like_Linux_game%29.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:152464937",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@kimdenstk\">kimden STK</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "kimden STK"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|SuperTuxKart|License review needed (video)|Uploaded with video2commons|Videos of free software|Videos of video game gameplay|Videos uploaded by Prototyperspective"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=D1infmwrJhc\"><bdi lang=\"\">SuperTuxKart 2.x GP with 24% handicap and road tracks</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=D1infmwrJhc\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-09-10 12:12:56"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2024-05-02"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "when bots are faster than you... or are they?\n<p>00:00 Handicap\n00:30 Ardennen-Spa\n05:54 Forza\n11:51 Karwada\n19:08 Migrants\n24:53 Red Bovine Ring\n</p>\n31:11 Sao Paulo"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "SuperTuxKart 2.x GP with 24% handicap and road tracks (open source Mario Kart-like Linux game)"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N15.mp4",
+      "role": "negative",
+      "sha256": "71e0c1e0a08ae9be992a33fad0b9cc225646e58f26752741d03c481dfe966f81",
+      "source_page": "https://commons.wikimedia.org/wiki/File:SuperTuxKart_2.x_GP_with_24%25_handicap_and_road_tracks_(open_source_Mario_Kart-like_Linux_game).webm",
+      "source_title": "File:SuperTuxKart 2.x GP with 24% handicap and road tracks (open source Mario Kart-like Linux game).webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N16",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>",
+      "audio_note": "preserved",
+      "category": "outdoor_natural_motion",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "5829a35986b40f31e56471c387abc82d08a9701cc65e2b55b4084c2b289838fa",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Picnicing_5525.ogg/Picnicing_5525.ogg.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:124765853",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chris_Light\" title=\"User:Chris Light\">Chris Light</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Self-published work|Videos of rivers in Washington (state)|White River in Federation Forest State Park|White River in (FFSP) Image by CLight|Washington (state) River Vid by CLight"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2022-10-31 04:51:33"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2022-10-29"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "White River in Federation Forest State Park."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Picnicing 5525"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N16.mp4",
+      "role": "negative",
+      "sha256": "e3268c651ec52d7ca6fb3a6970c16f3f531e73681b95867684a5db5ed7a5065f",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Picnicing_5525.ogg",
+      "source_title": "File:Picnicing 5525.ogg",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N17",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ahbeegyd\" title=\"User:Ahbeegyd\">Ahbeegyd</a>",
+      "audio_note": "preserved",
+      "category": "stock_broll",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "345a8fb8244da89df0b4836b9719688999a1690806ec6a377684506eb8b81713",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/An_aerial_view_of_a_10%2C000_hectares_of_rice_farm.webm/An_aerial_view_of_a_10%2C000_hectares_of_rice_farm.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:161729092",
+      "license": "CC0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ahbeegyd\" title=\"User:Ahbeegyd\">Ahbeegyd</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "false"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "CC-Zero|Self-published work|Images from Wiki Loves Africa 2025|Videos from Wiki Loves Africa 2025|Clip Videos from Wiki Loves Africa 2025|Winners of Wiki Loves Africa 2025 in Africa|Best videos from Wiki Loves Africa 2025|Wiki Loves Africa 2025 winning pictures"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2025-03-11 12:19:16"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2025-03-01"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "This 59-second video showcases the farm's landscape."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "An aerial view of a 10,000 hectares of rice farm"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Zero, Public Domain Dedication"
+        }
+      },
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N17.mp4",
+      "role": "negative",
+      "sha256": "0262312f519e753ba80c3d26b48f416170b8f19f19dd497423f6f87c0a5a7d3f",
+      "source_page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_a_10,000_hectares_of_rice_farm.webm",
+      "source_title": "File:An aerial view of a 10,000 hectares of rice farm.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N18",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "same_slide_template",
+      "corpus_revision": "evaluation_intro_v2",
+      "duration_s": 48,
+      "identity_group": "self-created:N18",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N18.v2.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "revision_reason": "Independent evaluation-only polygon/title artwork replaces accidental shared development N05 intro asset.",
+      "role": "negative",
+      "sha256": "e47854e8db593b10ce3b444968e43418579bd2fce530a8bb8d97dcbc68fb1e6d",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N19",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>",
+      "audio_note": "preserved",
+      "category": "similar_music_genre",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "0193186306dfaae65ef7575db1ab3a36d73be5478c969d4d7b8b6479714a86b3",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg/Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:196083057",
+      "license": "CC0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "false"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "CC-Zero|Self-published work|Photographs by Mostafa Meraji|Mortaz Band"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2026-07-24 00:07:02"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2026-06-11"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Recorded during Mortaz\u2019s live show on Thursday, 11 June 2026, at the performance hall of Sazineh Complex in Karaj, this video features an excerpt from Colorful Autumn, part of Mortaz Band\u2019s Autumn Collection.\n<p>Performers:\nBassist \u2014 Aydin Karbalaei\nDrummer \u2014 Armin Izadi\nGuitarist \u2014 AmirMahdi Tavakoli\nGuitarist \u2014 Radin Khaki\nSynthesizer \u2014 Amirreza Tavakoli\nPhoto &amp; Video Capture: Mostafa Meraji\n</p>\nEditor: Taha Tavakoli"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Colorful Autumn \u2014 Live Performance Excerpt"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Zero, Public Domain Dedication"
+        }
+      },
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N19.mp4",
+      "role": "negative",
+      "sha256": "a88628b1594b31b7c7481edc154f248671c166738fd2c5efa306d6c4fa97ed82",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg",
+      "source_title": "File:Colorful Autumn \u2014 Live Performance Excerpt.ogg",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "N20",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/AtlantaFalconsNFL\">Atlanta Falcons</a>",
+      "audio_note": "synthetic silence; no source waveform information",
+      "category": "high_motion_sport",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "e105e26f37710a712aa698c6a70bc479957554b4bddc42e2296685a0486cd192",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/07/Dan_Quinn_welcomes_team_back_for_offseason_training_%28footage%29.webm/Dan_Quinn_welcomes_team_back_for_offseason_training_%28footage%29.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:70108681",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/AtlantaFalconsNFL\">Atlanta Falcons</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Atlanta Falcons"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Dan Quinn (American football)|Files from external sources with reviewed licenses|2018 Atlanta Falcons season|Uploaded with video2commons|Videos of American football"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=LB9U7piwMu4\"><bdi lang=\"\">Dan Quinn welcomes team back for offseason training</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=LB9U7piwMu4\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2018-06-21 03:25:12"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2018-04-17"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Head coach Dan Quinn welcome the team back and lays out what's ahead for the 2018 offseason."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Dan Quinn welcomes team back for offseason training (footage)"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": false,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N20.mp4",
+      "role": "negative",
+      "sha256": "492a03e594104ac724a7c11ef8e59cdfac5ca32ce2efd359043bfa15c0229ccd",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dan_Quinn_welcomes_team_back_for_offseason_training_(footage).webm",
+      "source_title": "File:Dan Quinn welcomes team back for offseason training (footage).webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N21",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "common_meme_imagery",
+      "corpus_revision": "evaluation_intro_v2",
+      "duration_s": 48,
+      "identity_group": "self-created:N21",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N21.v2.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "revision_reason": "Independent evaluation-only polygon/title artwork replaces accidental shared development N05 intro asset.",
+      "role": "negative",
+      "sha256": "d7479021d7d1d1ba8d5916fd3a45f0e543b417644bab34f3a92343f3b0a11a1c",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N22",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "silence_common_sound_effects",
+      "duration_s": 48,
+      "identity_group": "self-created:N22",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N22.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "negative",
+      "sha256": "0fd1241be30f0803256acb46aafd95e0b179e92990a08c4f9f502ba0708ce494",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "N23",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "semantic_recreation",
+      "duration_s": 48,
+      "identity_group": "self-created:N23",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N23.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "negative",
+      "sha256": "1b6de5a90a3fe9af6814ef2bb42b94fb321b32622dc95e133a2a5005d22c32a0",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 360,
+      "acquisition_width": 640,
+      "asset_id": "N24",
+      "attribution": "Nedim Jugo",
+      "audio_note": "synthetic silence; no source waveform information",
+      "category": "shared_third_party_broll",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "9d6e0788f5d83280a88062acc23e68f2a2ad9f1c9429acdf83f3aebecb9f9678",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aerial_video_of_Gacko_-_Bosnia_and_Herzegovina_%282026%29-bs.webm",
+      "duration_s": 48,
+      "identity_group": "commons:199853129",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "Nedim Jugo"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Gacko|Creative Commons Attribution-Share Alike missing SDC copyright status|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Pages with local camera coordinates and missing SDC coordinates|Aerial videos from Bosnia and Herzegovina|Files with coordinates missing SDC location of creation"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "Video recorded by Nedim Jugo (used with explicit permission / uploaded on behalf of the author)."
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2026-09-20 10:01:09"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2026-09-19"
+        },
+        "GPSLatitude": {
+          "source": "commons-desc-page",
+          "value": "43.167200"
+        },
+        "GPSLongitude": {
+          "source": "commons-desc-page",
+          "value": "18.535300"
+        },
+        "GPSMapDatum": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "WGS-84"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Aerial drone footage showing the town of Gacko, surrounding hills, and Gacko Power Plant in the background, Bosnia and Herzegovina."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Aerial video of Gacko - Bosnia and Herzegovina (2026)-bs"
+        },
+        "Permission": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026092010003475 2%3D2026092010003475\">\u00a0</span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\" class=\"extiw\" title=\"ticket:2026092010003475\">ticket #2026092010003475</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026092010003475%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026092010003475\"></span></td></tr></tbody></table>"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": false,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N24.mp4",
+      "role": "negative",
+      "sha256": "402d8770c70c5ba93591d54d94be6d39af5b89c94761c107d9c7cfe6442a2dcc",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aerial_video_of_Gacko_-_Bosnia_and_Herzegovina_(2026)-bs.webm",
+      "source_title": "File:Aerial video of Gacko - Bosnia and Herzegovina (2026)-bs.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S01",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/garysfez\">Gary Sfez (Director)</a>",
+      "audio_note": "preserved",
+      "category": "talking_head",
+      "download_sha256": "bd0e40209646d5384447979f107755b7f61a1fc5e33840170068865815a9ddf4",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/Bernard_Mabille_-_Interview_par_Marc_Delomez.webm/Bernard_Mabille_-_Interview_par_Marc_Delomez.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:67541948",
+      "license": "CC BY-SA 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/garysfez\">Gary Sfez (Director)</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Gary Sfez (Director)"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Bernard Mabille|Videos of 2012|Interview videos|Uploaded with video2commons|Videos from Vimeo|Video display resolution 1280 x 720|License reviewed by YouTubeReviewBot|Videos in French"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/35308576\" href=\"https://vimeo.com/35308576\">Bernard Mabille - Interview par Marc Delomez</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/35308576\"><span style=\"color:#9602fc\">view archived source</span></a>)"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2018-03-21 01:34:29"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2012-01-19"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "This is \"Bernard Mabille - Interview par Marc Delomez\" by Gary Sfez (Director) ."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Bernard Mabille - Interview par Marc Delomez"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S01.mp4",
+      "role": "source",
+      "sha256": "084fdf67ed1b2f7789f28f17f4d3b44e7190e9746c54f2fe03dc5f7545d44a04",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bernard_Mabille_-_Interview_par_Marc_Delomez.webm",
+      "source_title": "File:Bernard Mabille - Interview par Marc Delomez.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S02",
+      "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Delwar\" title=\"User:Delwar\">Delwar</a>; <a href=\"//commons.wikimedia.org/wiki/User:Yahya\" title=\"User:Yahya\">Yahya</a>",
+      "audio_note": "preserved",
+      "category": "two_person_podcast",
+      "download_sha256": "2dca2c7625bd51eb61a026f68bad2f76de8668cfed9ac49100e3da041fe6c463",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm/Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:172497374",
+      "license": "CC BY 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Delwar\" title=\"User:Delwar\">Delwar</a>; <a href=\"//commons.wikimedia.org/wiki/User:Yahya\" title=\"User:Yahya\">Yahya</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Self-published work|Videos of Maryana Iskander|Maryana Iskander at Wikimania 2025|Wikimania 2025 by Delwar"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2025-08-13 19:03:15"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2025-08-09"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "From Nairobi with Insight: Wikimedia CEO Maryana Iskander Talks to Delwar on Bangla Wikipedia, AI, and the Future of Knowledge"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Wikimedia CEO Maryana Iskander Interview by Delwar"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+      "role": "source",
+      "sha256": "b9f9f1f5c663c0ec9f9ee48849ac3dde9385c3f887e559925f96bd177a051a30",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm",
+      "source_title": "File:Wikimedia CEO Maryana Iskander Interview by Delwar.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S03",
+      "attribution": "SuperTux Kart-Autoren",
+      "audio_note": "preserved",
+      "category": "gameplay",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "f47dd4c60dbd383ef6e3bdced9a381da1e9c7a47cb4a7f716b2b830f60ccb538",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_10.19.10.02.webm/Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_10.19.10.02.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:169220834",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "SuperTux Kart-Autoren"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "SuperTuxKart|GPL|Video display resolution 7680 x 4320|Files uploaded by PantheraLeo1359531|Videos created by PantheraLeo1359531 in 2025|Videos of gameplay"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "SuperTux Kart"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2025-07-04 09:04:13"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2025-07-04"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Recording of the benchmark from SuperTux Kart, recorded with a GeForce RTX 5090."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Benchmark SuperTux Kart Base Profile 2025.07.04 - 10.19.10.02"
+        },
+        "Permission": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "<table class=\"mw-collapsible mw-collapsed\" style=\"clear:both;margin:2px auto;background:var(--background-color-base, #FFF);color:inherit;border:1px solid #AAA;padding:1px;width:100%\">\n\n<tbody><tr>\n<th scope=\"col\" style=\"font-size:88%;background:var(--background-color-neutral, #eaecf0);border:none;color:inherit;padding:0 .2em;text-align:center\">CREDITS\n</th></tr>\n<tr>\n<td class=\"mw-collapsible-content\" style=\"font-size:88%;border:none;padding:0;\">= SuperTuxKart =\n<p>A Kart Racing Game Featuring Tux &amp; Friends\n- Version $STKVERSION$\n- Visit us at supertuxkart.net\n- SuperTuxKart is released under GPL 3.0\n- Assets are released under Creative Commons and other licenses\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Joerg_Henrichs_(hiker)\"><span id=\"Joerg_Henrichs_.28hiker.29\"></span>Joerg Henrichs (hiker)</h1></div>\n<p>Former project leader\n- Project leader and lead programmer up to STK 1.0\n- Among too many things to list:\n-   Work on physics, AI, networking\n-   A lot of bugfixes and enhancements\n-   Windows packaging\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Benau\">Benau</h1></div>\n<p>Lead developer, modeller &amp; animator\n- Soccer and battle mode AI, Shader, graphics\n- SPM file format definition, importer and exporter\n- A lot of networking code\n- Other graphical improvements to karts and tracks\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Marianne_Gagnon_(Auria)\"><span id=\"Marianne_Gagnon_.28Auria.29\"></span>Marianne Gagnon (Auria)</h1></div>\n<p>Developer\n- Former lead programmer\n- Mac OS X Packager\n- Among too many things to list:\n-   GUI engine and user interface\n-   A lot of bugfixes and enhancements\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Jean-Manuel_Cl\u00e9men\u00e7on_(Samuncle)\"><span id=\"Jean-Manuel_Cl.C3.A9men.C3.A7on_.28Samuncle.29\"></span>Jean-Manuel Cl\u00e9men\u00e7on (Samuncle)</h1></div>\n<p>Lead graphical artist\n- Art work:\n-   Cocoa temple, Grand Paradiso Island, Old Mine\n-   Ravenbridge Mansion, Hacienda, Fort Magma, XR591\n-   Snow Peak, Zen Garden, Ligthouse, Sara\n- Thanks to my family and especially my father\n- Jean Claude Clemen\u00e7on\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Alayan\">Alayan</h1></div>\n<p>Lead developer\n- Story mode and gameplay improvements\n- AI improvements\n- General improvements and bugfixes\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Dawid_Gan_(deveee)\"><span id=\"Dawid_Gan_.28deveee.29\"></span>Dawid Gan (deveee)</h1></div>\n<p>Developer\n- Android port\n- General improvements and many many bugfixes\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Online\">Online</h1></div>\n<p>Add-ons website\n- Daniel Butum (leyyin)\n- Stephen Just\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Additional_Programming\">Additional Programming</h1></div>\n<p>Significant bug fixes &amp; misc. contributions for 1.0 and 1.1\n- Ben Krajancic\n- QwertyChouskie\n- CodingJellyfish\n- Mrxx99\n- Pelya\n- Riso\n</p><p><br>\nSignificant bug fixes &amp; misc. contributions for 1.2 to 1.5\n- QwertyChouskie\n- CodingJellyfish\n- Mary\n- Luffah\n- CodedOre\n- Riso\n- mrkubax10\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Visual_art\">Visual art</h1></div>\n<p>Tracks\n- Sven Andreas Belting\u00a0: Black Forest\n- Mac_DMH\u00a0: Minigolf\n- Rubberduck\u00a0: STK Enterprise\n- Ponzino\u00a0: Volcan Island\n</p><p>Tracks\n- Canis Lupus\u00a0: Original 'Northern Resort' &amp; 'Scotland'\n- Ivar ten Cate (Varivar)\u00a0: Original 'Old Mine' &amp; 'Snow Peaks' Improvements\n- MacIO\u00a0: Cave X\n- Steve and Oliver Baker\u00a0: Original 'Oliver's Math Class'\n</p><p>Tracks\n- Typhon306\u00a0: 'Ancient Colosseum Labyrinth', updated 'Battle Island' &amp; 'Cave X'\n</p><p>Karts\n- JunglePenguin\u00a0: Xue\n- Minibjorn\u00a0: Puffy\n- Cheleb\u00a0: Nolok, Pidgin\n- N\u00e9d J. \u00c9doire\u00a0: Wilber, Hexley, Beastie\n- Typhon306 and ZAQraven99\u00a0: Kiki\n</p><p>Karts\n- C\u00e9dric Archambault\u00a0: Suzanne\n- Julian Sch\u00f6nb\u00e4chler\u00a0: Amanda and Gavroche\n- Kinsu\u00a0: Emule\n- ZAQraven99\u00a0: GNU, Pepper, Sara, Adiumy, Konqi, Godette\n</p><p>Objects\n- GeekPenguinBR, TuxKartDriver\u00a0: Models from Las Dunas Stadium\n</p><p>Miscellaneous\n- Semphris\u00a0: Item respawn animations\n</p><p>Jymis\n- Karts and icons\n</p><p>Minibjorn\n- Powerups and baddies (models + icons)\n- Explosion and smoke particles\n- Several textures\n- 'Feature Unlocked' chest\n</p><p>Rudy85\n- Character animations\n</p><p>Icons\n- Anthony Carr\u00e9 (yeKcim)\n- betharatux1\n</p><p>Thomas Oppl\n- New banana model\n- Winter sky cube\n</p><p>GUI Icons and Other Art\n- onyum.com, commissioned by OpenGameArt.org/Bart Kelsey\n- Andreas Bilng, Enrico Billing, Dakal\n- The Tango icon project, the Gnome icon set\n- Dakal\u00a0: textures\n- Andy (Needer)\n</p><p>GUI Icons and Other Art\n- Paul Elms (scifly)\n- Elisee\u00a0: Checker background\n- Mariam Lamrani (may-panda): wallpaper and poster\n- Thomas Fournet (Totoplus62): Trailer and icons\n</p><p>Photographs &amp; Textures\n- Frank Vincentz, Pascalou Petit, KENPEI's photo\n- Luis Miguel Bugallo S\u00e1nchez, Wilfredo R Rodriguez H\n- Krzysztof P. Jasiutowiczs, Ben Clough, Found5dollar\n- Benjamint444, Christoph Egger\n- The Celestia project, NASA, Moser Juan Jos\u00e9\n- Gregory Schick, Julius Krischan Makowka\n</p><p>Other media sources\n- BurningWell\u00a0: public domain photos\n- <a rel=\"nofollow\" class=\"external free\" href=\"http://www.publicdomainpictures.net/\">http://www.publicdomainpictures.net/</a>\n- <a rel=\"nofollow\" class=\"external free\" href=\"http://pdphoto.org/\">http://pdphoto.org/</a>\n- Wikimedia Commons\n- Extreme Tux Racer\n- The Glest Jungle Set (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.titusgames.de\">http://www.titusgames.de</a>)\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Audio_Art\">Audio Art</h1></div>\n<p>Music\n- 0zone0ne\n- Krobonil\n- Claude Werner (Bollen)\n</p><p>Misc songs\n- DJ Helium\u00a0: 'Secret Garden' and 'Greenvalley'\n- The Dead Rocks\n- Magne Djupvik\u00a0: 'Penguin Party'\n- Dundersylt\u00a0: last lap, race start songs\n- GeekPenguinBR and Heuchi1\u00a0: 'Jumping to the stars'\n- Heuchi1\u00a0: 'Alien Signal'\n</p><p>Misc songs\n- Keith Baylis aka Vim\u00a0: 'Boom-boom-boom song'\n- Weirwood\u00a0: 'Kart grand prix'\n- Speedsound\u00a0: 'Sky Vibe Hi Frequency'\n- Kalsan\u00a0: 'Lava'\n</p><p>Voice acting\n- Viktor Aurelius: Nolok\n</p><p>Sound effects\n- Mike Koening and soundbible.com\n- The Audio Monkey ( <a rel=\"nofollow\" class=\"external free\" href=\"http://www.theaudiomonkey.co.uk\">http://www.theaudiomonkey.co.uk</a> )\n- Battle For Wesnoth\n- Iwan 'qubodup' Gabovitch\n- The Trigger-Rally project\n- pdsounds.org\n</p><p><br>\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Misc\">Misc</h1></div>\n<p>Website\n- Skin\u00a0: Jean-Manuel Cl\u00e9men\u00e7on, Konstin\n- Tom Jenkins (formerly): skin and layout\n- Remy le Guen (Vivelefrat)\n- Sebastian Rode\n</p><p>Packaging\n- Auria: MacOS package\n- hiker: Windows\n- Dawid Gan: Linux and Android packages\n</p><p>Testing for 1.0 to 1.5\n- Alayan\n- deveee\n- Wuzzy\n- The speedrunners who found many exploits\n- Everyone else who made good issues report!\n</p><p>Development Babies\n- Florian\n</p><p><br>\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Software\">Software</h1></div>\n<p>Software used\n- Irrlicht\n- Bullet\n- enet\n- curl\n- freetype2\n- OpenAL\n</p><p>Software used\n- ogg\n- vorbis\n- SheenBidi\n- blender\n- wiiuse\n- harfbuzz\n</p><p>Software used\n- sqlite\n- openssl\n- mcpp\n</p><p><br>\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Previous_contributors\">Previous contributors</h1></div>\n<p>Magne Djupvik (Arthur)\n- Public relations and faithful follower\n- SuperTuxKart Blog\n- Play testing\n- Pun master\n</p><p>Google Summer of Code Students\n- Robin Nicollet\n- Glenn de Jonghe\n- Lauri Kasanen\n- Daniel Butum\n- Bart Cools\n</p><p><br>\nGoogle Summer of Code Students\n- Csaba Molnar\n- Sachith Seneviratne\n- Akshay Singhvi\n</p><p>No longer active\n- Marc Coll\u00a0: Grand Prix editor\n- Flakebi\n- Konstin\n- math07\n- Elderme\u00a0: Work on graphical engine\n- Ward Muylaert\n</p><p>No longer active\n- Divya Kukar (divvy81)\n- Fabien Sanglard\u00a0: normal map shader\n- Damien\n- David (Work on flying items)\n- Stephen Dunn (Work on audio)\n- Patrick Ammann\n</p><p>No longer active\n- Vincent Lejeune (vlj)\u00a0: 3D engine\n- Eduardo Hernandez Munoz (Coz)\u00a0: Former Admin\n- Constantin Pelikan (conso)\u00a0: Former Admin\n- Sam Clarke\u00a0: Windows Installer\n- Hans \"the farmer\" Dzaack\u00a0: Physics tuning\n- Maik Semder (Ikework)\u00a0: Bug fixes\n</p><p>No longer active\n- Xapantu\u00a0: add-ons website\n- Lionel Fuentes (Funto)\u00a0: Soccer mode and other contributions\n- Mohammad Al-Ghannam (Yasin)\u00a0: Soccer mode\n- Johannesr1\u00a0: Bubble gum shield\n- Glenn De Jonghe (Unitraxx)\u00a0: Grand Prix progress saving\n- MCMic\u00a0: reverse mode\n</p><p>No longer active\n- Yann Leprince (sciyann)\n- Xenux\u00a0: Add-Ons filtering\n- jmimu\n- Paul Elms (scifly)\n- Robert Schuster\n</p><p><br>\nGame of the Month (STK version 0.0)\n- Craig Keogh, Ingo Ruhnke, Jacob Persson\n- James Gregory, Pascal Giard\n- Matthias Braun, Oliver Jeeves\n- Paul Carley, Ricardo Cruz, Caleb Sawtell\n- Willian Padovani Germano, James Gregory\n</p><p>Original Tuxkart\n- Steve Baker (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sjbaker.org/\">http://www.sjbaker.org/</a>)\n- Oliver Baker\n</p><p><br>\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Donations\">Donations</h1></div>\n<p>Donations\n- ANTON KARMANOV, Matthew Boyd, Michal Jusyk, Nicholas Masters\n- Nicolay Chichota, S Tsekhmistro, Matias Baglivo, Don K Finney\n- Y M MOYSIADIS, TOLSTOV OLEG, Cory Rash, ARTEM BELOUSOV\n</p><p>Donations\n- \u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0443\u0440\u0438\u043d, John Clark, Wing On Cheung, Jan\n- ANNOP CHAWALITSITTHIKUN, ARTYOM DEMAKOV, Rio Marco Rathje\n- Tibor Dik\u00f3, Luca TEDESCHI, Merle Nicolaou, Michael ISSARTEL\n- ALEKSANDR ZHEMCHUGOV, Tobias Brohl, Dzianis Kim\n- Joshua Miller, Brenda Punzel, Peter M Estes, Benedikt Kleinmeier\n</p><p><br>\nDonations\n- Trevor Hass, Thomas Belvin, Simona-A.-Petronela Crefelean\n- Schmidt Christian, Roberto Giuliani, Robert A Swearingen\n- Rene Genz, Ren\u00e9 Schubert, Pazurik Laszlo Adam, Oskar Vigren\n- M J Angove, Florian Lehebel, David E Scourfield, Michael Laube\n- Merlin Juusola, Matthias Wiege, Matthew Toppenberg, Martin Rejman\n- Mark Gannon, Lukas Palme, Lennart Mellqvist, Joshua Dye, Jan Havran\n</p><p><br>\nDonations\n- Jacqueline Brown, Igor Murzich, Guido Stehr, Gisela Ehresmann\n- Evaldas Granickas, Elisabeth Lambert, Edith Muijsers, DC Jaeger\n- Damian Fajfer, Chase Williamson, Carsten Timm, Baptiste Dagneaux\n- Alexander Olkhovsky, Aleix Casamitjana, Adri\u00e1n Chaves Fern\u00e1ndez\n- Georgi Stoychev, Nuno Ferreira, Steven Anderson, Charalabos Frouzakis\n- Richard Qian, William Nakamura, Maree Glynn, David Carlier\n</p><p><br>\nDonations\n- Alistair Findlay, James Tobin, Ursula Belting, Stephan van den Akker\n- Ken McCall, Arnaud Maurin, James Tobin, Stefan Kiehne, David Efflandt\n- Gary Shearer, Stuart Gibb, Fran Casal, Piotr Karczemski, Florian Leh\u00e9bel\n- Dominik M\u00fcller, Saverio Brancaccio, Florian Leh\u00e9bel, Pietro Pizzo\n- Alvaro Casta\u00f1eda Mendoza, Sim\u00f3n Llinares Riestra, Radu Sofian\n- Yevgeny Slusorenko, Joshua Dye, Chris Lukas, Gary Shearer, Gary Shearer\n</p><p><br>\nDonations\n- Martin Lankes, Muchlis Polin, Peter Estes, Nuno Ferreira, Duncan Steele\n- Michael Kleinhans, Atomic Monks, Aleksandar Sokolovski, Brandon Hoeksema\n- Victor Gabillon, Tristan Reitter, Lupe Aguilar, Florian Pelz\n- Tanja Wiege, Gabriele Casetti, Andrea De Angelis, Saul Gutierrez\n- Csongor Ballay, Csongor Ballay, William Youstra, Peter Estes\n- R\u00e9gis Hamann, R\u00e9gis Hamann, Yuri Sucupira, Lucien Greefkes, Frank Sapone\n</p><p><br>\nDonations\n- Peter Cundall, Michael Richards, Franz Ernst, Florian Leh\u00e9bel\n- J\u00f6rg Orlowski, Lukasz Szczekocki, Bjarni Kristinsson, David Carlier\n- Kamensky Mikhail, Roland Schoof, Trevor Robertson, Patrik Pomichal\n- Guillaume Pointet, Dennis Holierhoek, Daniel Nelson, David Hibshman\n- Thomas Belvin, Erik Jahn, Susen Skotnik, Dennis McLaughlin, Bert De Mets\n- Jean-Gabriel Kammerer, Stefan Lukits, Martin Steigerwald\n</p><p><br>\nDonations\n- Adam Williamson, A Anton, Ville Kauppila, Gary Shearer\n- Peter Hausleitner, Philip Pfeifer, Christoph Baldauf, Jane Middlebrooke\n- roundof.org, Roman Marschall, Gary Shearer, Jonathan Banks\n- Nicolas Affolter, Mahendra Tallur, David Behnke, Mark Supper\n- Eric Cheminot, Jason Speechley, Michael Martin, Andrew Gilbert\n- Fabian Schach, michael orosov, Wendell Glick, Eugene Lemaitre\n</p><p>Donations\n</p><p>- Gerald Angus, Andrea De Angelis, Antonio Sala, Joshua Dye, roundof.org\n- Andreas M\u00fcller, Jose Miguel Bolorino Manzano, Troy Smith, Bernhard Motel\n- Bernhard Motel, Alexandre Bouhier, Thomas Preissler, Lubom\u00edr Saji\n- Eric Pedersen, Fabrice SAILLY-SIRGUE, Simon Dalsgaard, Joshua Dye\n- Detlef Olp, Jo\u00e3o Pedro de Lima, Christopher Sweeney, Ryan Gervais\n- Laszlo Ast, Robert Yerke, Nuno Ferreira, Lachand Valentin, Arne Bernin\n</p><p><br>\nDonations\n- Kong Chun Ho, Jonathan Lee, Dominik R\u00f6sner, Andreas Frankl\n- Didier Delhaye, Gianluca Bonato, Ferdinand Ihringer, Mark Dougherty\n- \u0422\u043e\u043f\u043e\u0440\u043e\u0432 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d, Georges-Mickael Seguin, Jason Grindlay\n- Gordon Macleod, Anders Jonsson, Peter Estes, Marius Gripsg\u00e5rd,\n- FoosterNET, Daniel Sandman, David Ault, Matt DeVillier, Chris Leutwyler\n- Anthony Waxman, R\u00e9mi Verschelde, Alessandro Vitali, Katherine Freeman\n</p><p><br>\nDonations\n- Roy Akselsen, Ingrid Becke, Jonathan Lee, Christoph Baldauf\n- Victor Gabillon, Yves Fourneau, Rub\u00e9n Leal Coba, Andreas M\u00fcller\n- Santiago Hoyos Zea, Tobias Wenig, Nuno Ferreira, Fran Casal\n- Alexey \u0413\u043e\u0440\u043e\u0445\u043e\u0432, Luka Vievsky, Nathan Dykhuis, David , David Leschinsky\n- Sam Tygier, \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u0430\u0437\u0430\u043a\u043e\u0432, Matthew Golliher\n- Karl Ove Hufthammer, Richard Stoltenberg, Niklas Anderson, Alfred Turner\n</p><p><br>\nDonations\n- Adrian Spirgi, Frank Abrignani, Lukasz Korpalski, Andea De Angelis\n- Pedro Freitas Fleck, Lachand Valentin, Cyrille Giquello, FoosterNet\n- Olivier C. Pageau, ?B\u00e9renger Ossete Gombe, Michael Sch\u00f6nitzer\n- Daniel Mart\u00ednez Garc\u00eda, Joe Westcott, Patrik Nilsson, Will Hennegan\n- Philip Whitfield, Markus Hedetoft, Walt Zwierzycki, Jake Jarrett\n- Kyle Maggio, Rich\u00e1rd R\u00e1thg\u00e9ber, Gilles Wittezaele, Daniel Sandman\n</p><p><br>\nDonations\n- Haldor Zaake-Hertling, Elvis Kandler, OPE Beckman Lapre\n- Esteban Monge Marin, Marcos Schnalke, Maximilian R\u00fcdiger, Glenn Geenen\n- Michael Biller, Vincent Bermel, John Cordray, Jannik Heller\n- Vincent Stavleu, Jairo Estefania Vilumbrales, Michal Klaus, Josh Dye\n- Carlos Sol\u00eds R\u00f3ger, James Vandermark, Wouter Reckman, Nuno Ferreira\n- Crefelean Nicolae, Mark Saliers, Issa Gorissen, Tom Reynolds\n</p><p>Donations\n- James Dearing, Collin Blatt, Vincent Bermel, Nuno Ferreira\n- Jarl Frode Arntzen, Vladimir Tuboltsev, Attila Cseman\n- Frank Lauterbach, Mahendra Tallur, Matthijs Harmsen, Dietmar Wolf\n- Suwannee Massage, Fabio Molinari, Christian Ritzer\n- Gerard Vaas, Edgar Klenske, Georgi Stoychev, Daniel Reimann\n- Tibor Grasser, Robert Forster, Kelonye Mitchel, Dennis Shewmaker,\n</p><p>Donations\n- ProMission Projects, Inc.,  Ken McCall, Peter Estes, Markus Valkeap\u00e4\u00e4\n- Victor Gabillon, Franz Schmid, Austin Williamson, Art\u016bras Norkus\n- Roland Schoof, Borisenkov Alexey, Edvin Djupvik, Mikel Crespo,\n- Trevor Robertson, Sergej Engbrecht, Dylan Mahoney,\n- Joel Schaerer, Stephanie Theisz, Mokimoke, George Angelopoulos\n- Kharlamov Ivan, Cedric Briand, Christoph Baldauf, Marco Caiazza,\n</p><p>Donations\n- Volkov Alexandr, Evelyne Tenaerts, Thomas Salmhofer, Ralfe Gomes Ecard\n- Carlos Alonso Pena Osorio, Philip Delaney, Giorgio Cantoni,\n- Gabriel Stedtler, Alexander Sauter, Robert Premu\u017e, Anton\u00edn Pil\u00e1t\n- Sylvain St-Amand, Apostolos Apostolidis,  E. Cole, David Ault\n- Vinzenz Vietzke,Edgar Bennet, Ryan Lei, Sergey Spiridonov\n- Carsten Carulli, Jeremy Kenny, Francisco Monteagudo, Marlow Marlow\n</p><p>Donations\n- Michal Sladek, Peter Lebbing, Roland Schoof, Lars Peter Mathiassen\n- Benjamin Gronke, Marc Coll, Peter Estes, John Yewell, Josh Dye\n- Sebastian Rode, OpenGameArt.org, Tux_penguin, Magne Djupvik\n- Markus Liukka, Phelippeau Rudy, Javier Pedros Cholvi, Michael Roessner\n- Ivan Wright, Carl Olsson, Sergey V. Spiridonov\n</p>\n<div class=\"mw-heading mw-heading1\"><h1 id=\"Thanks_for_Playing!\"><span id=\"Thanks_for_Playing.21\"></span>Thanks for Playing!</h1></div>\n<p>Do not hesitate to contribute!\n- Give feedback\n- Participate on the community\n- Donate\n- Make art\n- Code a feature\n-\n-\n-\n-\n-\n</p>\n</td></tr></tbody></table>\n<table class=\"mw-collapsible mw-collapsed\" style=\"clear:both;margin:2px auto;background:var(--background-color-base, #FFF);color:inherit;border:1px solid #AAA;padding:1px;width:100%\">\n\n<tbody><tr>\n<th scope=\"col\" style=\"font-size:88%;background:var(--background-color-neutral, #eaecf0);border:none;color:inherit;padding:0 .2em;text-align:center\">licenses\n</th></tr>\n<tr>\n<td class=\"mw-collapsible-content\" style=\"font-size:88%;border:none;padding:0;\">Format: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/\">https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/</a>\n<p>Upstream-Name: SuperTuxKart\nUpstream-Contact:\n</p>\n<pre>Joerg Henrichs &lt;henrichsjoerg@gmail.com&gt;\nMarianne Gagnon &lt;auria.mg@gmail.com&gt;\nJean-Manuel Cl\u00e9men\u00e7on &lt;sam.un@protonmail.com&gt;\n</pre>\n<p>Source: <a rel=\"nofollow\" class=\"external free\" href=\"https://supertuxkart.net\">https://supertuxkart.net</a>\nLicense: GPL2+ and CC-BY-SA\n</p><p>Files: check_licenses.php\nCopyright: Copyright 2017-2018 Matthew Trescott &lt;matthewtrescott@gmail.com&gt;\nLicense: GPL 3.0+\nComment: Super hacky but will check for undocumented files that you're about to add\n</p><p>Files:\n</p>\n<pre>library/gfx_advertisingScreenArena_a/*\nlibrary/gfx_cameraRig_a/*\nlibrary/gfx_fireflies_a/*\nlibrary/gfx_fireworksExplosion_a/*\nlibrary/gfx_fireworkTube_a/*\nlibrary/gfx_fireworkTubeBlueSparks_a/*\nlibrary/gfx_jetblastGround_a/*\nlibrary/gfx_lightFlash_a/*\nlibrary/gfx_lightning_a/*\nlibrary/gfx_medeorit_a/*\nlibrary/gfx_rocketBlast_sa/*\nlibrary/gfx_solarCore_a/*\nlibrary/gfx_volumetricNebula_a/*\nlibrary/stk_combineHarvester_a/*\nlibrary/stklib_accacia_a/*\nlibrary/stklib_agave_a/*\nlibrary/stklib_airConditioner_a/*\nlibrary/stklib_animGrass_a/*\nlibrary/stklib_armchair_a/*\nlibrary/stklib_asianLantern_a/*\nlibrary/stklib_asianWoodPost_a/*\nlibrary/stklib_autumnSmallBush_a/*\nlibrary/stklib_autumnTree_a/*\nlibrary/stklib_aztecFountain_a/*\nlibrary/stklib_aztecHouse_a/*\nlibrary/stklib_aztecHouse_b/*\nlibrary/stklib_aztecTorch_a/*\nlibrary/stklib_balcony_a/*\nlibrary/stklib_bambooTorch_a/*\nlibrary/stklib_beachWomen_a/*\nlibrary/stklib_bench_a/*\nlibrary/stklib_bigAirBlower_a/*\nlibrary/stklib_bigBlueFutureLight_a/*\nlibrary/stklib_blueRadioTower_a/*\nlibrary/stklib_boxGrid_a/*\nlibrary/stklib_cabbage_a/*\nlibrary/stklib_candle_a/*\nlibrary/stklib_carrot_a/*\nlibrary/stklib_cartraffic_a/*\nlibrary/stklib_cattail_a/*\nlibrary/stklib_chimney_a/*\nlibrary/stklib_chimney_b/*\nlibrary/stklib_classchair_a/*\nlibrary/stklib_cliffGrassEarth_a/*\nlibrary/stklib_computerScreenMail_a/*\nlibrary/stklib_computer_a/*\nlibrary/stklib_conifer_a/*\nlibrary/stklib_cornPlant_a/*\nlibrary/stklib_cypress_a/*\nlibrary/stklib_deadTree_a/*\nlibrary/stklib_electricalBox_a/*\nlibrary/stklib_electricalFenceGate_a/*\nlibrary/stklib_electricalFencePost_a/*\nlibrary/stklib_electricFence_a/*\nlibrary/stklib_fern_a/*\nlibrary/stklib_fishSkeleton_a/*\nlibrary/stklib_fitchBarrelTest_a/*\nlibrary/stklib_fitchBarrel_a/*\nlibrary/stklib_giantPlasticBag_a/*\nlibrary/stklib_greenRadioTower_a/*\nlibrary/stklib_hayBall_a/*\nlibrary/stklib_hayBall_a_mesh/*\nlibrary/stklib_hexajet_a/*\nlibrary/stklib_igloo_a/*\nlibrary/stklib_inflatableFence_a/*\nlibrary/stklib_inflatableFence_b/*\nlibrary/stklib_inflatableFence_c/*\nlibrary/stklib_jetBlast_a/*\nlibrary/stklib_jungleTree_a/*\nlibrary/stklib_jungleTree_b/*\nlibrary/stklib_lamponeFlag_a/*\nlibrary/stklib_liana_a/*\nlibrary/stklib_logBarrier_a/*\nlibrary/stklib_loudspeaker_a/*\nlibrary/stklib_loveAlcove_a/*\nlibrary/stklib_loveGate_a/*\nlibrary/stklib_loveLantern_a/*\nlibrary/stklib_lowAnimGrass_a/*\nlibrary/stklib_lowPalmTree_a/*\nlibrary/stklib_lowPineTree_a/*\nlibrary/stklib_lowRockBarrier_a/*\nlibrary/stklib_luggage_a/*\nlibrary/stklib_mailbox_a/*\nlibrary/stklib_metalPostLamp_a/*\nlibrary/stklib_metalSupportBeam_a/*\nlibrary/stklib_mineLantern_a/*\nlibrary/stklib_modernHousing_a/*\nlibrary/stklib_modernHousing_b/*\nlibrary/stklib_movingMapPlane_a/*\nlibrary/stklib_mudpot_a/*\nlibrary/stklib_mushroom_a/*\nlibrary/stklib_mushroom_b/*\nlibrary/stklib_nolokFlags_a/*\nlibrary/stklib_oldCar_a/*\nlibrary/stklib_oldLantern_a/*\nlibrary/stklib_oldLightBulbGroup/*\nlibrary/stklib_oldschoolLampVerticalSupport_a/*\nlibrary/stklib_oldschoolLamp_a/*\nlibrary/stklib_orangeCocktail_a/*\nlibrary/stklib_pallet_a/*\nlibrary/stklib_palmTree_a/*\nlibrary/stklib_papiAirport_a/*\nlibrary/stklib_partyFlags_a/*\nlibrary/stklib_pencilPaint_a/*\nlibrary/stklib_pinetree_a/*\nlibrary/stklib_pinkRibbon_a/*\nlibrary/stklib_poseidon_a/*\nlibrary/stklib_prayerFlags_a/*\nlibrary/stklib_princessSaraDepartureAirport_a/*\nlibrary/stklib_pumpkin_a/*\nlibrary/stklib_ranchPortal_a/*\nlibrary/stklib_redCrab_a/*\nlibrary/stklib_redFlowerBush_a/*\nlibrary/stklib_redParrot_a/*\nlibrary/stklib_redSeaweed_a/*\nlibrary/stklib_redShell_a/*\nlibrary/stklib_redTorii_Portal_a/*\nlibrary/stklib_redXmasLight_a/*\nlibrary/stklib_reef_a/*\nlibrary/stklib_rocketBooster_a/*\nlibrary/stklib_roots_a/*\nlibrary/stklib_runwayBeacon_a/*\nlibrary/stklib_sagebrush_a/*\nlibrary/stklib_sandCastle_a/*\nlibrary/stklib_saraVertical_a/*\nlibrary/stklib_seaLantern_a/*\nlibrary/stklib_seaweed_a/*\nlibrary/stklib_showProjector_a/*\nlibrary/stklib_silvianClock_a/*\nlibrary/stklib_silvianGirl_a/*\nlibrary/stklib_silvianHouse_a/*\nlibrary/stklib_silvianHouse_b/*\nlibrary/stklib_silvianHouse_c/*\nlibrary/stklib_silvianKiosk_a/*\nlibrary/stklib_skyBeam_a/*\nlibrary/stklib_slivianFountain_a/*\nlibrary/stklib_smartphone_a/*\nlibrary/stklib_snowRocks_a/*\nlibrary/stklib_snowSmallBush_a/*\nlibrary/stklib_speedTrap_a/*\nlibrary/stklib_spiralBlueShell_a/*\nlibrary/stklib_stkVertical_a/*\nlibrary/stklib_stormLantern_a/*\nlibrary/stklib_tetrapodUnderwater_a/*\nlibrary/stklib_trainSemaphore_a/*\nlibrary/stklib_trijet_a/*\nlibrary/stklib_tropicalPlant_a/*\nlibrary/stklib_umbrellaBeach_a/*\nlibrary/stklib_waterLily_a/*\nlibrary/stklib_waterTower_a/*\nlibrary/stklib_weatherCock_a/*\nlibrary/stklib_welcomeAboard_a/*\nlibrary/stklib_windpump_a/*\nlibrary/stklib_woodLittleBridge_a/*\nlibrary/stklib_woodLodge_a/*\nlibrary/stklib_woodPostLamp_a/*\n</pre>\n<p>Copyright: Copyright 2014-2017 Jean-Manuel Cl\u00e9men\u00e7on\nLicense: CC-BY-SA 4.0\nComment: stklib_pallet_a was confirmed to be samuncle's work, despite being committed with that of GeekPenguinBR and TuxKartDriver. (See IRC logs from 2017-01-23 at <a rel=\"nofollow\" class=\"external free\" href=\"http://irc.wxm.be/logs\">http://irc.wxm.be/logs</a>.)\n</p><p>Files: library/stklib_animalPig_a/*\nCopyright:\n</p>\n<pre>Public Domain by Bitiquinho from OpenGameArt.org\nCopyright 2017 Jean-Manuel Cl\u00e9men\u00e7on\n</pre>\n<p>License: CC-BY-SA 4.0\nComment: Original untextured model is public domain. Modified (textured) by Jean-Manuel Cl\u00e9men\u00e7on.\n</p><p>Files: library/stklib_aztecHut_a/*\nCopyright:\n</p>\n<pre>Copyright 2014 Anon\nCopyright 2014 Jean-Manuel Cl\u00e9men\u00e7on\n</pre>\n<p>License: CC-BY-SA 4.0 AND CC-BY-SA 3.0 Unported\n</p><p>Files:\n</p>\n<pre>library/stklib_aztekVase_a/*\nlibrary/stklib_cocoaTree_a/*\nlibrary/stklib_mermaid_a/*\nlibrary/stklib_olmec_a/*\nlibrary/stklib_piranha_a/*\nlibrary/stklib_quetzalcoatl_a/*\n</pre>\n<p>Copyright: Copyright 2014 Anon\nLicense: CC-BY-SA 4.0 AND CC-BY-SA 3.0 Unported\nComment: Source: <a rel=\"nofollow\" class=\"external free\" href=\"http://forum.freegamedev.net/viewtopic.php?f=90&amp;t=5726\">http://forum.freegamedev.net/viewtopic.php?f=90&amp;t=5726</a>\n</p><p>Files:\n</p>\n<pre>library/stklib_blimp_a/*\nlibrary/stklib_tiresBarrier_a/*\nlibrary/stklib_tvVan_a/*\nlibrary/stklib_wilbertCam_a/*\nlibrary/stklib_wilbertSecurity_a/*\n</pre>\n<p>Copyright:\n</p>\n<pre>Copyright 2016 GeekPenguinBR\nCopyright 2016 TuxKartDriver\n</pre>\n<p>License: CC-BY-SA 3.0\n</p><p>Files:\n</p>\n<pre>library/stklib_entranceGuardianMale_a/*\ntextures/stklib_entranceGuardianMale_a.png\n</pre>\n<p>Copyright: Public Domain by Colorado Stark\nLicense: CC0\nComment: See <a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://opengameart.org/content/statue-holding-lightpost\" href=\"https://opengameart.org/content/statue-holding-lightpost\">http://opengameart.org/content/statue-holding-lightpost</a>. Modified by Jean-Manuel Cl\u00e9men\u00e7on.\n</p><p>Files: library/stklib_gnuMeditation_a/*\nCopyright:\n</p>\n<pre>Copyright 2009 Benjamin Arnaudet\nCopyright 2010 STKRudy85\nCopyright 2013 Lionel Fuentes\nCopyright 2015 Jean-Manuel Cl\u00e9men\u00e7on\nCopyright 2016 Benau\n</pre>\n<p>License: GPL v3\nComment: Converted from kart to library node by Jean-Manuel Cl\u00e9men\u00e7on. Benau added the colorization mask.\n</p><p>Files:\n</p>\n<pre>library/stklib_gramophone_a/*\nlibrary/stklib_skeletonHand_a/*\n</pre>\n<p>Copyright:\n</p>\n<pre>Copyright 2017 N\u00e9d J. \u00c9doire\n</pre>\n<p>License: CC-BY-SA 4.0\nComment: Original model by N\u00e9d J. \u00c9doire.\n</p><p>Files: library/stklib_malampoorFlag_a/*\nCopyright: Copyright 2017 Matthew Trescott\nLicense: CC-BY-SA 4.0\nComment: Based on the Lampone flag model by samuncle (CC-BY-SA 4.0)\n</p><p>Files: library/stklib_monkeyCheering_a/*\nCopyright:\n</p>\n<pre>Copyright 2014, 2015 Jean-Manuel Cl\u00e9men\u00e7on\nCopyright 2016 Benau\n</pre>\n<p>License: CC-BY-SA 4.0\nComment: Benau added more animations.\n</p><p>Files: textures/stkflag_stellacoffee_a.png\nCopyright:\n</p>\n<pre>Public Domain by GDJ from OpenClipArt.org\nCopyright 2017 Jean-Manuel Cl\u00e9men\u00e7on\n</pre>\n<p>License: CC-BY-SA 4.0\nComment: Mermaid picture from here: <a rel=\"nofollow\" class=\"external free\" href=\"https://openclipart.org/detail/253291/blonde-mermaid\">https://openclipart.org/detail/253291/blonde-mermaid</a>. Modified into a logo by Jean-Manuel Cl\u00e9men\u00e7on.\n</p><p>Files: textures/stklib_entranceGuardianMale_a.png\nCopyright: Public Domain by Colorado Stark\nLicense: CC0\nComment: See <a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://opengameart.org/content/statue-holding-lightpost\" href=\"https://opengameart.org/content/statue-holding-lightpost\">http://opengameart.org/content/statue-holding-lightpost</a>\n</p><p>Files: textures/stktex_boxGrid_a.png\nCopyright: Copyright 2015 N\u00e9d J. \u00c9doire\nLicense: CC-BY-SA 4.0\n</p><p>Files: textures/stkflag_malampoorVertical_a.png\nCopyright: Copyright 2017 Matthew Trescott\nLicense: CC-BY-SA 4.0\nComment: Incorporates a basic cloth texture by Jean-Manuel Cl\u00e9men\u00e7on, CC-BY-SA 4.0. Design and colors by Matthew Trescott.\n</p>\n</td></tr></tbody></table>"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S03.mp4",
+      "role": "source",
+      "sha256": "3b8d62dc258d354f336ffa0d6cfc6e1fac285771ce268579ee41dea345370acc",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_10.19.10.02.webm",
+      "source_title": "File:Benchmark SuperTux Kart Base Profile 2025.07.04 - 10.19.10.02.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S04",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herr-kalt\">Andreas Kalt \u2013 Erkl\u00e4rvideos</a>",
+      "audio_note": "preserved",
+      "category": "software_screen_recording",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "8babd0865318107c2da1d93a86a67cad567535760fc1edc90f7eade4dd6671bb",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Audacity_Tutorial-_Einstieg%2C_einfache_Aufnahme_und_Nachbearbeitung.webm/Audacity_Tutorial-_Einstieg%2C_einfache_Aufnahme_und_Nachbearbeitung.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:153385295",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herr-kalt\">Andreas Kalt \u2013 Erkl\u00e4rvideos</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Andreas Kalt \u2013 Erkl\u00e4rvideos"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Audacity|Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos of free software|Tutorial videos in German|Videos uploaded by Prototyperspective"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=Vn7HYyopGXk\"><bdi lang=\"\">Audacity Tutorial: Einstieg, einfache Aufnahme und Nachbearbeitung</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=Vn7HYyopGXk\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-09-30 15:38:47"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2017-10-03"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Das Video erkl\u00e4rt, wie man mit dem kostenlosen Programm Audacity eine einfache Sprachaufnahme machen kann, um diese anschlie\u00dfend mit Hintergrundmusik und Sounds anzureichern. \n<p>Download Audacity: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.audacityteam.org\">http://www.audacityteam.org</a>\n</p><p>Anleitung zum Installieren des mp3-Encoders: <a rel=\"nofollow\" class=\"external free\" href=\"http://ak-u.de/uy\">http://ak-u.de/uy</a>\n</p><p>Weitere Anleitungen zu Audacity \n</p>\n<ul><li>bei Ohrenspitzer.de: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.ohrenspitzer.de/index.php?id=200\">http://www.ohrenspitzer.de/index.php?id=200</a></li>\n<li>auf dem Lehrerfortbildungsserver Baden-W\u00fcrttemberg: <a rel=\"nofollow\" class=\"external free\" href=\"https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/audio/audacity/\">https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/audio/audacity/</a></li></ul>\n<p>Liste freier Audio-Dateien: \n</p>\n<ul><li><a rel=\"nofollow\" class=\"external free\" href=\"https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/internet/freemedia/audios/\">https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/internet/freemedia/audios/</a></li>\n<li>Weitere freie Sounds (in der Regel Creative-Commons-lizenziert): <a rel=\"nofollow\" class=\"external free\" href=\"https://freesound.org\">https://freesound.org</a></li></ul>\n<ul><li>* * * * * * * * * * * * *</li></ul>\n<p>Dieses Video steht unter einer Creative Commons Lizenz\n</p><p>CC BY 4.0, Creative Commons Namensnennung 4.0 International Lizenz,  href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by/4.0/\">https://creativecommons.org/licenses/by/4.0/</a>\n</p><p>Namensnennung bitte in folgender Form: \n</p>\nAndreas Kalt, <a rel=\"nofollow\" class=\"external free\" href=\"https://herr-kalt.de\">https://herr-kalt.de</a>"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Audacity Tutorial- Einstieg, einfache Aufnahme und Nachbearbeitung"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S04.mp4",
+      "role": "source",
+      "sha256": "aacbec10f611a4dfdce3acbc829f610c4b9bdea4bd39c63fa6db997435e5795d",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Audacity_Tutorial-_Einstieg,_einfache_Aufnahme_und_Nachbearbeitung.webm",
+      "source_title": "File:Audacity Tutorial- Einstieg, einfache Aufnahme und Nachbearbeitung.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S05",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCQliaJbs_MblWraSjcmdeuw\">Snicel 69</a>",
+      "audio_note": "preserved",
+      "category": "outdoor_natural_motion",
+      "common_content": {
+        "donor": "N24",
+        "donor_interval_s": [
+          0,
+          6
+        ],
+        "source_interval_s": [
+          10,
+          16
+        ]
+      },
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "5dc28d34c23e2749ec73471ae2a0d7c494f762b973d9f10719ef8816f92857c7",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm/Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:122842790",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCQliaJbs_MblWraSjcmdeuw\">Snicel 69</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Snicel 69"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Pokljuka|Media from YouTube|Natisone|Files from external sources with reviewed licenses|Uploaded with video2commons|Videos of 2022 from Slovenia|Videos by Snicel 69"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=qUnLPdJ7h3o\"><bdi lang=\"\">forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=qUnLPdJ7h3o\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2022-09-09 23:18:02"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2022-09-08"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "00:00 forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d\n<p>00:05 the forest on Pokljuka\n01:00 blueberries\n01:42 mushroom\n02:00 forest\n02:31 mushroom\n02:42 fastest in the forest\n02:56 mushroom\n03:08 mushrooms\n03:35 mushroom\n03:47 river\n04:21 Russian chapel in Slovenia\n04:54 Vr\u0161i\u010d 1611m\n05:55 the road to Nadi\u017ea\n06:31 let's start cooking in the forest\n06:44 making coffee in the forest\n09:26 preparation of \u010devap\u010di\u010ds in the forest\n11:50 \u010devapcici with butter on bread\n12:36 preparation Prebranec from a can\n13:33 testing of \u010devapci\u0107s\n14:12 prebranec\n14:22 fastest in the forest\n14:54 refreshment in the warm river Nadi\u017ea\n15:04 swimming in the Nadi\u017ea river\n18:40 relaxing in the Nadi\u017ea river\n</p>\n21:41 nice photos"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Forest Pokljuka and river Nadi\u017ea - Slovenia"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_note": "Composite retains both constituents attribution and share-alike terms; see donor provenance.",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S05.common.mp4",
+      "role": "source",
+      "sha256": "6e3ef40cc67de1b01fe3ef2e9dc592ca088a001f80d1f12f71984d6e5669d514",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm",
+      "source_title": "File:Forest Pokljuka and river Nadi\u017ea - Slovenia.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S06",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/SpiritOfSlovenia\">Miha Lesjak</a>",
+      "audio_note": "preserved",
+      "category": "low_light",
+      "download_sha256": "1316cad697bae8abe3abfe33e00067450f5d7e148b9298f7fb499c8687c1d6bd",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Ljubljana_city_by_night_%284k%29.webm/Ljubljana_city_by_night_%284k%29.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:115344735",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/SpiritOfSlovenia\">Miha Lesjak</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Miha Lesjak"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Cessna 152|Files from external sources with reviewed licenses|Letalski center Maribor|Uploaded with video2commons|Aerial videos from Slovenia|Night in Ljubljana|Videos from Ljubljana|Videos of 2021 from Slovenia|Videos by Miha Lesjak"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ctPocvam9iM\"><bdi lang=\"\">[4k] Ljubljana city by night</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctPocvam9iM\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2022-02-18 11:37:11"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2021-04-15"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Ljubljana city by night from the air in a Cessna 152."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Ljubljana city by night (4k)"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S06.mp4",
+      "role": "source",
+      "sha256": "6ce755e8c127afeb8cb08f549094f124b82fe976ecc971168561da480dade8d0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ljubljana_city_by_night_(4k).webm",
+      "source_title": "File:Ljubljana city by night (4k).webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "S07",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "presentation_slides",
+      "corpus_revision": "evaluation_intro_v2",
+      "duration_s": 48,
+      "identity_group": "self-created:S07",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S07.v2.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "revision_reason": "Independent evaluation-only polygon/title artwork replaces accidental shared development N05 intro asset.",
+      "role": "source",
+      "sha256": "688c436d2488b1011989c4e66a740d2827ac81bf8a6b8ac60a741e2e051ff848",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S08",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herrickspencer1690\">Herrick Spencer</a>",
+      "audio_note": "synthetic silence; no source waveform information",
+      "category": "stock_broll",
+      "download_sha256": "dfe8e6f0b312e82993d02a7172819aa9d2d08fded81bbbfd6ecfdca340219a2f",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Addison%2C_VT_Home_%28aerial_drone_footage%29.webm/Addison%2C_VT_Home_%28aerial_drone_footage%29.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:154926275",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herrickspencer1690\">Herrick Spencer</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Herrick Spencer"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "2019 in Vermont|Media from YouTube|WebM videos|Houses in Vermont|Addison, Vermont|License review needed (video)|Uploaded with video2commons|Video display resolution 1920 x 1080|Videos without audio|Drone videos from Vermont"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=zBguJrEFlzc\"><bdi lang=\"\">Addison, VT Home (aerial drone footage)</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=zBguJrEFlzc\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2024-11-06 10:12:00"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2019-10-15"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Another in a three part series of homes I took footage for in Sept-Oct 2019. This is another of my Uncles homes in Addison, VT. I love how the colors pop in this footage, looks more real than in person!  Here you get some good panoramic shots of the surrounding Vermont landscape. As opposed to the other footage by the lake, this was much more 'fun' to fly since there wasn't the worries of hitting all those trees or crashing to a watery end. \n<p>I put the drone in sport mode for the shots where we fly down to the back edge of the property and back, we hit 40+mph on that shot as well. I am attempting to be more smooth in my transitions, such as the 360 around the home, but I really feel this needs more work. \n</p><p>The footage took very little editing, since the first take was pretty spot on, but I did experiment with adding graphics (title/credit/etc) and some music track to keep it a bit more interesting.\n</p>\nHope you enjoy."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Addison, VT Home (aerial drone footage)"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": false,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+      "role": "source",
+      "sha256": "92c017b7dca50d2a9bd4b1439d8d7657983750e49bed02359d89ecb8b12aff9e",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Addison,_VT_Home_(aerial_drone_footage).webm",
+      "source_title": "File:Addison, VT Home (aerial drone footage).webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S09",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://video.blender.org/accounts/blender\">Blender</a>",
+      "audio_note": "preserved",
+      "category": "animation",
+      "download_sha256": "dfff380068108d119240ffba2381522989828f8e668f6de6762f4a1e63c9e955",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/Blender_4.2_LTS_-_Showcase_Reel.webm/Blender_4.2_LTS_-_Showcase_Reel.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:182339199",
+      "license": "CC BY 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://video.blender.org/accounts/blender\">Blender</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Blender"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Created with Blender|Blender (software)|License review needed (video)|Uploaded with video2commons|Videos of free software|Videos of the arts|Videos of 3D animations"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://video.blender.org/videos/watch/uYK7X52m2Y7RyahL4wjKaM\">Blender 4.2 LTS - Showcase Reel - PeerTube</a>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2026-01-24 13:51:10"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2024-07-17"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Enjoy this showcase of amazing work done by the Blender Community.\n<p>See everything new in Blender 4.2 LTS <a rel=\"nofollow\" class=\"external free\" href=\"https://www.blender.org/download/releases/4-2/\">https://www.blender.org/download/releases/4-2/</a>\n</p><p>Credits:\n</p><p>Blender Studio\nMidge \"Mantissa\" Sinnaeve\nGleb Alexandrov, Creative Shrimp\nYi-zhishun\nEthan Davis\nHumberto Lazo, Project Last Ocean\nBucket Studio\nSouthernShotty\nMatt Tkocz\nAndr\u00e9 Taylforth\nWeybec Studio\nChris Jones \nWalter Kim\nDillonGoo Studios\nPojoQuiet\nPaul Chadeisson\nHamza N. Meo\nBlender Studio\nKazuya Ohyanagi\nKay Hilman\nDenver Jackson\nVictoryLuode@ZROII\nPierrick Picaut - P2DESIGN\nJulien Herbey\n</p><p>Support Blender development: <a rel=\"nofollow\" class=\"external free\" href=\"https://fund.blender.org\">https://fund.blender.org</a>\n</p>\n<hr>\n<ol><li>peertube #foss #b3d #blender</li></ol>\n<p>Follow Blender:\n</p>\n<ul><li>Twitter: <a rel=\"nofollow\" class=\"external free\" href=\"https://twitter.com/blender\">https://twitter.com/blender</a></li>\n<li>Instagram: <a rel=\"nofollow\" class=\"external free\" href=\"https://instagram.com/blender.official\">https://instagram.com/blender.official</a></li>\n<li>Facebook: <a rel=\"nofollow\" class=\"external free\" href=\"https://facebook.com/YourOwn3DSoftware\">https://facebook.com/YourOwn3DSoftware</a></li>\n<li>TikTok: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.tiktok.com/@blender_org\">https://www.tiktok.com/@blender_org</a></li>\n<li>Mastodon: <a rel=\"nofollow\" class=\"external free\" href=\"https://mastodon.social/@blender\">https://mastodon.social/@blender</a></li></ul>"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Blender 4.2 LTS - Showcase Reel"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S09.mp4",
+      "role": "source",
+      "sha256": "93437747fcc3ce4db131e5cdb723ed77c97f73aabfa66da12f2618678480b4ca",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blender_4.2_LTS_-_Showcase_Reel.webm",
+      "source_title": "File:Blender 4.2 LTS - Showcase Reel.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 270,
+      "asset_id": "S10",
+      "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Annboeva&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Annboeva (page does not exist)\">Annboeva</a>",
+      "audio_note": "synthetic silence; no source waveform information",
+      "category": "music_heavy",
+      "download_sha256": "858ef5d52a4f79d8410706913ce5fa126f858f3f39ab82587120a3a372548705",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/Bulgarian_folklore.ogv/Bulgarian_folklore.ogv.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:87171613",
+      "license": "CC BY-SA 4.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Annboeva&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Annboeva (page does not exist)\">Annboeva</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Traditional songs|Folklore of Bulgaria|Folk dance of Bulgaria|Self-published work|Bells in Bulgaria|Images from Wiki Loves Folklore 2020|Uploaded via Campaign:wllove|Images from Wiki Loves Folklore 2020 in Bulgaria|Dance costumes of Bulgaria|Videos from Wiki Loves Folklore 2020"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2021-02-16 20:48:31"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2019-04-13"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "<table cellspacing=\"0\" style=\"width:600px; text-align:start; color:#000; background:#ddd; border:1px solid #bbb; margin:1px;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate\">\n<tbody><tr>\n<td style=\"width:22px; height:22px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wiki-Loves-Love-logo.svg\" class=\"mw-file-description\" title=\"Logo Wiki Loves Love\"><img alt=\"Logo Wiki Loves Love\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/40px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/60px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1024\" data-file-height=\"1024\"></a></span>\n</td>\n<td style=\"padding:1pt; line-height:1.1em;\">This photo has been taken in the country: <b>Bulgaria</b>\n</td></tr></tbody></table>"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-4.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Bulgarian folklore"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 4.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": false,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S10.mp4",
+      "role": "source",
+      "sha256": "b71561531bd873072d1b0d4c36f313b41234ecaa8a7d486c517b40b06e4fa2bc",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bulgarian_folklore.ogv",
+      "source_title": "File:Bulgarian folklore.ogv",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "S11",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "low_visual_high_audio",
+      "duration_s": 48,
+      "identity_group": "self-created:S11",
+      "license": "CC0-1.0",
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S11.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "source",
+      "sha256": "82e27b741f3c1471ef12630a5def24afebb677295cd419440d6233d8d8a33bcb",
+      "status": "ready",
+      "transcript": "A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. A river carries water through a changing landscape. We measure the flow each morning. The chart compares observations across four seasons. Similar ideas can be expressed by different speakers. A shared topic does not establish that one recording was copied from another. ",
+      "voice": "Microsoft David Desktop"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S12",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/MukolaTV\">Mukola TV</a>",
+      "audio_note": "preserved",
+      "category": "high_visual_audio_replacement",
+      "common_content": {
+        "donor": "N24",
+        "donor_interval_s": [
+          0,
+          6
+        ],
+        "source_interval_s": [
+          10,
+          16
+        ]
+      },
+      "download_sha256": "c8452667b9d3a33f1db8496b3afbb4198f582bdf5a4503040b251995b2f1c813",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Kinburn_Spit_-DJI_Phantom_4.webm/Kinburn_Spit_-DJI_Phantom_4.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:61277776",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/MukolaTV\">Mukola TV</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "Mukola TV"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Kinburn peninsula|Files from external sources with reviewed licenses|Aerial videos|Uploaded with video2commons|Videos of 2016 from Ukraine|Videos of the Black Sea|Videos from YouTube by channel (assorted)|Videos with music by Chris Zabriskie"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=5Gh1I2oJnfM\"><bdi lang=\"\">Kinburn Spit -DJI Phantom 4</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=5Gh1I2oJnfM\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2017-07-24 13:27:57"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2016-09-12"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Kinburn Spit.  Regional Landscape Park\n<p>Black Sea in Ukraine\nK\u00ednburn Foreland or Kinburn Spit \u2013 a spit in Ochakiv Raion (district) of Mykolaiv Oblast at the Black Sea in Ukraine. It occupies the western part of the Kinburn Peninsula, being its natural extension stretching west into the Black Sea between the Dnieper-Buh estuary and the Bay of Yahorlyk. Its length is about 40 km, width \u2013 8\u201310 km. In southern Ukraine, the Kinburn Foreland is often mistaken for being the entirety of the Kinburn Peninsula, of which it appears to be a part.\n</p><p>Now it is well-known  because of its unique nature but centuries ago this place was webbed with exciting events, stories, legends.\n</p><p>Oleksandr Kabanov. DJI Phantom 4. 09/2016\n</p><p>_Enchanted Journey_,_Kevin MacLeod_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799\">http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799</a>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/\">http://incompetech.com/</a>\n</p><p>_I Need to Start Writing Things Down_,_Chris Zabriskie_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/darkglow/\">http://chriszabriskie.com/darkglow/</a>\n</p>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/\">http://chriszabriskie.com/</a>"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Kinburn Spit -DJI Phantom 4"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_note": "Composite retains both constituents attribution and share-alike terms; see donor provenance.",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 8.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S12.common.mp4",
+      "role": "source",
+      "sha256": "120a73e0f4c36c59f9afc90aa7ec74bcda8f73691a2bce44b886226794f71d23",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kinburn_Spit_-DJI_Phantom_4.webm",
+      "source_title": "File:Kinburn Spit -DJI Phantom 4.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 640,
+      "asset_id": "S13",
+      "attribution": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+      "audio_note": "preserved",
+      "category": "news_broll",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "53e53f721688075558efa3cd591cb225e7451c933a0f2fd49f6f0a4cc9519885",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Nederland_-_Amerika_door_de_lucht%2C_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv/Nederland_-_Amerika_door_de_lucht%2C_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:14761922",
+      "license": "CC BY-SA 3.0 nl",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/Nederland___Amerika_door_de_lucht__de_eerste_KLM_vlucht_Amsterdam___New_York\">Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)</a>"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Glasgow Prestwick Airport|May 1946|Aerial videos|Media of the day|Videos from the United Kingdom|Media from Open Beelden|Ogv videos|Videos from New York City|Aerial photographs of the Statue of Liberty and Liberty Island|Polygoonjournaal in 1946|Video display resolution 768 x 576|Videos of Schiphol|PH-TAR (aircraft)|PH-TAS (aircraft)|Radio operators (aircraft)|Videos of aircraft landings|Videos of history|Videos of starts in aviation|Videos of aircraft with 4 engines|Videos of aircraft cockpits"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/54918/\">520191 at Open Beelden</a>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2011-12-22 19:30:21"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "1946-05-21"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Newsreels in which Dutch subjects of a certain week are presented.\nThe KLM opens a regular service between the Netherlands and America. The Douglas DC-4 Skymaster PH-TAR \"Rotterdam\" departs from Schiphol Airport for the first flight to New York. SHOTS: - the journey of the ship \"De Halve Maan\" (The Half Moon) from the Netherlands to America and the foundation of the colony New Amsterdam at the Hudson estuary in 1609 is visualised with prints and an old sea chart; - departure from Schiphol Airport: ext. airplane; captain Evert van Dijk talks to KLM director H. Martin; passengers board the plane, a.o. a Polygoon Camera for Neerlands Nieuws (Dutch News); crew poses; airplane takes off; - during the flight: several aerial shots: Schiphol Airport, landscape, clouds, IJmuiden, the Dutch and Scottish coast, sunset above the clouds, Statue of Liberty, suspension bridge across the bay; skyscrapers; shots of the wings with engines and turning propellers; int. airplane: crew in the cockpit; radio operator talks in the microphone; passengers in the cabin: talking to each other, looking out the window, receiving a cup of tea, sleeping; - stop over at Prestwick airport, where the plane is refueled and then departs again; - passengers leave the airplane in America; - edited in between these shots: flying shots and the landing of another Skymaster, the PH-TAS."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-3.0-nl"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 3.0 nl"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 3.0 nl"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "calibration",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S13.mp4",
+      "role": "source",
+      "sha256": "ef54e034daff1350920f3b67a438338088763adc9e6a36f6e13d98f3c308b7c5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nederland_-_Amerika_door_de_lucht,_de_eerste_KLM-vlucht_Amsterdam_-_New_York_Weeknummer_46-22_-_Open_Beelden_-_54918.ogv",
+      "source_title": "File:Nederland - Amerika door de lucht, de eerste KLM-vlucht Amsterdam - New York Weeknummer 46-22 - Open Beelden - 54918.ogv",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 480,
+      "acquisition_width": 854,
+      "asset_id": "S14",
+      "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCqgUiU9oNKq23z6z0BXk0Sw\">ImaginingtheInternet</a>",
+      "audio_note": "preserved",
+      "category": "vertical_talking_head",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "e9ae5505d4d36be1a17cb3c149f4dc05e88b9491b7b32bed4932b876be7c4f29",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm/Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm.480p.vp9.webm",
+      "duration_s": 48,
+      "identity_group": "commons:87945461",
+      "license": "CC BY 3.0",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCqgUiU9oNKq23z6z0BXk0Sw\">ImaginingtheInternet</a>"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Media from YouTube|Internet Hall of Fame|Michael Kende|Files with closed captioning in English|Interview videos|Uploaded with video2commons|Video display resolution 1920 x 1080|Videos of 2014 from the United States|License reviewed by YouTubeReviewBot"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=N_SR4UhQSWg\"><bdi lang=\"\">Internet Hall of Fame 2014: Michael Kende</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=N_SR4UhQSWg\">archive.org</a></bdi>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2020-03-11 22:22:06"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "2014-04-15"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Michael Kende, chief economist for the Internet Society, previously with the US Federal Communications Commissions, discusses Internet evolution and shares thoughts on the status of the Internet and the challenges and opportunities that lie ahead"
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-3.0"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY 3.0"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by/3.0"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Internet Hall of Fame 2014 Michael Kende interview"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution 3.0"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "normalization": "fps=12,crop=ih*9/16:ih,scale=406:720,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "development",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S14.mp4",
+      "role": "source",
+      "sha256": "8be5f913a4ad3102b553fe83fb196bd64fec3347e614cb12ba41718681fc66ba",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Internet_Hall_of_Fame_2014_Michael_Kende_interview.webm",
+      "source_title": "File:Internet Hall of Fame 2014 Michael Kende interview.webm",
+      "status": "ready"
+    },
+    {
+      "acquisition": "Commons transcode/excerpt",
+      "acquisition_height": 288,
+      "acquisition_width": 384,
+      "asset_id": "S15",
+      "attribution": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)",
+      "audio_note": "preserved",
+      "category": "high_motion_sport",
+      "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+      "download_sha256": "3a1c59d4a1ef5040b1d5e56aa53bfc72e1b5424c78fdb997108afd41e52e6145",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Training_Olympische_voetballers_Weeknummer_60-09_-_Open_Beelden_-_56634.ogv",
+      "duration_s": 48,
+      "identity_group": "commons:14761553",
+      "license": "CC BY-SA 3.0 nl",
+      "license_metadata": {
+        "Artist": {
+          "source": "commons-desc-page",
+          "value": "Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)"
+        },
+        "Assessments": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": ""
+        },
+        "Attribution": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/56634/Training_Olympische_voetballers\">Polygoon-Profilti (producent) / Nederlands Instituut voor Beeld en Geluid (beheerder)</a>"
+        },
+        "AttributionRequired": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "true"
+        },
+        "Categories": {
+          "hidden": "",
+          "source": "commons-categories",
+          "value": "Association football in the Netherlands|Alexander Schwartz|Media from Open Beelden|Video display resolution 384 x 288"
+        },
+        "CommonsMetadataExtension": {
+          "hidden": "",
+          "source": "extension",
+          "value": 1.2
+        },
+        "Copyrighted": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "True"
+        },
+        "Credit": {
+          "source": "commons-desc-page",
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.openbeelden.nl/media/56634/\">519788 at Open Beelden</a>"
+        },
+        "DateTime": {
+          "hidden": "",
+          "source": "mediawiki-metadata",
+          "value": "2011-04-01 21:48:34"
+        },
+        "DateTimeOriginal": {
+          "source": "commons-desc-page",
+          "value": "1960-02-19"
+        },
+        "ImageDescription": {
+          "source": "commons-desc-page",
+          "value": "Newsreels in which Dutch subjects of a certain week are presented.\nPractice in Amsterdam of the Dutch amateur team for the Olympic Games, led by national coach Elek Schwartz."
+        },
+        "License": {
+          "hidden": "",
+          "source": "commons-templates",
+          "value": "cc-by-sa-3.0-nl"
+        },
+        "LicenseShortName": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": "CC BY-SA 3.0 nl"
+        },
+        "LicenseUrl": {
+          "source": "commons-desc-page",
+          "value": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en"
+        },
+        "ObjectName": {
+          "source": "mediawiki-metadata",
+          "value": "Training Olympische voetballers Weeknummer 60-09 - Open Beelden - 56634"
+        },
+        "Restrictions": {
+          "hidden": "",
+          "source": "commons-desc-page",
+          "value": ""
+        },
+        "UsageTerms": {
+          "source": "commons-desc-page",
+          "value": "Creative Commons Attribution-Share Alike 3.0 nl"
+        }
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+      "original_excerpt_start_s": 0.0,
+      "original_has_audio": true,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S15.mp4",
+      "role": "source",
+      "sha256": "b918fcc2e4cb9efa08b1956e98c013d24c4e9077df02a55cec7185d5749a7314",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Training_Olympische_voetballers_Weeknummer_60-09_-_Open_Beelden_-_56634.ogv",
+      "source_title": "File:Training Olympische voetballers Weeknummer 60-09 - Open Beelden - 56634.ogv",
+      "status": "ready"
+    },
+    {
+      "acquisition": "self-created",
+      "asset_id": "S16",
+      "audio_note": "self-created synthetic waveform or silence",
+      "category": "minimal_information",
+      "duration_s": 48,
+      "identity_group": "self-created:S16",
+      "license": "CC0-1.0",
+      "original_has_audio": false,
+      "partition": "evaluation",
+      "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S16.mp4",
+      "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+      "role": "source",
+      "sha256": "299149110320ad0b2790f81723553b29e353c8ac5e77c003c5035b2e0e441a8c",
+      "status": "ready",
+      "transcript": null,
+      "voice": null
+    }
+  ],
+  "limitations": [
+    "Synthetic slide/template and audio controls; portrait talking-head is a crop, not native mobile capture.",
+    "Acquisition transcodes may be below 720p; upscaled registration does not add native spatial information."
+  ],
+  "version": "E1.2-pre-evaluation-intro-isolation"
+}

@@ -1,0 +1,34 @@
+{
+  "S01": {
+    "artifact_sha256": "d7b9a3a80b2c97fd618bafca72930da3f5e6f8cffe0edd5fc7511db3479b7f53",
+    "wall_s": 4.016740099999879
+  },
+  "S03": {
+    "artifact_sha256": "dcdd6a0e3db89ffafeada079c055fa18d0216d880ac54aa0d3530bb3657d6ef6",
+    "wall_s": 3.949884200001179
+  },
+  "S05": {
+    "artifact_sha256": "62017dc714c0946ac16f02bcbb8362b9da57bd30332aa58e2838965ad02fed34",
+    "wall_s": 4.440797699999166
+  },
+  "S07": {
+    "artifact_sha256": "a45193bddf345a319c1752717190bf1a4155b88fb66b50cb01699bec5b70046a",
+    "wall_s": 0.9877191000014136
+  },
+  "S10": {
+    "artifact_sha256": "bb2138a46b448191b856b41245fa405851b82307bb3218dc5b4353805964d8cb",
+    "wall_s": 2.350905799999964
+  },
+  "S12": {
+    "artifact_sha256": "ce725f9f86607b8c7a4899928ebb4e3fe736e9ff1474c65c562dc3f04393fa37",
+    "wall_s": 3.1350660999996762
+  },
+  "S15": {
+    "artifact_sha256": "e858d5fd7fdea20b699d4379647d4d388acc2fed8c1257edb35d50541a05505f",
+    "wall_s": 2.254833000000872
+  },
+  "S16": {
+    "artifact_sha256": "1b3609edf01091619a0fdb338026231f0732f275aa065856d69538fb9ab7bb5b",
+    "wall_s": 1.66509010000118
+  }
+}

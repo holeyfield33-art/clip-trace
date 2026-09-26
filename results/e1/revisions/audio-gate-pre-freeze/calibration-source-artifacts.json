@@ -1,0 +1,18 @@
+{
+  "S04": {
+    "artifact_sha256": "df5c42d208554ba2013019d14f0e44f12ac72b1b1a84e985cc353a94665687d6",
+    "wall_s": 8.11326089999966
+  },
+  "S06": {
+    "artifact_sha256": "39568827e967f491e0762bd5a03fb1ce7c59815370b40c4146650fd2b0eb35bb",
+    "wall_s": 6.549419500001022
+  },
+  "S11": {
+    "artifact_sha256": "c7be27f60c1e1afb6b7e1ca48d1bb37d8cc3a9c2f204267d98c456f1516a339e",
+    "wall_s": 4.383069299999988
+  },
+  "S13": {
+    "artifact_sha256": "50b15bf0c3ad85493fc9d3a705114fe0c84eab495a545a8369ec221b77e5b815",
+    "wall_s": 8.212926199999856
+  }
+}

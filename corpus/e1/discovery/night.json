@@ -1,0 +1,4961 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 12,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "127757265": {
+        "pageid": 127757265,
+        "ns": 6,
+        "title": "File:Aerial views of Downtown Manhattan, New York City, USA at night including Battery Park, Freedom Tower, Wall Street, The Oculus, West Side Highway and Hudson River.webm",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1084188498,
+            "width": 3840,
+            "height": 2158,
+            "duration": 513.533,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Aerial_views_of_Downtown_Manhattan%2C_New_York_City%2C_USA_at_night_including_Battery_Park%2C_Freedom_Tower%2C_Wall_Street%2C_The_Oculus%2C_West_Side_Highway_and_Hudson_River.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_views_of_Downtown_Manhattan,_New_York_City,_USA_at_night_including_Battery_Park,_Freedom_Tower,_Wall_Street,_The_Oculus,_West_Side_Highway_and_Hudson_River.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127757265",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.22-202207161647"
+              },
+              {
+                "name": "filesize",
+                "value": 1084188498
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 1084188498
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2158
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2158
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "3a2adb65a737eef9",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2158
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2158
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 16889874.621494625
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 337"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:08:33.533000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 513.533
+              },
+              {
+                "name": "bitrate",
+                "value": 16889874.621494625
+              },
+              {
+                "name": "playtime_string",
+                "value": "8:34"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-14 04:14:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Aerial views of Downtown Manhattan, New York City, USA at night including Battery Park, Freedom Tower, Wall Street, The Oculus, West Side Highway and Hudson River",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|License review needed (video)|Drone videos from the United States|Uploaded with video2commons|Cities at night from above|Videos of night",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aerial views of Downtown Manhattan, New York City, USA at night including Battery Park, Freedom Tower, Wall Street, The Oculus, West Side Highway and Hudson River.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-05-26",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=Ad-le3ntRzs\"><bdi lang=\"\">Downtown Manhattan Night Drone</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=Ad-le3ntRzs\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCwVzYLZVFtOilxQzgjtPMkQ\">the Dronalist</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "the Dronalist",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "132825072": {
+        "pageid": 132825072,
+        "ns": 6,
+        "title": "File:Beni Mellal city at night.webm",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4077312,
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.733,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Beni_Mellal_city_at_night.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beni_Mellal_city_at_night.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132825072",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 4077312
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 4077312
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "2c0170eaf34bab52",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.976
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "5b8c5a8abc9ad7da",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.976
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5056::13c0 [1 bytes]) at 341"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [12 bytes]) at 345"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 401"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 407"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [225 bytes]) at 83367"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [62 bytes]) at 107896"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 116323"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 120151"
+                  },
+                  {
+                    "name": 12,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 122846"
+                  },
+                  {
+                    "name": 13,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 127457"
+                  },
+                  {
+                    "name": 14,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 132433"
+                  },
+                  {
+                    "name": 15,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 137913"
+                  },
+                  {
+                    "name": 16,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 143340"
+                  },
+                  {
+                    "name": 17,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 149198"
+                  },
+                  {
+                    "name": 18,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 172569"
+                  },
+                  {
+                    "name": 19,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 177706"
+                  },
+                  {
+                    "name": 20,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 184107"
+                  },
+                  {
+                    "name": 21,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 189260"
+                  },
+                  {
+                    "name": 22,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 195049"
+                  },
+                  {
+                    "name": 23,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 200185"
+                  },
+                  {
+                    "name": 24,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 205402"
+                  },
+                  {
+                    "name": 25,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 211194"
+                  },
+                  {
+                    "name": 26,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 217375"
+                  },
+                  {
+                    "name": 27,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 223081"
+                  },
+                  {
+                    "name": 28,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 252949"
+                  },
+                  {
+                    "name": 29,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 258644"
+                  },
+                  {
+                    "name": 30,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 264642"
+                  },
+                  {
+                    "name": 31,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 270357"
+                  },
+                  {
+                    "name": 32,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 275748"
+                  },
+                  {
+                    "name": 33,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 281682"
+                  },
+                  {
+                    "name": 34,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 287673"
+                  },
+                  {
+                    "name": 35,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 293173"
+                  },
+                  {
+                    "name": 36,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 298580"
+                  },
+                  {
+                    "name": 37,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 304320"
+                  },
+                  {
+                    "name": 38,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 338522"
+                  },
+                  {
+                    "name": 39,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 344263"
+                  },
+                  {
+                    "name": 40,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 349475"
+                  },
+                  {
+                    "name": 41,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 355394"
+                  },
+                  {
+                    "name": 42,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 360819"
+                  },
+                  {
+                    "name": 43,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 366664"
+                  },
+                  {
+                    "name": 44,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 372639"
+                  },
+                  {
+                    "name": 45,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 378275"
+                  },
+                  {
+                    "name": 46,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 384229"
+                  },
+                  {
+                    "name": 47,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 389885"
+                  },
+                  {
+                    "name": 48,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 414086"
+                  },
+                  {
+                    "name": 49,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 421547"
+                  },
+                  {
+                    "name": 50,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 428242"
+                  },
+                  {
+                    "name": 51,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 436578"
+                  },
+                  {
+                    "name": 52,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 444093"
+                  },
+                  {
+                    "name": 53,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 452034"
+                  },
+                  {
+                    "name": 54,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 460555"
+                  },
+                  {
+                    "name": 55,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 467898"
+                  },
+                  {
+                    "name": 56,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 475178"
+                  },
+                  {
+                    "name": 57,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 483288"
+                  },
+                  {
+                    "name": 58,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 511802"
+                  },
+                  {
+                    "name": 59,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 518683"
+                  },
+                  {
+                    "name": 60,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 527628"
+                  },
+                  {
+                    "name": 61,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 535014"
+                  },
+                  {
+                    "name": 62,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 542666"
+                  },
+                  {
+                    "name": 63,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 550080"
+                  },
+                  {
+                    "name": 64,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 557944"
+                  },
+                  {
+                    "name": 65,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 565893"
+                  },
+                  {
+                    "name": 66,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 575510"
+                  },
+                  {
+                    "name": 67,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 582927"
+                  },
+                  {
+                    "name": 68,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 610729"
+                  },
+                  {
+                    "name": 69,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 616501"
+                  },
+                  {
+                    "name": 70,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 622522"
+                  },
+                  {
+                    "name": 71,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 628496"
+                  },
+                  {
+                    "name": 72,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 635408"
+                  },
+                  {
+                    "name": 73,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 641840"
+                  },
+                  {
+                    "name": 74,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 668459"
+                  },
+                  {
+                    "name": 75,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 674811"
+                  },
+                  {
+                    "name": 76,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 681378"
+                  },
+                  {
+                    "name": 77,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 688268"
+                  },
+                  {
+                    "name": 78,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 694841"
+                  },
+                  {
+                    "name": 79,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 701093"
+                  },
+                  {
+                    "name": 80,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 728862"
+                  },
+                  {
+                    "name": 81,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 735995"
+                  },
+                  {
+                    "name": 82,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 742744"
+                  },
+                  {
+                    "name": 83,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 749012"
+                  },
+                  {
+                    "name": 84,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 755212"
+                  },
+                  {
+                    "name": 85,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 761796"
+                  },
+                  {
+                    "name": 86,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 788647"
+                  },
+                  {
+                    "name": 87,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 795063"
+                  },
+                  {
+                    "name": 88,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 801218"
+                  },
+                  {
+                    "name": 89,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 807695"
+                  },
+                  {
+                    "name": 90,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 814001"
+                  },
+                  {
+                    "name": 91,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 820192"
+                  },
+                  {
+                    "name": 92,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 848337"
+                  },
+                  {
+                    "name": 93,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 854723"
+                  },
+                  {
+                    "name": 94,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 861429"
+                  },
+                  {
+                    "name": 95,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 868091"
+                  },
+                  {
+                    "name": 96,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 874022"
+                  },
+                  {
+                    "name": 97,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 880546"
+                  },
+                  {
+                    "name": 98,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 908029"
+                  },
+                  {
+                    "name": 99,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 915153"
+                  },
+                  {
+                    "name": 100,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 921815"
+                  },
+                  {
+                    "name": 101,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 927462"
+                  },
+                  {
+                    "name": 102,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 933137"
+                  },
+                  {
+                    "name": 103,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 939081"
+                  },
+                  {
+                    "name": 104,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 966439"
+                  },
+                  {
+                    "name": 105,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 971669"
+                  },
+                  {
+                    "name": 106,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 978866"
+                  },
+                  {
+                    "name": 107,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 985851"
+                  },
+                  {
+                    "name": 108,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 992867"
+                  },
+                  {
+                    "name": 109,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 999967"
+                  },
+                  {
+                    "name": 110,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1028025"
+                  },
+                  {
+                    "name": 111,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1035163"
+                  },
+                  {
+                    "name": 112,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1041904"
+                  },
+                  {
+                    "name": 113,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1048005"
+                  },
+                  {
+                    "name": 114,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1054759"
+                  },
+                  {
+                    "name": 115,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1061745"
+                  },
+                  {
+                    "name": 116,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1088527"
+                  },
+                  {
+                    "name": 117,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1095832"
+                  },
+                  {
+                    "name": 118,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [53 bytes]) at 1102685"
+                  },
+                  {
+                    "name": 119,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1108669"
+                  },
+                  {
+                    "name": 120,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1114834"
+                  },
+                  {
+                    "name": 121,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1121423"
+                  },
+                  {
+                    "name": 122,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1149674"
+                  },
+                  {
+                    "name": 123,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1156788"
+                  },
+                  {
+                    "name": 124,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1163120"
+                  },
+                  {
+                    "name": 125,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1169521"
+                  },
+                  {
+                    "name": 126,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1175768"
+                  },
+                  {
+                    "name": 127,
+                    "value": "Unhandled clusters.blockgroup element [module.audio-video.matroska.php:1232] (13729::ClusterBlockAdditions [54 bytes]) at 1182346"
+                  },
+                  {
+                    "name": 128,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.134.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.134.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "\ufffdMainconcept Video Media Handler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "#Mainconcept MP4 Sound Media Handler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:16.732000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:16.733000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 16.733
+              },
+              {
+                "name": "bitrate",
+                "value": 1949351.3416601925
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-06-09 09:06:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Beni Mellal city at night",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Beni Mellal|Self-published work|Supported by Wikimedia Morocco|Files with coordinates missing SDC location of creation|Videos of 2023 from Morocco|Cities at night|Communes Documentation Project (Beni Mellal commune)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "32.323508",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-6.340312",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\u0645\u062f\u064a\u0646\u0629 \u0628\u0646\u064a \u0645\u0644\u0627\u0644 \u0645\u0646 \u0627\u0644\u0623\u0639\u0644\u0649 \u0644\u064a\u0644\u0627 \nBeni Mellal By Night",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-06-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mounir_Neddi\" title=\"User:Mounir Neddi\">Mounir Neddi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "88799044": {
+        "pageid": 88799044,
+        "ns": 6,
+        "title": "File:CC BY-NC video bumper.webm",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2821518,
+            "width": 1920,
+            "height": 1080,
+            "duration": 5.021,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CC_BY-NC_video_bumper.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:CC_BY-NC_video_bumper.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88799044",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.19-201912131005"
+              },
+              {
+                "name": "filesize",
+                "value": 2821518
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 2821518
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [3 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 399"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5802::16aa [3 bytes]) at 444"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5819::16bb [4 bytes]) at 450"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.54.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.54.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:05.007000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:05.021000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 5.021
+              },
+              {
+                "name": "bitrate",
+                "value": 4495547.500497909
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:05"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-31 09:52:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "CC BY-NC video bumper",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|With trademark|Videos of 2019|Uploaded with video2commons|Videos from Vimeo|License reviewed by YouTubeReviewBot|CC BY-NC logos|Creative Commons video bumpers",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Created by Ryan Junell and Creative Commons. Dedicated to the public domain using CC's CC0 Public Domain Dedication. We'd love attribution if you're able to give it, but it is not required.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-02-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/319527661\" href=\"https://vimeo.com/319527661\">CC BY-NC video bumper</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/319527661\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/creativecommonsvideos\">Creative Commons</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "trademarked",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "24404320": {
+        "pageid": 24404320,
+        "ns": 6,
+        "title": "File:City at night.webm",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17038114,
+            "width": 1920,
+            "height": 1080,
+            "duration": 29.074,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/City_at_night.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:City_at_night.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24404320",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.3-20111213"
+              },
+              {
+                "name": "filesize",
+                "value": 17038114
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 17038114
+              },
+              {
+                "name": "fileformat",
+                "value": "matroska"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 16
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 192000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 16
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 192000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.1360544217687075
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.1360544217687075
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 1000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 1000
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 4496206
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 29.074
+              },
+              {
+                "name": "bitrate",
+                "value": 4688206
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:29"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-02-02 12:34:58",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "City at night",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|WebM videos|Files from external sources with reviewed licenses|Uploaded with youtube2mediawiki|Videos from San Francisco|Videos of road traffic|Video display resolution 1920 x 1080|Videos of 2011 from the United States|Cities at night|Videos of night",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Aerial shot of San Francisco at night",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-05-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ncRts4zrQSs\"><bdi lang=\"\">https://www.youtube.com/watch?v=ncRts4zrQSs</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ncRts4zrQSs\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/user/Editor\">https://www.youtube.com/user/Editor</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/user/Editor\">https://www.youtube.com/user/Editor</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "115344735": {
+        "pageid": 115344735,
+        "ns": 6,
+        "title": "File:Ljubljana city by night (4k).webm",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 172062678,
+            "width": 3840,
+            "height": 2160,
+            "duration": 116.441,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ljubljana_city_by_night_%284k%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ljubljana_city_by_night_(4k).webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115344735",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.21-202109171300"
+              },
+              {
+                "name": "filesize",
+                "value": 172062678
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 172062678
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "7bb4dafb6d8c0bef",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 3840
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 2160
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "ef356ac34c1c1412",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 3840
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 2160
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 338"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 398"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 404"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:01:56.423000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:01:56.441000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 116.441
+              },
+              {
+                "name": "bitrate",
+                "value": 11821449.695553971
+              },
+              {
+                "name": "playtime_string",
+                "value": "1:56"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-02-18 11:37:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ljubljana city by night (4k)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Cessna 152|Files from external sources with reviewed licenses|Letalski center Maribor|Uploaded with video2commons|Aerial videos from Slovenia|Night in Ljubljana|Videos from Ljubljana|Videos of 2021 from Slovenia|Videos by Miha Lesjak",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ljubljana city by night from the air in a Cessna 152.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-04-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ctPocvam9iM\"><bdi lang=\"\">[4k] Ljubljana city by night</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ctPocvam9iM\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/SpiritOfSlovenia\">Miha Lesjak</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Miha Lesjak",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "181219572": {
+        "pageid": 181219572,
+        "ns": 6,
+        "title": "File:Motorcycle night city ride - Maribor, Slovenia.webm",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 430072932,
+            "width": 1920,
+            "height": 1080,
+            "duration": 2585.596,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Motorcycle_night_city_ride_-_Maribor%2C_Slovenia.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Motorcycle_night_city_ride_-_Maribor,_Slovenia.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=181219572",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.24-202509040923"
+              },
+              {
+                "name": "filesize",
+                "value": 430072932
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 430072932
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "4ccf9741b468ed0a",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_AV1"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "612976f4d0ee88d8",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_AV1"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [24 bytes]) at 334"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 425"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 431"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf60.16.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc60.31.102 libsvtav1"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc60.31.102 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:43:05.583000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:43:05.596000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 2585.596
+              },
+              {
+                "name": "bitrate",
+                "value": 1330673.2590861062
+              },
+              {
+                "name": "playtime_string",
+                "value": "43:06"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-01-04 16:43:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Motorcycle night city ride - Maribor, Slovenia",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|License review needed (video)|Uploaded with video2commons|Videos of road transport in Slovenia|First-person videos on motorcycle|Videos of 2025 from Slovenia|Videos from Maribor|Videos by Big Mark Moto",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Relaxing night city ride on a hot summer day in Maribor, Slovenia.\n<p>Motorcycle: Yamaha XSR 125\nCamera: GoPro Hero 13 Black\nMicrophone: DJI Mic Mini\nSound recorder: Zoom F1\n</p>\nRider: 196 cm, 110 kg (6'5\", 240 lbs)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-09-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=ZZPXIObn48c\"><bdi lang=\"\">Motorcycle night city ride - Maribor, Slovenia</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=ZZPXIObn48c\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BigMarkMoto\">Big Mark Moto</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Big Mark Moto",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143041724": {
+        "pageid": 143041724,
+        "ns": 6,
+        "title": "File:Night Walk in Tehran City - \u062a\u062c\u0631\u06cc\u0634\u060c \u062a\u0647\u0631\u0627\u0646.webm",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2020172060,
+            "width": 2560,
+            "height": 1440,
+            "duration": 1337.3410000000001,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Night_Walk_in_Tehran_City_-_%D8%AA%D8%AC%D8%B1%DB%8C%D8%B4%D8%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_Walk_in_Tehran_City_-_%D8%AA%D8%AC%D8%B1%DB%8C%D8%B4%D8%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143041724",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.23-202310190849"
+              },
+              {
+                "name": "filesize",
+                "value": 2020172060
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 2020172060
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "a7cc6071269b576e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 2560
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1440
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 2560
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1440
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 59.94
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "b7bcf1432518fcbc",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 2560
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1440
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 2560
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1440
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 59.94
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:627] (5036::SeekPosition [4 bytes]) at 106"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:712] (5552::15b0 [16 bytes]) at 337"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5802::16aa [3 bytes]) at 397"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:819] (5819::16bb [4 bytes]) at 403"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.76.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:22:17.326000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:22:17.341000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 1337.3410000000001
+              },
+              {
+                "name": "bitrate",
+                "value": 12084708.746684652
+              },
+              {
+                "name": "playtime_string",
+                "value": "22:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-29 07:01:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Night Walk in Tehran City - \u062a\u062c\u0631\u06cc\u0634\u060c \u062a\u0647\u0631\u0627\u0646",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Tajrish|Valiasr Street|License review needed (video)|Uploaded with video2commons|Videos from Tehran|Videos of 2021 from Iran|Bareheaded women in Iran|Cities at night|First-person videos on foot",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "\u0642\u062f\u06cc\u0645\u06cc\u200c\u062a\u0631\u06cc\u0646 \u0645\u062d\u0644\u0647\u200c\u06cc \u062a\u0647\u0631\u0627\u0646\u060c \u0634\u0645\u0627\u0644\u06cc\u200c\u062a\u0631\u06cc\u0646 \u0646\u0642\u0637\u0647\u200c\u06cc \u062e\u06cc\u0627\u0628\u0627\u0646 \u0637\u0648\u0644\u0627\u0646\u06cc \u0648\u0644\u06cc\u0639\u0635\u0631\u060c \u062a\u062c\u0631\u06cc\u0634 \u0628\u0627\u0635\u0641\u0627\u060c \u0628\u0627 \u0628\u0627\u0632\u0627\u0631 \u0642\u062f\u06cc\u0645\u06cc \u062e\u0648\u0634 \u0622\u0628 \u0648 \u0631\u0646\u06af \u062e\u0648\u062f\u060c\n<pre>\u0633\u0627\u0644\u200c\u0647\u0627\u0633\u062a \u06a9\u0647 \u0646\u0647 \u062a\u0646\u0647\u0627 \u0645\u0642\u0635\u062f \u062a\u0647\u0631\u0627\u0646\u200c\u06af\u0631\u062f\u06cc \u06af\u0631\u062f\u0634\u06af\u0631\u0627\u0646\u06cc \u0627\u0632 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u062c\u0647\u0627\u0646 \u0627\u0633\u062a\u060c \u0628\u0644\u06a9\u0647 \u06af\u0627\u0647\u06cc \u0645\u0642\u0635\u062f\u06cc \u0628\u0631\u0627\u06cc \u06af\u0630\u0631\u0627\u0646\u062f\u0646 \u06cc\u06a9 \u0622\u062e\u0631 \u0647\u0641\u062a\u0647\u200c\u06cc \u0645\u0647\u06cc\u062c \u0628\u0631\u0627\u06cc \u062a\u0647\u0631\u0627\u0646\u200c\u0646\u0634\u06cc\u0646\u0627\u0646 \u0646\u06cc\u0632 \u0645\u06cc\u200c\u0628\u0627\u0634\u062f. \u0646\u0627\u0645 \u062a\u0647\u0631\u0627\u0646 \u062a\u0627 \u0647\u0645\u06cc\u0634\u0647 \u0628\u0627 \u062a\u062c\u0631\u06cc\u0634 \u0642\u062f\u06cc\u0645\u06cc \u0628\u0627 \u06a9\u0648\u0686\u0647\u200c\u067e\u0633\u200c\u06a9\u0648\u0686\u0647\u200c\u0647\u0627\u06cc \u067e\u06cc\u0686 \u062f\u0631 \u067e\u06cc\u0686 \u0648 \u062f\u06cc\u0648\u0627\u0631\u0647\u0627\u06cc \u0622\u062c\u0631\u06cc \u0648 \u062e\u0634\u062a\u06cc \u062e\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0642\u062f\u06cc\u0645\u06cc\u200c\u0627\u0634 \u062f\u0631\u0647\u0645 \u062a\u0646\u06cc\u062f\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.\n</pre>\n<hr>\n<p>I hope you enjoy my videos, to support the channel, please subscribe and ring the bell to be informed of new videos, and to improve the videos, please leave a comment. \n</p>\n<hr>\n<p>I can close my eyes and imagine myself in the colorful Tajrish Bazaar, feeling the aroma of fresh foods and spices and hearing the sellers and buyers bargaining; Such an incredible feel in a traditional Persian bazaar.\nTajrish Bazaar is located in the heart of Tajrish historical neighborhood and near Imamzadeh Saleh (AS).\nIt is not only a place for trades but also a cultural and social center; A combination of bazaars, mosques, shrines, prayer rooms, and restaurants in one neighborhood. Actually, I like its indoor fruit and vegetable section most. I think it is a smaller example of the Tehran Grand Bazaar.\nIn the Tajrish market, all kinds of goods, including fresh foods, nuts, Iranian saffron, spices, pickles, handicrafts including kilim, Khatam, Mina, copper, pottery, etc., are sold.\nOn the other hand, several modern malls such as Ghaem and Tandis shopping centers are near Tajrish Bazaar, where you can continue your sightseeing and shopping in Tehran. Also, Darband Recreational Site and Saad Abad Palace are located near Tajrish Bazaar.\n</p>\n<hr>\n<ol><li>Walkingtour #visit_Tehran #explore_Iran #trip_iran #tourism</li>\n<li>\u062a\u0647\u0631\u0627\u0646\u06af\u0631\u062f\u06cc     #\u0642\u062f\u0645_\u0632\u062f\u0646_\u062f\u0631_\u062a\u0647\u0631\u0627\u0646    #\u0627\u0632\u06a9\u062c\u0627_\u0628\u062e\u0631\u0645       #\u062a\u0648\u0631\u062a\u0647\u0631\u0627\u0646     #\u06af\u0634\u062a\u0646_\u062f\u0631_\u062a\u0647\u0631\u0627\u0646</li>\n<li>\u062a\u062c\u0631\u06cc\u0634 #\u0634\u0631\u06cc\u0639\u062a\u06cc  #tajrish #shariati #tajrishbazar #\u0628\u0627\u0632\u0627\u0631\u062a\u062c\u0631\u06cc\u0634</li></ol>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2021-12-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=VQP4yxPS5Rc\"><bdi lang=\"\">Night Walk in Tehran City / \u062a\u062c\u0631\u06cc\u0634\u060c \u062a\u0647\u0631\u0627\u0646</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=VQP4yxPS5Rc\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@4KTourtv\">4K Tour</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "4K Tour",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "187684378": {
+        "pageid": 187684378,
+        "ns": 6,
+        "title": "File:Night landscape of Bhopal city.webm",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14738777,
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.733,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Night_landscape_of_Bhopal_city.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_landscape_of_Bhopal_city.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187684378",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.25-202603080933"
+              },
+              {
+                "name": "filesize",
+                "value": 14738777
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 14738777
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "ede3eadfc3657973",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 30
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": "884dec9554a5298e",
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "skipping check for id3v2 tags since option_tag_id3v2=FALSE"
+                  },
+                  {
+                    "name": 1,
+                    "value": "skipping check for id3v1 tags since option_tag_id3v1=FALSE"
+                  },
+                  {
+                    "name": 2,
+                    "value": "skipping check for apetag tags since option_tag_apetag=FALSE"
+                  },
+                  {
+                    "name": 3,
+                    "value": "skipping check for lyrics3 tags since option_tag_lyrics3=FALSE"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [1 bytes]) at 77"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [2 bytes]) at 91"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:660] (5036::SeekPosition [3 bytes]) at 106"
+                  },
+                  {
+                    "name": 8,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:745] (5552::15b0 [16 bytes]) at 332"
+                  },
+                  {
+                    "name": 9,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:852] (5802::16aa [3 bytes]) at 392"
+                  },
+                  {
+                    "name": 10,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:852] (5819::16bb [4 bytes]) at 398"
+                  },
+                  {
+                    "name": 11,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "mp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isommp42"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.capture.fps",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "30.000000"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "com.android.version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "12"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf61.1.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc61.3.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc61.3.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandle"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandle"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "vendor_id",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "[0][0][0][0]"
+                          },
+                          {
+                            "name": 1,
+                            "value": "[0][0][0][0]"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:16.700000000\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:16.733000000\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 16.733
+              },
+              {
+                "name": "bitrate",
+                "value": 7046567.620868942
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-04-02 05:26:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Night landscape of Bhopal city",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Nightlife|Self-published work|Aerial photographs of Bhopal|Transport corridors",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bhopal is a capital of Madhya Pradesh, also known as smart and green city. It lies in the heart of India. Bhopal has multiple Historical castle and monuments. In this video, places which are seeing from the top hill in a 360-degree view.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-04-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Diwaskar_Dahal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Diwaskar Dahal (page does not exist)\">Diwaskar Dahal</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "16058303": {
+        "pageid": 16058303,
+        "ns": 6,
+        "title": "File:Night riots in the Salford shopping precinct area.ogv",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 47220827,
+            "width": 640,
+            "height": 480,
+            "duration": 157.01333333333332,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Night_riots_in_the_Salford_shopping_precinct_area.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_riots_in_the_Salford_shopping_precinct_area.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16058303",
+            "metadata": [
+              {
+                "name": "version",
+                "value": 2
+              },
+              {
+                "name": "streams",
+                "value": [
+                  {
+                    "name": 9041,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 9041
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Theora"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 156.99016666666668
+                      },
+                      {
+                        "name": "size",
+                        "value": 47192396
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "VMAJ",
+                            "value": 3
+                          },
+                          {
+                            "name": "VMIN",
+                            "value": 2
+                          },
+                          {
+                            "name": "VREV",
+                            "value": 1
+                          },
+                          {
+                            "name": "FMBW",
+                            "value": 40
+                          },
+                          {
+                            "name": "FMBH",
+                            "value": 30
+                          },
+                          {
+                            "name": "PICW",
+                            "value": 640
+                          },
+                          {
+                            "name": "PICH",
+                            "value": 480
+                          },
+                          {
+                            "name": "PICX",
+                            "value": 0
+                          },
+                          {
+                            "name": "PICY",
+                            "value": 0
+                          },
+                          {
+                            "name": "FRN",
+                            "value": 30000
+                          },
+                          {
+                            "name": "FRD",
+                            "value": 1001
+                          },
+                          {
+                            "name": "PARN",
+                            "value": 1
+                          },
+                          {
+                            "name": "PARD",
+                            "value": 1
+                          },
+                          {
+                            "name": "CS",
+                            "value": 0
+                          },
+                          {
+                            "name": "NOMBR",
+                            "value": 0
+                          },
+                          {
+                            "name": "QUAL",
+                            "value": 38
+                          },
+                          {
+                            "name": "KFGSHIFT",
+                            "value": 6
+                          },
+                          {
+                            "name": "PF",
+                            "value": 0
+                          },
+                          {
+                            "name": "NSBS",
+                            "value": 460
+                          },
+                          {
+                            "name": "NBS",
+                            "value": 7200
+                          },
+                          {
+                            "name": "NMBS",
+                            "value": 1200
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.28"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "a27d436d204c200d"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": 9040,
+                    "value": [
+                      {
+                        "name": "serial",
+                        "value": 9040
+                      },
+                      {
+                        "name": "group",
+                        "value": 0
+                      },
+                      {
+                        "name": "type",
+                        "value": "Vorbis"
+                      },
+                      {
+                        "name": "vendor",
+                        "value": "Xiph.Org libVorbis I 20101101 (Schaufenugget)"
+                      },
+                      {
+                        "name": "length",
+                        "value": 157.01333333333332
+                      },
+                      {
+                        "name": "size",
+                        "value": 27072
+                      },
+                      {
+                        "name": "header",
+                        "value": [
+                          {
+                            "name": "vorbis_version",
+                            "value": 0
+                          },
+                          {
+                            "name": "audio_channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "audio_sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "bitrate_maximum",
+                            "value": 0
+                          },
+                          {
+                            "name": "bitrate_nominal",
+                            "value": 112000
+                          },
+                          {
+                            "name": "bitrate_minimum",
+                            "value": 0
+                          },
+                          {
+                            "name": "blocksize_0",
+                            "value": 8
+                          },
+                          {
+                            "name": "blocksize_1",
+                            "value": 11
+                          },
+                          {
+                            "name": "framing_flag",
+                            "value": 0
+                          }
+                        ]
+                      },
+                      {
+                        "name": "comments",
+                        "value": [
+                          {
+                            "name": "ENCODER",
+                            "value": "ffmpeg2theora-0.28"
+                          },
+                          {
+                            "name": "SOURCE_OSHASH",
+                            "value": "a27d436d204c200d"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "length",
+                "value": 157.01333333333332
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-08-11 00:27:56",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Night riots in the Salford shopping precinct area",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Greater Manchester Police|Self-published work|Ogv videos|Video display resolution 640 x 480|Videos of emergency service vehicles|Videos of 2011 riots in England|2011 Manchester riots|Night in the City of Salford",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Night riots in the <a href=\"https://en.wikipedia.org/wiki/Salford,_Greater_Manchester\" class=\"extiw\" title=\"w:Salford, Greater Manchester\">Salford</a> shopping precinct area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-08-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Miko%C5%82ka\" title=\"User:Miko\u0142ka\">Miko\u0142ka</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "49791414": {
+        "pageid": 49791414,
+        "ns": 6,
+        "title": "File:Night view of Chicago.webm",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6148552,
+            "width": 1920,
+            "height": 1080,
+            "duration": 19.508,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Night_view_of_Chicago.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_view_of_Chicago.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49791414",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.6-20130603"
+              },
+              {
+                "name": "filesize",
+                "value": 6148552
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 6148552
+              },
+              {
+                "name": "fileformat",
+                "value": "matroska"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 44100
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "eng"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "abr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 320000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 44100
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "eng"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "abr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 320000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.11337868480725624
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.11337868480725624
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 23.98
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 23.98
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 2201448
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 19.508
+              },
+              {
+                "name": "bitrate",
+                "value": 2521448
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:20"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-06-29 11:34:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Night view of Chicago",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Videos of automobiles|Night in Chicago|Videos from Chicago|June 2016 in Chicago|Flickr videos reviewed by trusted users|Cities at night|Videos of night",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Night video of Chicago, Illinois, USA.\nIn this video, the original material has been repeated four times with a fade effect applied between them.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-06-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/121308049@N03/27855207176/\">https://www.flickr.com/photos/121308049@N03/27855207176/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Julian Boed",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84288035": {
+        "pageid": 84288035,
+        "ns": 6,
+        "title": "File:Ocean Moon Glint and City Night Lights in 4K.webm",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9600365,
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.842,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ocean_Moon_Glint_and_City_Night_Lights_in_4K.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ocean_Moon_Glint_and_City_Night_Lights_in_4K.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84288035",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.18-201907240906"
+              },
+              {
+                "name": "filesize",
+                "value": 9600365
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 9600365
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "A_OPUS"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "A_OPUS"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "V_VP9"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1920
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 1080
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "V_VP9"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1920
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 1080
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [1 bytes]) at 63"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 77"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [2 bytes]) at 92"
+                  },
+                  {
+                    "name": 3,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:600] (5036::SeekPosition [3 bytes]) at 107"
+                  },
+                  {
+                    "name": 4,
+                    "value": "Unhandled track.video element [module.audio-video.matroska.php:683] (5552::15b0 [8 bytes]) at 448"
+                  },
+                  {
+                    "name": 5,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5802::16aa [3 bytes]) at 493"
+                  },
+                  {
+                    "name": 6,
+                    "value": "Unhandled track element [module.audio-video.matroska.php:790] (5819::16bb [4 bytes]) at 499"
+                  },
+                  {
+                    "name": 7,
+                    "value": "Unhandled audio type \"A_OPUS\""
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "matroska",
+                "value": [
+                  {
+                    "name": "comments",
+                    "value": [
+                      {
+                        "name": "title",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Ocean Moon Glint and City Night Lights in 4K U"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "muxingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "writingapp",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "major_brand",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isom"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "minor_version",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "512"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "compatible_brands",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "isomiso2avc1mp41"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "encoder",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "Lavf58.29.100"
+                          },
+                          {
+                            "name": 1,
+                            "value": "Lavc58.54.100 libvpx-vp9"
+                          },
+                          {
+                            "name": 2,
+                            "value": "Lavc58.54.100 libopus"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "handler_name",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "VideoHandler"
+                          },
+                          {
+                            "name": 1,
+                            "value": "SoundHandler"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "duration",
+                        "value": [
+                          {
+                            "name": 0,
+                            "value": "00:00:16.790000000\ufffd\ufffd"
+                          },
+                          {
+                            "name": 1,
+                            "value": "00:00:16.842000000\ufffd\ufffd"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 16.842
+              },
+              {
+                "name": "bitrate",
+                "value": 4560201.876261727
+              },
+              {
+                "name": "playtime_string",
+                "value": "0:17"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-11-23 21:32:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ocean Moon Glint and City Night Lights in 4K",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD NASA|Video display resolution 1920 x 1080|Videos from NASA|NASA videos in 2017|Videos of Earth from space|Uploads by Killarnee",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This time-lapse imagery taken by NASA astronaut Jack Fischer from the International Space Station in 4K Ultra High Defintion takes us over the Pacific Ocean\u2019s moon glint and above the night lights of San Francisco, Calif. through Denver, Colo.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-08-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nasa.gov/content/ultra-high-definition-video-gallery\">https://www.nasa.gov/content/ultra-high-definition-video-gallery</a>; see original page at <a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/watch?v=8HW9gYGMiwo\">https://www.youtube.com/watch?v=8HW9gYGMiwo</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "NASA",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "59743887": {
+        "pageid": 59743887,
+        "ns": 6,
+        "title": "File:Sonificaton of city night light patterns.webm",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12974659,
+            "width": 1280,
+            "height": 720,
+            "duration": 135.683,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sonificaton_of_city_night_light_patterns.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sonificaton_of_city_night_light_patterns.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59743887",
+            "metadata": [
+              {
+                "name": "GETID3_VERSION",
+                "value": "1.9.14-201703261440"
+              },
+              {
+                "name": "filesize",
+                "value": 12974659
+              },
+              {
+                "name": "avdataoffset",
+                "value": 0
+              },
+              {
+                "name": "avdataend",
+                "value": 12974659
+              },
+              {
+                "name": "fileformat",
+                "value": "webm"
+              },
+              {
+                "name": "audio",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vorbis"
+                  },
+                  {
+                    "name": "sample_rate",
+                    "value": 48000
+                  },
+                  {
+                    "name": "channels",
+                    "value": 2
+                  },
+                  {
+                    "name": "language",
+                    "value": "und"
+                  },
+                  {
+                    "name": "bits_per_sample",
+                    "value": 32
+                  },
+                  {
+                    "name": "lossless",
+                    "value": false
+                  },
+                  {
+                    "name": "bitrate_mode",
+                    "value": "vbr"
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 192000
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vorbis"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "sample_rate",
+                            "value": 48000
+                          },
+                          {
+                            "name": "channels",
+                            "value": 2
+                          },
+                          {
+                            "name": "language",
+                            "value": "und"
+                          },
+                          {
+                            "name": "bits_per_sample",
+                            "value": 32
+                          },
+                          {
+                            "name": "lossless",
+                            "value": false
+                          },
+                          {
+                            "name": "bitrate_mode",
+                            "value": "vbr"
+                          },
+                          {
+                            "name": "bitrate",
+                            "value": 192000
+                          },
+                          {
+                            "name": "compression_ratio",
+                            "value": 0.0625
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "channelmode",
+                    "value": "stereo"
+                  },
+                  {
+                    "name": "compression_ratio",
+                    "value": 0.0625
+                  }
+                ]
+              },
+              {
+                "name": "video",
+                "value": [
+                  {
+                    "name": "dataformat",
+                    "value": "vp8"
+                  },
+                  {
+                    "name": "resolution_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "resolution_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "display_unit",
+                    "value": "pixels"
+                  },
+                  {
+                    "name": "display_x",
+                    "value": 1280
+                  },
+                  {
+                    "name": "display_y",
+                    "value": 720
+                  },
+                  {
+                    "name": "frame_rate",
+                    "value": 29.97
+                  },
+                  {
+                    "name": "streams",
+                    "value": [
+                      {
+                        "name": 0,
+                        "value": [
+                          {
+                            "name": "dataformat",
+                            "value": "vp8"
+                          },
+                          {
+                            "name": "default",
+                            "value": true
+                          },
+                          {
+                            "name": "resolution_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "resolution_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "display_unit",
+                            "value": "pixels"
+                          },
+                          {
+                            "name": "display_x",
+                            "value": 1280
+                          },
+                          {
+                            "name": "display_y",
+                            "value": 720
+                          },
+                          {
+                            "name": "frame_rate",
+                            "value": 29.97
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "bitrate",
+                    "value": 572998
+                  }
+                ]
+              },
+              {
+                "name": "warning",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [1 bytes]) at 71"
+                  },
+                  {
+                    "name": 1,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [2 bytes]) at 85"
+                  },
+                  {
+                    "name": 2,
+                    "value": "Unhandled seekhead element [module.audio-video.matroska.php:581] (5036::SeekPosition [3 bytes]) at 100"
+                  }
+                ]
+              },
+              {
+                "name": "encoding",
+                "value": "UTF-8"
+              },
+              {
+                "name": "mime_type",
+                "value": "video/webm"
+              },
+              {
+                "name": "playtime_seconds",
+                "value": 135.683
+              },
+              {
+                "name": "bitrate",
+                "value": 764998
+              },
+              {
+                "name": "playtime_string",
+                "value": "2:16"
+              },
+              {
+                "name": "version",
+                "value": 2
+              }
+            ],
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-06-08 23:28:15",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sonificaton of city night light patterns",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sonification|Files from external sources with reviewed licenses|Uploaded with video2commons|Videos from Vimeo",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "light pattern in the city at night -&gt; midi music box device -&gt; music",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-09-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/138599141\" href=\"https://vimeo.com/138599141\">city code: city as information</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/138599141\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/user43665557\">takumatakahashi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "takumatakahashi",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,699 @@
+# CLIPTRACE-E1 — FULL EXPERIMENT DIRECTIVE
+
+## Authorization
+
+Q0 has PASSED.
+
+Authorized baseline:
+
+`aeefc29f066a558322ab08dd477a5ad0ec04b56e`
+
+Smoke baseline remains:
+
+`765509294925929cc7144af9d4ba036d3652c2b9`
+
+Proceed to the full CLIPTRACE-E1 experiment.
+
+Do NOT begin production ClipTrace implementation.
+
+Do NOT interpret the Q0 matcher metrics as evidence that ClipTrace works.
+
+---
+
+# Q0 scientific findings to preserve
+
+The following are now explicit observations:
+
+### Current visual implementation
+
+`frame_phash`
+
+Q0 evaluation:
+
+- TPR: 0.90
+- FPR: 0.75
+
+Therefore the current visual implementation is **not eligible as the sole MVP visual matcher** at its present operating behavior.
+
+Keep it in E1 as a baseline/control.
+
+Do not remove it because it performed poorly.
+
+### Current audio implementation
+
+The basic spectral-landmark / `chromaprint_basic` adapter produced collapsed positive/negative scores.
+
+Therefore:
+
+**The current adapter is not an eligible final C4 implementation.**
+
+Keep its Q0 result as evidence.
+
+For E1 either:
+
+1. implement a genuine audio-fingerprinting candidate, such as the actual Chromaprint/fpcalc path already contemplated by the protocol, or
+2. report AUDIO NO-GO if no legitimate candidate can be implemented within the experimental resource boundary.
+
+Do not tune the collapsed adapter until it appears to discriminate.
+
+### Temporal alignment
+
+Q0:
+
+- mean IoU ≈ 0.55
+- start error ≈ 0.89 s
+- end error ≈ 3.2 s
+- false-continuous rate = 0
+
+Status:
+
+**CAUTION / continue qualification.**
+
+The zero false-continuous result is encouraging, but IoU and especially end-boundary accuracy remain too weak to freeze.
+
+---
+
+# Critical methodological change: three-way partition
+
+E1 must use:
+
+**DEVELOPMENT**
+
+Used for implementation debugging, algorithm exploration, and diagnosing obvious failures.
+
+**CALIBRATION**
+
+Used only for selecting thresholds and calibration/fusion parameters.
+
+**EVALUATION**
+
+Sealed final scientific evaluation.
+
+The same parent/source identity may appear in only one partition.
+
+All candidates derived from that parent inherit its partition.
+
+All matched negative identities are similarly partitioned.
+
+No transformed version of an evaluation source may appear in development or calibration.
+
+A reasonable starting allocation for 16 sources and 24 negatives is approximately:
+
+```text
+Sources:
+Development   4
+Calibration   4
+Evaluation    8
+
+Negatives:
+Development   6
+Calibration   6
+Evaluation   12
+```
+
+Adjust only if necessary for category balance.
+
+The split must be stratified enough that major media categories are represented in evaluation.
+
+Generate:
+
+`partition-manifest.json`
+
+before final scoring.
+
+Hash it.
+
+Once evaluation begins, do not modify it.
+
+---
+
+# Algorithm selection rule
+
+The evaluation partition is not for choosing which algorithm looks best.
+
+Algorithm-family decisions must occur using:
+
+development + calibration evidence.
+
+Before opening final evaluation metrics, freeze:
+
+- candidate algorithms
+- algorithm versions
+- feature configurations
+- Stage-1 retrieval configuration
+- Stage-2 alignment configuration
+- operating thresholds
+- ambiguity policy
+- fusion rule
+- minimum-duration rules being tested
+
+Write these to:
+
+`frozen-evaluation-profile.json`
+
+Hash the file.
+
+Only then run the sealed evaluation.
+
+---
+
+# Full source corpus
+
+Expand to approximately:
+
+16 source videos
+
+and:
+
+24 intentionally confusing negatives.
+
+Preserve the categories already specified in E1:
+
+talking head  
+two-person/podcast  
+gameplay  
+software screen recording  
+outdoor/natural motion  
+low-light  
+presentation/slides  
+stock-style B-roll  
+animation  
+music-heavy content  
+low-visual/high-audio  
+high-visual/audio-replacement case  
+news-style B-roll  
+vertical mobile talking head  
+high-motion/sports-like footage  
+minimal-information control
+
+Use redistribution-safe/self-created/synthetic/open material.
+
+Record provenance/license notes for corpus assets.
+
+Do not rely primarily on synthetic color fields as in smoke.
+
+---
+
+# Candidate visual families
+
+E1 must compare meaningfully different approaches.
+
+At minimum maintain:
+
+### V-A — frame pHash baseline
+
+Current deterministic Q0 method.
+
+Purpose:
+
+cheap baseline/control.
+
+Its poor FPR must remain visible.
+
+### V-B — temporal visual fingerprint
+
+Sequence-oriented representation rather than independent frame similarity only.
+
+Goal:
+
+test whether temporal structure materially suppresses Q0-style false positives.
+
+### V-C — crop/region-resistant visual candidate
+
+Use a locally runnable method based on regional/local visual evidence or another defensible crop-resistant representation.
+
+Goal:
+
+survive moderate crop, overlays, and reaction layouts better than global pHash.
+
+### V-D — lightweight embedding candidate
+
+Only if practical inside the available resource envelope.
+
+This candidate must be evaluated carefully for **semantic bleed**:
+
+unrelated footage depicting similar objects/scenes must not automatically become media derivation.
+
+Do not treat an embedding's semantic similarity as ancestry.
+
+If V-D cannot run reasonably on the available hardware, mark it resource-ineligible rather than silently moving the experiment to expensive infrastructure.
+
+---
+
+# Audio candidates
+
+Keep the failed Q0 basic adapter as:
+
+`A-baseline`
+
+Add at least one genuine fingerprinting path if feasible.
+
+The audio experiment must test:
+
+- same waveform after transcoding
+- mild noise
+- music overlay
+- audio offset
+- pitch modification
+- silence insertion
+- full replacement
+- similar but unrelated speech/music
+
+Audio replacement should correctly destroy C4 ancestry even when C3 remains supported.
+
+Do not use transcript identity as a substitute for waveform/audio derivation.
+
+---
+
+# Transformation matrix
+
+Generate approximately 1,200–1,800 transformed candidates using the frozen fractional design.
+
+Families:
+
+TRANSCODING
+
+- H.264 quality ladder
+- at least one alternative codec when practical
+- 720p / 480p / 360p reductions
+
+GEOMETRY
+
+- crop 10 / 25 / 40 / 60%
+- off-center crops where applicable
+- horizontal mirror
+- mild and moderate rotation
+- mild perspective distortion
+- letterbox/pillarbox
+
+TEMPORAL
+
+- trim
+- 0.75× / 1.25× / 1.5× speed
+- frame insertion/deletion
+- reordered blocks
+- discontinuous excerpts
+
+OVERLAY
+
+- subtitles
+- logos
+- large central text/emoji
+- picture-in-picture
+- reaction layout
+
+AUDIO
+
+- replacement
+- offset
+- pitch changes
+- background music
+- noise/compression
+- silence insertion
+
+CAPTURE
+
+- screen recording
+- filming a monitor, where practical
+
+AI-LIGHT
+
+- open-source upscale
+- frame interpolation
+- enhancement/denoising
+
+Do not generate the full Cartesian product.
+
+The transformation manifest must state exactly which interactions were sampled.
+
+---
+
+# Clip-length matrix
+
+Test:
+
+1 s  
+2 s  
+3 s  
+5 s  
+10 s  
+15 s  
+30 s
+
+Do not automatically issue `supported` merely because a score clears a threshold.
+
+E1 must identify whether each modality has a defensible minimum-duration boundary.
+
+For short clips include purposely confusing negatives.
+
+---
+
+# Adversarial negative emphasis
+
+Q0's 0.75 visual FPR demonstrates that false-positive evaluation is central.
+
+The full E1 negative corpus must include:
+
+- similar talking-head framing
+- similar podcast rooms
+- same game/game-map class
+- similar software UI
+- same stock-footage category
+- same/common intro or outro template
+- public-domain/shared B-roll fragments
+- same slide/template design
+- common meme imagery
+- similar audio genre
+- room tone/silence
+- common sound effects
+
+Important distinction:
+
+If two unrelated works both contain the **same third-party stock clip**, the system must not blindly infer that one work derives from the other.
+
+This should drive:
+
+`AMBIGUOUS`
+
+or interval-level/common-content evidence rather than false source attribution.
+
+---
+
+# Parent attribution metric
+
+Add a metric beyond simple binary match detection:
+
+**SOURCE ATTRIBUTION ACCURACY**
+
+The system must answer not only:
+
+“Does this look reused?”
+
+but:
+
+“Did it identify the correct registered parent?”
+
+Report:
+
+- correct-parent rate
+- wrong-parent rate
+- ambiguous-parent rate
+- top-1
+- top-5
+- top-10 retrieval recall
+- score margin to runner-up
+
+A high C3 TPR with frequent wrong-parent attribution is not acceptable.
+
+---
+
+# Temporal qualification
+
+Maintain:
+
+- Temporal IoU
+- start error
+- end error
+- fragmentation error
+- false-continuous rate
+- padding inflation
+
+Additionally break temporal results down by:
+
+- contiguous trim
+- speed change
+- reordered scenes
+- discontinuous excerpts
+- frame insertion/deletion
+- reaction layout
+- crop
+- screen recording
+
+Do not hide end-error inside mean IoU.
+
+The Q0 end error of ~3.2 seconds is an explicit issue to test.
+
+---
+
+# Calibration
+
+Thresholds come from calibration only.
+
+For each modality and algorithm, retain full calibration curves.
+
+Do not force a threshold to exist.
+
+An allowed conclusion is:
+
+`NO OPERATING POINT SATISFIES REQUIRED FPR/TPR TRADEOFF`
+
+That candidate then fails.
+
+For E1, the original intended gate remains a reference:
+
+Visual moderate-transform candidate:
+
+approximately ≥70% TPR at ≤2% FPR for ≥5-second derivatives.
+
+Audio preserving-transform candidate:
+
+approximately ≥75% TPR at ≤1.5% FPR for ≥5-second derivatives.
+
+Do not weaken these simply because Q0 performed poorly.
+
+If sample size makes a percentage unstable, report exact numerator/denominator and confidence limits rather than pretending precision.
+
+---
+
+# Evaluation discipline
+
+Once `frozen-evaluation-profile.json` exists:
+
+No:
+
+- threshold tuning
+- feature tuning
+- algorithm substitution
+- ambiguity-margin tuning
+- fusion-weight tuning
+- clip-duration-rule tuning
+
+using the sealed evaluation results.
+
+If evaluation exposes a serious flaw:
+
+record the E1 result as-is.
+
+A later E2 can test the repair.
+
+Do not convert E1 into iterative training on its own test set.
+
+---
+
+# Multimodal evaluation
+
+Evaluate:
+
+- visual only
+- audio only
+- visual OR audio
+- visual AND audio
+- calibrated fusion if calibration supports it
+
+The final receipt architecture remains modality-separated even if fusion is useful.
+
+Fusion may route a decision.
+
+It does not erase the underlying modality evidence.
+
+Explicitly report:
+
+- C3 supported / insufficient
+- C4 supported / insufficient
+- C5 if evaluated
+- disagreement states
+
+Important cases:
+
+```text
+C3 supported + C4 insufficient because audio replaced
+```
+
+must remain representable.
+
+---
+
+# AI reconstruction boundary
+
+Test inexpensive non-ancestral semantic resemblance.
+
+Examples:
+
+- same transcript spoken by new/synthetic speaker
+- visually recreated/stylized scene without retaining source pixels
+- semantically similar video
+- actual source passed through upscale/interpolation
+
+Expected protocol semantics:
+
+Actual transformed source:
+may support C3/C4.
+
+New semantic reconstruction:
+must not support ancestry merely because the scene/topic/transcript resembles the original.
+
+C5 may independently report transcript similarity.
+
+---
+
+# Reproducibility
+
+Perform:
+
+1. full repeated run for a representative subset
+2. focused exact artifact re-extraction
+3. second runtime/machine where resource availability permits
+
+Classify candidate implementations:
+
+`BIT_DETERMINISTIC`
+
+`TOLERANCE_REPRODUCIBLE`
+
+`UNSTABLE`
+
+Record:
+
+- artifact hashes
+- score deltas
+- alignment deltas
+- decode timestamp deltas
+- environment differences
+
+Do not call a method independently reproducible merely because its final binary classification stayed unchanged.
+
+---
+
+# Processing failures
+
+Every expected candidate must resolve to one explicit state:
+
+```text
+evaluated
+not_evaluated
+failed
+resource_exhausted
+unsupported
+```
+
+Nothing disappears.
+
+All denominators in reports must reconcile with the transformation manifest.
+
+---
+
+# Full E1 verdict structure
+
+Issue independent verdicts:
+
+`VISUAL-GO / CAUTION / NO-GO`
+
+`AUDIO-GO / CAUTION / NO-GO`
+
+`ALIGNMENT-GO / CAUTION / NO-GO`
+
+`REPRODUCIBILITY-GO / CAUTION / NO-GO`
+
+Then issue overall:
+
+### STRONG GO
+
+Visual and audio both demonstrate useful derivation evidence, temporal alignment is reliable, and multimodal use materially improves decision quality.
+
+### CORE GO
+
+At least one perceptual modality meets its required discrimination target and temporal provenance is sufficiently reliable.
+
+### CAUTION
+
+Useful capability exists but only for restricted durations/transforms/modalities, requiring narrower product claims.
+
+### CORE NO-GO
+
+No perceptual modality separates realistic derivatives from deliberately confusing negatives at a useful operating point,
+
+OR
+
+temporal alignment routinely invents false provenance intervals.
+
+CORE NO-GO is an acceptable scientific result.
+
+---
+
+# E1 deliverables
+
+Produce:
+
+```text
+corpus-manifest.json
+partition-manifest.json
+transformation-manifest.json
+ground-truth.json
+development-results.jsonl
+calibration-results.jsonl
+calibration-curves.json
+frozen-evaluation-profile.json
+evaluation-results.jsonl
+retrieval-topk.jsonl
+score-distributions.json
+temporal-metrics.json
+reproducibility.json
+resource-metrics.json
+metrics.json
+environment.json
+report.md
+```
+
+Feature and alignment artifacts remain content-addressed.
+
+All principal manifests/configurations receive SHA-256.
+
+---
+
+# Full-run resource checkpoint
+
+Before generating all candidate variants:
+
+Estimate expected:
+
+- candidate count
+- storage
+- CPU hours
+- peak RAM
+- artifact volume
+
+using Q0 measurements.
+
+If the full planned run would exceed the available machine/runtime boundary, reduce the fractional transform design **before** evaluation while preserving category/severity coverage.
+
+Record that change.
+
+Do not silently skip candidates during execution to fit resources.
+
+---
+
+# Stop condition
+
+After E1 finishes:
+
+STOP.
+
+Do not implement the production ClipTrace matcher.
+
+Do not build the creator dashboard.
+
+Do not create crawling or enforcement.
+
+Return the scientific report for review.
+
+The next engineering authorization depends on the actual E1 result.

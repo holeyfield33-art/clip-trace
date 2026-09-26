@@ -1,0 +1,62 @@
+[
+  {
+    "asset_id": "S001",
+    "category": "talking_head",
+    "duration_s": 24.0,
+    "extra": {},
+    "filename": "S01_talkinghead.mp4",
+    "fps": 15.0,
+    "has_audio": true,
+    "height": 360,
+    "license_note": "",
+    "path": "/home/workdir/artifacts/cliptrace-e1/corpus/sources/S01_talkinghead.mp4",
+    "role": "source",
+    "sha256": "a7ce8ddb184cd48eecff4dfbf5179989cad2610147730f25ec00bec6e1e84ed0",
+    "width": 640
+  },
+  {
+    "asset_id": "S002",
+    "category": "screen_recording",
+    "duration_s": 24.0,
+    "extra": {},
+    "filename": "S02_screenrecord.mp4",
+    "fps": 15.0,
+    "has_audio": true,
+    "height": 360,
+    "license_note": "",
+    "path": "/home/workdir/artifacts/cliptrace-e1/corpus/sources/S02_screenrecord.mp4",
+    "role": "source",
+    "sha256": "207c1a1af2137ba69f05eb445b59a97350ea6da894e7df21e05ce08553255b47",
+    "width": 640
+  },
+  {
+    "asset_id": "S003",
+    "category": "outdoor_motion",
+    "duration_s": 24.0,
+    "extra": {},
+    "filename": "S03_outdoor_motion.mp4",
+    "fps": 15.0,
+    "has_audio": true,
+    "height": 360,
+    "license_note": "",
+    "path": "/home/workdir/artifacts/cliptrace-e1/corpus/sources/S03_outdoor_motion.mp4",
+    "role": "source",
+    "sha256": "22247a1f08d2110d1016fde4e36a00f7570336a2f117e259ece02b2efd480ac5",
+    "width": 640
+  },
+  {
+    "asset_id": "S004",
+    "category": "lowvis_highaudio",
+    "duration_s": 24.0,
+    "extra": {},
+    "filename": "S04_lowvis_highaudio.mp4",
+    "fps": 10.0,
+    "has_audio": true,
+    "height": 360,
+    "license_note": "",
+    "path": "/home/workdir/artifacts/cliptrace-e1/corpus/sources/S04_lowvis_highaudio.mp4",
+    "role": "source",
+    "sha256": "67acd0dfd40b561eec23beb58395f43a85fa66de63e2a3d5375eace89f9884b8",
+    "width": 640
+  }
+]

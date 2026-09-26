@@ -1,0 +1,27 @@
+{
+  "calibration_negative_ids": [
+    "N001",
+    "N002",
+    "N003",
+    "N004"
+  ],
+  "calibration_source_ids": [
+    "S001",
+    "S002"
+  ],
+  "evaluation_negative_ids": [
+    "N005",
+    "N006",
+    "N007",
+    "N008"
+  ],
+  "evaluation_source_ids": [
+    "S003",
+    "S004"
+  ],
+  "extra": {},
+  "manifest_sha256": "3cc90ab37ee70337e564f6bef36cc71fb108fbb962604f80dbc3c26670a20c49",
+  "notes": "Partition by parent asset identity. Transformed candidates inherit parent partition.",
+  "rule": "sorted_identity_frac",
+  "version": "1"
+}

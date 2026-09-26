@@ -1,5 +1,10 @@
 # CLIPTRACE-E1
 
+The new single-organization ClipTrace service is documented in
+[`docs/ClipTrace-MVP.md`](docs/ClipTrace-MVP.md). It runs separately from this
+frozen research harness and keeps experimental similarity scores as review
+leads rather than automatic derivation claims.
+
 Experimental harness for evaluating whether locally runnable media-matching methods can reliably detect real video derivation under realistic transformations **without** unacceptable false positives or fabricated temporal provenance.
 
 **This is not the ClipTrace production service.**
@@ -54,4 +59,42 @@ See the project root tree. Large media, fingerprints, and result artifacts are g
 
 ## License
 
-MIT
+Apache-2.0
+
+## Full E1 experiment
+
+The full experiment is separate from the Q0 runner. Its scientific outputs live
+under `results/e1/`, including the corpus/partition manifests, frozen profile,
+candidate journals, calibration curves, sealed results, and `report.md`.
+Media retain their individual licenses and attribution in `corpus-manifest.json`;
+the repository Apache-2.0 license does not replace third-party media licenses.
+
+Prerequisites: FFmpeg/ffprobe, Python with the project dependencies plus
+`opencv-python-headless`, `scipy`, and `psutil`; official Chromaprint fpcalc 1.6.1
+under `tools/chromaprint/`. Corpus generation uses Windows offline speech and
+Arial for the self-created controls. It does not require production services.
+
+```powershell
+python tools/e1_discover.py
+python tools/e1_acquire.py
+python tools/e1_controls.py
+python tools/e1_pilot.py
+python -m cliptrace_e1.e1_design
+python -m cliptrace_e1.e1_run development
+# Complete development diagnosis before calibration; do not inspect evaluation scores.
+python -m cliptrace_e1.e1_run calibration
+python -m cliptrace_e1.e1_run freeze
+python -m cliptrace_e1.e1_run evaluation
+python -m cliptrace_e1.e1_report reproduce
+python -m cliptrace_e1.e1_report
+```
+
+The frozen profile binds the implementation and principal input hashes.
+Re-running a completed partition preserves its results. A changed implementation
+cannot resume an existing scoring run. Generation failures and unsupported
+capture cases retain explicit rows; none are removed from denominators.
+`tools/e1_monitor.py <label> <command...>` records sampled process-tree resource
+usage for a stage. Second-runtime reproduction uses the same frozen code with
+`python -m cliptrace_e1.e1_report reproduce-cross` in the separate runtime.
+
+Do not restart or tune the sealed evaluation. A repair after final scoring is E2.

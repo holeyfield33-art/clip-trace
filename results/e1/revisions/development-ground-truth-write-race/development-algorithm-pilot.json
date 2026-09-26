@@ -1,0 +1,3893 @@
+[
+  {
+    "artifact_sha256": "b4456154127530dec342f2c4e99568cc8fc75320b74ef044142708b62ab233f4",
+    "candidate_id": "P00000",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.03229733961390391,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9954304519087812,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9631331122948773,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8469980483820205,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9954304519087812
+          ],
+          [
+            "S09",
+            0.9631331122948773
+          ],
+          [
+            "S14",
+            0.8469980483820205
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9954304519087812,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.7105263157894737,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 16,
+            "parent": "S02",
+            "score": 0.9407894736842105,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 62,
+            "parent": "S09",
+            "score": 0.23026315789473684,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 9,
+            "parent": "S14",
+            "score": 0.19736842105263153,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9407894736842105
+          ],
+          [
+            "S09",
+            0.23026315789473684
+          ],
+          [
+            "S14",
+            0.19736842105263153
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9407894736842105,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.85,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.125,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            1.0
+          ],
+          [
+            "S08",
+            0.15000000000000002
+          ],
+          [
+            "S09",
+            0.15000000000000002
+          ],
+          [
+            "S14",
+            0.125
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.74375,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  6.5
+                ]
+              }
+            ],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.25625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.209375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.19874999999999998,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            1.0
+          ],
+          [
+            "S09",
+            0.3
+          ],
+          [
+            "S08",
+            0.2375
+          ],
+          [
+            "S14",
+            0.1875
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 1.0,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "geometric_inliers": 485,
+            "matched_frames": 5,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.8103448275862069
+          ],
+          [
+            "S09",
+            0.08045977011494253
+          ],
+          [
+            "S08",
+            0.040229885057471264
+          ],
+          [
+            "S14",
+            0.017241379310344827
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 3.3328277000000526
+    },
+    "transform": "trim"
+  },
+  {
+    "artifact_sha256": "e79a0f68ff542d645c7f76f7e34de8730d3100e646142a33d36a46918a013ee0",
+    "candidate_id": "P00002",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.03229733961390391,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9954304519087812,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9631331122948773,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8469980483820205,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9954304519087812
+          ],
+          [
+            "S09",
+            0.9631331122948773
+          ],
+          [
+            "S14",
+            0.8469980483820205
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9954304519087812,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.7105263157894737,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 16,
+            "parent": "S02",
+            "score": 0.9407894736842105,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 62,
+            "parent": "S09",
+            "score": 0.23026315789473684,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 9,
+            "parent": "S14",
+            "score": 0.19736842105263153,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9407894736842105
+          ],
+          [
+            "S09",
+            0.23026315789473684
+          ],
+          [
+            "S14",
+            0.19736842105263153
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9407894736842105,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.125,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.3125,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.1875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.09999999999999998,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.3125
+          ],
+          [
+            "S09",
+            0.1875
+          ],
+          [
+            "S08",
+            0.15000000000000002
+          ],
+          [
+            "S14",
+            0.09999999999999998
+          ]
+        ],
+        "score": 0.3125,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.0881249999999999,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.3281249999999999,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.24,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.22749999999999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.18874999999999997,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.35
+          ],
+          [
+            "S09",
+            0.3125
+          ],
+          [
+            "S08",
+            0.25
+          ],
+          [
+            "S14",
+            0.2
+          ]
+        ],
+        "score": 0.3281249999999999,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.6900000000000001,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  1.0
+                ],
+                "source": [
+                  2.0,
+                  3.0
+                ]
+              },
+              {
+                "candidate": [
+                  1.0,
+                  2.0
+                ],
+                "source": [
+                  9.0,
+                  10.0
+                ]
+              },
+              {
+                "candidate": [
+                  2.0,
+                  3.0
+                ],
+                "source": [
+                  9.0,
+                  10.0
+                ]
+              },
+              {
+                "candidate": [
+                  3.0,
+                  4.0
+                ],
+                "source": [
+                  9.0,
+                  10.0
+                ]
+              },
+              {
+                "candidate": [
+                  4.0,
+                  5.0
+                ],
+                "source": [
+                  6.0,
+                  7.0
+                ]
+              }
+            ],
+            "geometric_inliers": 138,
+            "matched_frames": 5,
+            "parent": "S02",
+            "score": 0.6900000000000001,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.4046242774566474
+          ],
+          [
+            "S09",
+            0.13872832369942195
+          ],
+          [
+            "S08",
+            0.06358381502890173
+          ],
+          [
+            "S14",
+            0.057803468208092484
+          ]
+        ],
+        "score": 0.6900000000000001,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 2.509574800000337
+    },
+    "transform": "crop25"
+  },
+  {
+    "artifact_sha256": "a72a430bacfa223ebf13bb69fc4eb49556fa07c7697811fbbd4951c6b3071f55",
+    "candidate_id": "P00003",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.03133664926147628,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9951862213487666,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9638495720872903,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8803672587188435,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9951862213487666
+          ],
+          [
+            "S09",
+            0.9638495720872903
+          ],
+          [
+            "S14",
+            0.8803672587188435
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9951862213487666,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.4671052631578948,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 20,
+            "parent": "S02",
+            "score": 0.674342105263158,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 22,
+            "parent": "S14",
+            "score": 0.20723684210526316,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 309,
+            "parent": "S09",
+            "score": 0.1875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.674342105263158
+          ],
+          [
+            "S14",
+            0.20723684210526316
+          ],
+          [
+            "S09",
+            0.1875
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.674342105263158,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.7125,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "parent": "S02",
+            "score": 0.9,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.1875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.11250000000000004,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9
+          ],
+          [
+            "S09",
+            0.1875
+          ],
+          [
+            "S08",
+            0.15000000000000002
+          ],
+          [
+            "S14",
+            0.11250000000000004
+          ]
+        ],
+        "score": 0.9,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.6937499999999999,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  3.0
+                ],
+                "source": [
+                  2.0,
+                  6.5
+                ]
+              },
+              {
+                "candidate": [
+                  3.0,
+                  5.0
+                ],
+                "source": [
+                  5.0,
+                  8.0
+                ]
+              }
+            ],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.9712499999999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.27749999999999997,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.21437499999999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.1775,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.975
+          ],
+          [
+            "S09",
+            0.325
+          ],
+          [
+            "S08",
+            0.2625
+          ],
+          [
+            "S14",
+            0.2
+          ]
+        ],
+        "score": 0.9712499999999998,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 1.0,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  2.0
+                ],
+                "source": [
+                  2.0,
+                  5.0
+                ]
+              },
+              {
+                "candidate": [
+                  2.0,
+                  5.0
+                ],
+                "source": [
+                  4.0,
+                  8.0
+                ]
+              }
+            ],
+            "geometric_inliers": 446,
+            "matched_frames": 5,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.7873563218390804
+          ],
+          [
+            "S09",
+            0.09195402298850575
+          ],
+          [
+            "S08",
+            0.028735632183908046
+          ],
+          [
+            "S14",
+            0.011494252873563218
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 3.8324063000000024
+    },
+    "transform": "speed125"
+  },
+  {
+    "artifact_sha256": "05fad3359d51337024df1220e39e7f2ced0e002b4c243cd225b41d1cdf5b18e1",
+    "candidate_id": "P00004",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.051671277710143126,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9674304888249257,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9157592111147825,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8774092040764409,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.9674304888249257
+          ],
+          [
+            "S02",
+            0.9157592111147825
+          ],
+          [
+            "S14",
+            0.8774092040764409
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9674304888249257,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "A-chromaprint": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 183,
+            "parent": "S09",
+            "score": 0.14473684210526316,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 117,
+            "parent": "S14",
+            "score": 0.14473684210526316,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 293,
+            "parent": "S02",
+            "score": 0.11513157894736847,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.14473684210526316
+          ],
+          [
+            "S14",
+            0.14473684210526316
+          ],
+          [
+            "S02",
+            0.11513157894736847
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.14473684210526316,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "V-A": {
+        "margin": 0.85,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.125,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            1.0
+          ],
+          [
+            "S08",
+            0.15000000000000002
+          ],
+          [
+            "S09",
+            0.15000000000000002
+          ],
+          [
+            "S14",
+            0.125
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.74375,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  6.5
+                ]
+              }
+            ],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.25625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.209375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.19874999999999998,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            1.0
+          ],
+          [
+            "S09",
+            0.3
+          ],
+          [
+            "S08",
+            0.2375
+          ],
+          [
+            "S14",
+            0.1875
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 1.0,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "geometric_inliers": 485,
+            "matched_frames": 5,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.8103448275862069
+          ],
+          [
+            "S09",
+            0.08045977011494253
+          ],
+          [
+            "S08",
+            0.040229885057471264
+          ],
+          [
+            "S14",
+            0.017241379310344827
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 3.2325964999999997
+    },
+    "transform": "audio_replace"
+  },
+  {
+    "artifact_sha256": "ccc8a3fe752c8a3a204cf512463cb7ea2cbfcf9a720380b232f419861db87164",
+    "candidate_id": "P00005",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.03229733961390391,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9954304519087812,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9631331122948773,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8469980483820205,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9954304519087812
+          ],
+          [
+            "S09",
+            0.9631331122948773
+          ],
+          [
+            "S14",
+            0.8469980483820205
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9954304519087812,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.7105263157894737,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 16,
+            "parent": "S02",
+            "score": 0.9407894736842105,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 62,
+            "parent": "S09",
+            "score": 0.23026315789473684,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 9,
+            "parent": "S14",
+            "score": 0.19736842105263153,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9407894736842105
+          ],
+          [
+            "S09",
+            0.23026315789473684
+          ],
+          [
+            "S14",
+            0.19736842105263153
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9407894736842105,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.7625000000000001,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "parent": "S02",
+            "score": 0.925,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.16249999999999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.13749999999999996,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.125,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.925
+          ],
+          [
+            "S09",
+            0.16249999999999998
+          ],
+          [
+            "S14",
+            0.13749999999999996
+          ],
+          [
+            "S08",
+            0.125
+          ]
+        ],
+        "score": 0.925,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.705625,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  6.5
+                ]
+              }
+            ],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.969375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.26375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.215,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.209375,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.975
+          ],
+          [
+            "S09",
+            0.3
+          ],
+          [
+            "S08",
+            0.225
+          ],
+          [
+            "S14",
+            0.2
+          ]
+        ],
+        "score": 0.969375,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 1.0,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  5.0
+                ],
+                "source": [
+                  2.0,
+                  7.0
+                ]
+              }
+            ],
+            "geometric_inliers": 493,
+            "matched_frames": 5,
+            "parent": "S02",
+            "score": 1.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.8045977011494253
+          ],
+          [
+            "S09",
+            0.09195402298850575
+          ],
+          [
+            "S08",
+            0.034482758620689655
+          ],
+          [
+            "S14",
+            0.017241379310344827
+          ]
+        ],
+        "score": 1.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 2.7356081999996604
+    },
+    "transform": "subtitles"
+  },
+  {
+    "artifact_sha256": "d50d94f1666420869ab3c8dc96fe179b0a55d09b079f15fe5edbd2cbceef2c47",
+    "candidate_id": "P00010",
+    "expected_parent": "S09",
+    "identity": "S09",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.025239707146489487,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9919454164543171,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9667057093078276,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.9161425262667275,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.9919454164543171
+          ],
+          [
+            "S02",
+            0.9667057093078276
+          ],
+          [
+            "S14",
+            0.9161425262667275
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9919454164543171,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "A-chromaprint": {
+        "margin": 0.4736842105263157,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 16,
+            "parent": "S09",
+            "score": 0.700657894736842,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 82,
+            "parent": "S02",
+            "score": 0.22697368421052633,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 93,
+            "parent": "S14",
+            "score": 0.20394736842105265,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.700657894736842
+          ],
+          [
+            "S02",
+            0.22697368421052633
+          ],
+          [
+            "S14",
+            0.20394736842105265
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.700657894736842,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "V-A": {
+        "margin": 0.4375,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  2.0
+                ],
+                "source": [
+                  2.0,
+                  4.0
+                ]
+              },
+              {
+                "candidate": [
+                  2.0,
+                  5.0
+                ],
+                "source": [
+                  25.0,
+                  28.0
+                ]
+              }
+            ],
+            "parent": "S09",
+            "score": 0.5875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.15000000000000002,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.08750000000000002,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.5875
+          ],
+          [
+            "S02",
+            0.15000000000000002
+          ],
+          [
+            "S08",
+            0.15000000000000002
+          ],
+          [
+            "S14",
+            0.08750000000000002
+          ]
+        ],
+        "score": 0.5875,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "V-B": {
+        "margin": 0.6337499999999998,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  3.0
+                ],
+                "source": [
+                  2.0,
+                  4.25
+                ]
+              },
+              {
+                "candidate": [
+                  3.0,
+                  5.0
+                ],
+                "source": [
+                  26.0,
+                  27.5
+                ]
+              }
+            ],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.8774999999999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.24374999999999997,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.19249999999999995,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.18437499999999998,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.9
+          ],
+          [
+            "S08",
+            0.325
+          ],
+          [
+            "S02",
+            0.2125
+          ],
+          [
+            "S14",
+            0.1875
+          ]
+        ],
+        "score": 0.8774999999999998,
+        "status": "evaluated",
+        "top_parent": "S09"
+      },
+      "V-C": {
+        "margin": 0.803805095354716,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  0.0,
+                  3.0
+                ],
+                "source": [
+                  2.0,
+                  5.0
+                ]
+              },
+              {
+                "candidate": [
+                  3.0,
+                  5.0
+                ],
+                "source": [
+                  26.0,
+                  29.0
+                ]
+              }
+            ],
+            "geometric_inliers": 341,
+            "matched_frames": 5,
+            "parent": "S09",
+            "score": 0.803805095354716,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.4418604651162791
+          ],
+          [
+            "S02",
+            0.05813953488372093
+          ],
+          [
+            "S14",
+            0.03488372093023256
+          ],
+          [
+            "S08",
+            0.01744186046511628
+          ]
+        ],
+        "score": 0.803805095354716,
+        "status": "evaluated",
+        "top_parent": "S09"
+      }
+    },
+    "resources": {
+      "wall_s": 1.8338260000000446
+    },
+    "transform": "discontinuous"
+  },
+  {
+    "artifact_sha256": "a53637191bf5b9af3073e23f46631caa30b28bf2ec1c901bdae25178edcec844",
+    "candidate_id": "P00015",
+    "expected_parent": "S02",
+    "identity": "S02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.034161712689762425,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9957546141363969,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9615929014466345,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8551856169494731,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9957546141363969
+          ],
+          [
+            "S09",
+            0.9615929014466345
+          ],
+          [
+            "S14",
+            0.8551856169494731
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9957546141363969,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": null,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "reason": "ERROR: Empty fingerprint\r\n",
+            "score": null,
+            "status": "not_evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "ERROR: Empty fingerprint\r\n",
+            "score": null,
+            "status": "not_evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "reason": "ERROR: Empty fingerprint\r\n",
+            "score": null,
+            "status": "not_evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "reason": "ERROR: Empty fingerprint\r\n",
+            "score": null,
+            "status": "not_evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S08",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ],
+          [
+            "S14",
+            0.0
+          ]
+        ],
+        "score": null,
+        "status": "not_evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.09375,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.3125,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.21875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.125,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.3125
+          ],
+          [
+            "S02",
+            0.21875
+          ],
+          [
+            "S09",
+            0.125
+          ],
+          [
+            "S14",
+            0.0
+          ]
+        ],
+        "score": 0.3125,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-B": {
+        "margin": 0.0234375,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 0.5,
+            "parent": "S08",
+            "score": 0.15625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.5,
+            "parent": "S02",
+            "score": 0.1328125,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.5,
+            "parent": "S09",
+            "score": 0.0796875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.5,
+            "parent": "S14",
+            "score": 0.065625,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.375
+          ],
+          [
+            "S02",
+            0.28125
+          ],
+          [
+            "S09",
+            0.1875
+          ],
+          [
+            "S14",
+            0.03125
+          ]
+        ],
+        "score": 0.15625,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-C": {
+        "margin": 0.012375010053316753,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.012375010053316753,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.16666666666666666
+          ],
+          [
+            "S02",
+            0.12121212121212122
+          ],
+          [
+            "S08",
+            0.045454545454545456
+          ],
+          [
+            "S14",
+            0.030303030303030304
+          ]
+        ],
+        "score": 0.012375010053316753,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 2.0894704000002093
+    },
+    "transform": "reaction_layout"
+  },
+  {
+    "artifact_sha256": "d036328733e2ba6869e79bb0c50e3fe4ea863a23ae309462ef93029a5621e9a4",
+    "candidate_id": "N01",
+    "expected_parent": null,
+    "identity": "N01",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.022879947317948623,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9979769903316917,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9750970430137431,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.8592269076190409,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9979769903316917
+          ],
+          [
+            "S09",
+            0.9750970430137431
+          ],
+          [
+            "S14",
+            0.8592269076190409
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9979769903316917,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.007342896174863389,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.034494535519125735,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.027151639344262346,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.014173497267759516,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.034494535519125735
+          ],
+          [
+            "S09",
+            0.027151639344262346
+          ],
+          [
+            "S02",
+            0.014173497267759516
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.034494535519125735,
+        "status": "evaluated",
+        "top_parent": "S14"
+      },
+      "V-A": {
+        "margin": 0.18359375,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.1875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.00390625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.1875
+          ],
+          [
+            "S08",
+            0.00390625
+          ],
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ]
+        ],
+        "score": 0.1875,
+        "status": "evaluated",
+        "top_parent": "S14"
+      },
+      "V-B": {
+        "margin": 0.03606770833333345,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.4572916666666667,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.42122395833333326,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.36341145833333327,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.24889322916666667,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.3997395833333333
+          ],
+          [
+            "S02",
+            0.3098958333333333
+          ],
+          [
+            "S09",
+            0.3072916666666667
+          ],
+          [
+            "S08",
+            0.2825520833333333
+          ]
+        ],
+        "score": 0.4572916666666667,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.07845503922751962
+          ],
+          [
+            "S08",
+            0.03379601689800845
+          ],
+          [
+            "S14",
+            0.0331925165962583
+          ],
+          [
+            "S02",
+            0.02051901025950513
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 10.10433600000033
+    },
+    "transform": "negative"
+  },
+  {
+    "artifact_sha256": "663ec59e9f298f117849ce768fb5296ea22e416906965066fab18423aa1896e1",
+    "candidate_id": "N02",
+    "expected_parent": null,
+    "identity": "N02",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.12206713985129025,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.9936141128361659,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.8715469729848756,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.8596200290220977,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.9936141128361659
+          ],
+          [
+            "S02",
+            0.8715469729848756
+          ],
+          [
+            "S09",
+            0.8596200290220977
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9936141128361659,
+        "status": "evaluated",
+        "top_parent": "S14"
+      },
+      "A-chromaprint": {
+        "margin": 0.01212431693989069,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.060109289617486295,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.047984972677595605,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.010075136612021862,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.060109289617486295
+          ],
+          [
+            "S02",
+            0.047984972677595605
+          ],
+          [
+            "S09",
+            0.010075136612021862
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.060109289617486295,
+        "status": "evaluated",
+        "top_parent": "S14"
+      },
+      "V-A": {
+        "margin": 0.01171875,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.01171875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.01171875
+          ],
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ],
+          [
+            "S14",
+            0.0
+          ]
+        ],
+        "score": 0.01171875,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-B": {
+        "margin": 0.06093749999999998,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.4015625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.340625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.27402343749999997,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.2290364583333333,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.29296875
+          ],
+          [
+            "S09",
+            0.29296875
+          ],
+          [
+            "S08",
+            0.234375
+          ],
+          [
+            "S14",
+            0.09114583333333333
+          ]
+        ],
+        "score": 0.4015625,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.09194711538461539
+          ],
+          [
+            "S14",
+            0.05709134615384615
+          ],
+          [
+            "S02",
+            0.046274038461538464
+          ],
+          [
+            "S08",
+            0.038461538461538464
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 10.818294100000458
+    },
+    "transform": "negative"
+  },
+  {
+    "artifact_sha256": "8db78fcdc4b280d00fc290c712e62242fb645f2edc893e0c191872649945f753",
+    "candidate_id": "N03",
+    "expected_parent": null,
+    "identity": "N03",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.03165326895967557,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9798988989920036,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.948245630032328,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.7700581095235389,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9798988989920036
+          ],
+          [
+            "S09",
+            0.948245630032328
+          ],
+          [
+            "S14",
+            0.7700581095235389
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9798988989920036,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S08",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ],
+          [
+            "S14",
+            0.0
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.04296875,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.05859375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.015625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.0026041666666666297,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.05859375
+          ],
+          [
+            "S09",
+            0.015625
+          ],
+          [
+            "S14",
+            0.0026041666666666297
+          ],
+          [
+            "S02",
+            0.0
+          ]
+        ],
+        "score": 0.05859375,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-B": {
+        "margin": 0.04166666666666666,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.27389322916666664,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.23222656249999998,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.22981770833333334,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.19368489583333334,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.3020833333333333
+          ],
+          [
+            "S09",
+            0.2916666666666667
+          ],
+          [
+            "S14",
+            0.17317708333333334
+          ],
+          [
+            "S02",
+            0.17057291666666666
+          ]
+        ],
+        "score": 0.27389322916666664,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-C": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.08879093198992444
+          ],
+          [
+            "S08",
+            0.07115869017632241
+          ],
+          [
+            "S02",
+            0.030856423173803528
+          ],
+          [
+            "S14",
+            0.014483627204030227
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 18.27525120000064
+    },
+    "transform": "negative"
+  },
+  {
+    "artifact_sha256": "8e288a88314acb2e0fb01108aa64e8414b3156749f766192b41f64c787aaf79a",
+    "candidate_id": "N04",
+    "expected_parent": null,
+    "identity": "N04",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.01185063846109402,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.96770911434129,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.955858475880196,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9489928360797384,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S14",
+            0.96770911434129
+          ],
+          [
+            "S09",
+            0.955858475880196
+          ],
+          [
+            "S02",
+            0.9489928360797384
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.96770911434129,
+        "status": "evaluated",
+        "top_parent": "S14"
+      },
+      "A-chromaprint": {
+        "margin": 0.0025614754098360892,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.06318306010928965,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.06062158469945356,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.045423497267759516,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.06318306010928965
+          ],
+          [
+            "S14",
+            0.06062158469945356
+          ],
+          [
+            "S09",
+            0.045423497267759516
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.06318306010928965,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.01041666666666663,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.04296875,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.03255208333333337,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.04296875
+          ],
+          [
+            "S14",
+            0.03255208333333337
+          ],
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ]
+        ],
+        "score": 0.04296875,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-B": {
+        "margin": 0.0059244791666667185,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.3005859375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.2946614583333333,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.2622395833333333,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.19889322916666666,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.2981770833333333
+          ],
+          [
+            "S08",
+            0.2942708333333333
+          ],
+          [
+            "S02",
+            0.2265625
+          ],
+          [
+            "S14",
+            0.18359375
+          ]
+        ],
+        "score": 0.3005859375,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.0031249999999999997,
+        "pairs": [
+          {
+            "blocks": [
+              {
+                "candidate": [
+                  44.0,
+                  45.0
+                ],
+                "source": [
+                  23.0,
+                  24.0
+                ]
+              }
+            ],
+            "geometric_inliers": 6,
+            "matched_frames": 1,
+            "parent": "S09",
+            "score": 0.0031249999999999997,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.19154078549848944
+          ],
+          [
+            "S08",
+            0.06404833836858007
+          ],
+          [
+            "S02",
+            0.03927492447129909
+          ],
+          [
+            "S14",
+            0.023564954682779457
+          ]
+        ],
+        "score": 0.0031249999999999997,
+        "status": "evaluated",
+        "top_parent": "S09"
+      }
+    },
+    "resources": {
+      "wall_s": 8.501208700000461
+    },
+    "transform": "negative"
+  },
+  {
+    "artifact_sha256": "29635082d4ba43d2fc88821ba1a6a42a9675b10b6e65c5d4474d019d5b252369",
+    "candidate_id": "N05",
+    "expected_parent": null,
+    "identity": "N05",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.02214303539339091,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9647314609325207,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9425884255391298,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.7157262419762841,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9647314609325207
+          ],
+          [
+            "S09",
+            0.9425884255391298
+          ],
+          [
+            "S14",
+            0.7157262419762841
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9647314609325207,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.01041666666666663,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.04986338797814205,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.03944672131147542,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.024931693989071024,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.04986338797814205
+          ],
+          [
+            "S14",
+            0.03944672131147542
+          ],
+          [
+            "S09",
+            0.024931693989071024
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.04986338797814205,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.02213541666666674,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.07942708333333337,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.05729166666666663,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.02734375,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.07942708333333337
+          ],
+          [
+            "S08",
+            0.05729166666666663
+          ],
+          [
+            "S09",
+            0.02734375
+          ],
+          [
+            "S14",
+            0.0
+          ]
+        ],
+        "score": 0.07942708333333337,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-B": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 0.0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 0.0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.3125
+          ],
+          [
+            "S08",
+            0.3125
+          ],
+          [
+            "S09",
+            0.3125
+          ],
+          [
+            "S14",
+            0.0625
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.19492574257425743
+          ],
+          [
+            "S14",
+            0.07301980198019802
+          ],
+          [
+            "S02",
+            0.04084158415841584
+          ],
+          [
+            "S08",
+            0.019801980198019802
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 4.5217609999999695
+    },
+    "transform": "negative"
+  },
+  {
+    "artifact_sha256": "12b35991462bffcc618080b999c9e1609047f7fc587a6ea49a8fb1abf820d7ff",
+    "candidate_id": "N06",
+    "expected_parent": null,
+    "identity": "N06",
+    "methods": {
+      "A-baseline": {
+        "margin": 0.022570499430649815,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.9665824769587542,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.9440119775281044,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.9371462283143835,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.9665824769587542
+          ],
+          [
+            "S14",
+            0.9440119775281044
+          ],
+          [
+            "S09",
+            0.9371462283143835
+          ],
+          [
+            "S08",
+            0.0
+          ]
+        ],
+        "score": 0.9665824769587542,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "A-chromaprint": {
+        "margin": 0.004610655737704916,
+        "pairs": [
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S02",
+            "score": 0.0064890710382513594,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S14",
+            "score": 0.0018784153005464432,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S08",
+            "reason": "uninformative_fingerprint",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "offset_fingerprint_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S02",
+            0.0064890710382513594
+          ],
+          [
+            "S14",
+            0.0018784153005464432
+          ],
+          [
+            "S08",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ]
+        ],
+        "score": 0.0064890710382513594,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-A": {
+        "margin": 0.00520833333333337,
+        "pairs": [
+          {
+            "blocks": [],
+            "parent": "S08",
+            "score": 0.02473958333333337,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S14",
+            "score": 0.01953125,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.02473958333333337
+          ],
+          [
+            "S14",
+            0.01953125
+          ],
+          [
+            "S02",
+            0.0
+          ],
+          [
+            "S09",
+            0.0
+          ]
+        ],
+        "score": 0.02473958333333337,
+        "status": "evaluated",
+        "top_parent": "S08"
+      },
+      "V-B": {
+        "margin": 0.042773437499999956,
+        "pairs": [
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S02",
+            "score": 0.3328776041666666,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S08",
+            "score": 0.29010416666666666,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S14",
+            "score": 0.2853515625,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "information_factor": 1,
+            "parent": "S09",
+            "score": 0.22265624999999997,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S08",
+            0.2942708333333333
+          ],
+          [
+            "S09",
+            0.29296875
+          ],
+          [
+            "S02",
+            0.2630208333333333
+          ],
+          [
+            "S14",
+            0.1640625
+          ]
+        ],
+        "score": 0.3328776041666666,
+        "status": "evaluated",
+        "top_parent": "S02"
+      },
+      "V-C": {
+        "margin": 0.0,
+        "pairs": [
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S02",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S08",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S09",
+            "score": 0.0,
+            "status": "evaluated"
+          },
+          {
+            "blocks": [],
+            "geometric_inliers": 0,
+            "matched_frames": 0,
+            "parent": "S14",
+            "score": 0.0,
+            "status": "evaluated"
+          }
+        ],
+        "retrieval": [
+          [
+            "S09",
+            0.07757065544197234
+          ],
+          [
+            "S08",
+            0.05772699939867709
+          ],
+          [
+            "S02",
+            0.013830426939266387
+          ],
+          [
+            "S14",
+            0.004209260372820205
+          ]
+        ],
+        "score": 0.0,
+        "status": "evaluated",
+        "top_parent": "S02"
+      }
+    },
+    "resources": {
+      "wall_s": 10.87758660000054
+    },
+    "transform": "negative"
+  }
+]

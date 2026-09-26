@@ -1,0 +1,119 @@
+{
+  "asset_id": "N06",
+  "partition": "development",
+  "category": "similar_music_genre",
+  "role": "negative",
+  "identity_group": "commons:184609193",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm",
+  "source_title": "File:11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm/11.10.2024_-_JOYUL_-_Sound_Art_%E2%A7%B8_Daxophone_performance_-_Transcultures_-_Couvent_d%27Hautrage.webm.480p.vp9.webm",
+  "download_sha256": "006beefeba1f869439509c4205532cafbc42a5f8ec1f7849e85f47b3d5031dbf",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@TransculturesBe\">Transcultures - Media &amp; Sound Arts Center</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2026-02-20 22:24:11",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "11.10.2024 - JOYUL - Sound Art \u29f8 Daxophone performance - Transcultures - Couvent d'Hautrage",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Media from YouTube|Daxophone|License review needed (video)|Videos of musicians|Files with coordinates missing SDC location of creation (50\u00b0 N, 3\u00b0 E)|Videos of musical instruments",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "50.482000",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "3.764000",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Following her creative residency at Transcultures (Centre of digital and sound arts, Saint-Ghislain, Belgium) in October 2024, sound artist Joyul (Seoul-South Korea) presented an improvised performance centered around the daxophone (an instrument invented by German musician Hans Reichel\u2014a wooden tongue mounted on a tripod with contact microphones, played with a bow and a dax, a curved piece of wood, one side of which is fretted) in the vibrant environment of the baroque Chapel of the Convent of Hautrage.\nWith the support of Transcultures &amp; European Pepinieres of Cr\u00e9ation",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2024-10-11",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=58w3vII9-yw\"><bdi lang=\"\">11.10.2024 | JOYUL - Sound Art / Daxophone performance | Transcultures - Couvent d'Hautage</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=58w3vII9-yw\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@TransculturesBe\">Transcultures - Media &amp; Sound Arts Center</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Transcultures - Media &amp; Sound Arts Center",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N06.mp4",
+  "sha256": "c22dec87c6242fe48d14adf31a48b953460cc807f7a5bc88c2c17236c98f558a",
+  "status": "ready"
+}

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ClipTrace · operator workspace</title>
+  <link rel="stylesheet" href="/app.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="brand"><span class="mark">◈</span><div><strong>ClipTrace</strong><small>Evidence workspace</small></div></div>
+    <div class="header-right"><span class="private">PRIVATE · SINGLE ORGANIZATION</span><a href="/docs">API</a></div>
+  </header>
+  <main>
+    <section class="intro">
+      <p class="eyebrow">Media provenance</p>
+      <h1>Record the file. Review the evidence.</h1>
+      <p>Register exact video bytes, check a candidate against your registry, and export signed statements. Similarity results are leads for review. They do not decide ownership, authorization, or infringement.</p>
+    </section>
+    <div class="workgrid">
+      <section class="card">
+        <div class="step">01 / ORIGIN</div>
+        <h2>Register a source</h2>
+        <p>Keep the original file hash and sign a registration assertion.</p>
+        <form id="register-form">
+          <label>Registrant assertion<input name="registrant_assertion" placeholder="Organization or creator name" required></label>
+          <label>Video file<input name="file" type="file" accept="video/*" required></label>
+          <label class="check"><input name="index_features" type="checkbox" checked> Extract experimental match features</label>
+          <button>Register source</button>
+        </form>
+      </section>
+      <section class="card">
+        <div class="step">02 / VERIFY</div>
+        <h2>Check a candidate</h2>
+        <p>Exact matches become C1 evidence. Similarity leads remain unconfirmed.</p>
+        <form id="verify-form">
+          <label>Candidate video<input name="file" type="file" accept="video/*" required></label>
+          <label class="check"><input name="compare" type="checkbox" checked> Search for review leads if no exact match</label>
+          <button>Verify candidate</button>
+        </form>
+      </section>
+    </div>
+    <section class="results card" id="results-card" hidden>
+      <div class="results-heading"><div><div class="step">RESULT</div><h2 id="result-title">Evidence</h2></div><button class="ghost" id="download-json" type="button">Download signed JSON</button></div>
+      <div id="result-summary"></div>
+      <pre id="result-json"></pre>
+    </section>
+    <div class="lists">
+      <section class="card"><div class="list-heading"><h2>Registered sources</h2><span id="asset-count">0</span></div><div id="assets-list" class="rows"><p class="quiet">No sources registered yet.</p></div></section>
+      <section class="card"><div class="list-heading"><h2>Recent checks</h2><span id="candidate-count">0</span></div><div id="candidates-list" class="rows"><p class="quiet">No candidates checked yet.</p></div></section>
+    </div>
+    <section class="card record-card">
+      <div class="step">03 / DECLARE & REVIEW</div><h2>Record a decision</h2>
+      <p>These forms sign an operator assertion. Review states are marked as human findings.</p>
+      <div class="workgrid">
+        <form id="review-form">
+          <h3>Review a candidate</h3>
+          <label>Candidate ID<input name="candidate_id" required placeholder="candidate_..."></label>
+          <label>Registered source<select name="parent_asset_id" class="asset-select" required></select></label>
+          <label>Reviewer assertion<input name="reviewer_assertion" required placeholder="Reviewer name or team"></label>
+          <div class="duo"><label>Visual<select name="visual_state"><option value="insufficient">Insufficient</option><option value="reviewed_support">Reviewed support</option><option value="ambiguous">Ambiguous</option></select></label><label>Audio<select name="audio_state"><option value="insufficient">Insufficient</option><option value="reviewed_support">Reviewed support</option><option value="ambiguous">Ambiguous</option></select></label></div>
+          <label>Source intervals in seconds, JSON<input name="source_intervals_s" placeholder="[[12, 19]]"></label>
+          <label>Reasoning<textarea name="reasoning" required placeholder="Explain the media evidence and uncertainties"></textarea></label>
+          <button>Sign reviewed finding</button>
+        </form>
+        <div>
+          <form id="auth-form">
+            <h3>Authorize an exact derivative</h3>
+            <label>Parent source<select name="parent_asset_id" class="asset-select" required></select></label>
+            <label>Child SHA-256<input name="child_sha256" required pattern="[a-f0-9]{64}" placeholder="64 lowercase hex characters"></label>
+            <label>Grantee assertion<input name="grantee" required></label>
+            <div class="duo"><label>Valid from (your local time)<input name="valid_from" type="datetime-local" required></label><label>Valid until (your local time)<input name="valid_until" type="datetime-local" required></label></div>
+            <label>Scope<input name="scope_note" required placeholder="Allowed use and channel"></label>
+            <button>Sign authorization</button>
+          </form>
+          <form id="derivative-form">
+            <h3>Declare a derivative</h3>
+            <label>Parent source<select name="parent_asset_id" class="asset-select" required></select></label>
+            <label>Child SHA-256<input name="child_sha256" required pattern="[a-f0-9]{64}"></label>
+            <label>Source intervals in seconds, JSON<input name="source_intervals_s" required placeholder="[[12, 19]]"></label>
+            <label>Transformations, comma separated<input name="declared_transformations" placeholder="trim, captions"></label>
+            <label>Authorization ID, optional<input name="authorization_id" placeholder="auth_..."></label>
+            <button>Sign lineage record</button>
+          </form>
+        </div>
+      </div>
+    </section>
+    <footer><span>ClipTrace MVP · signed assertions with separate C1–C9 claim states</span><a href="/api/checkpoint">Latest checkpoint</a><a href="/api/public-keys">Public keys</a></footer>
+  </main>
+</body>
+</html>

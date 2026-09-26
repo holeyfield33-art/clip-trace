@@ -1,0 +1,105 @@
+{
+  "asset_id": "S12",
+  "partition": "evaluation",
+  "category": "high_visual_audio_replacement",
+  "role": "source",
+  "identity_group": "commons:61277776",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Kinburn_Spit_-DJI_Phantom_4.webm",
+  "source_title": "File:Kinburn Spit -DJI Phantom 4.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Kinburn_Spit_-DJI_Phantom_4.webm/Kinburn_Spit_-DJI_Phantom_4.webm.480p.vp9.webm",
+  "download_sha256": "c8452667b9d3a33f1db8496b3afbb4198f582bdf5a4503040b251995b2f1c813",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/MukolaTV\">Mukola TV</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2017-07-24 13:27:57",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Kinburn Spit -DJI Phantom 4",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Media from YouTube|Kinburn peninsula|Files from external sources with reviewed licenses|Aerial videos|Uploaded with video2commons|Videos of 2016 from Ukraine|Videos of the Black Sea|Videos from YouTube by channel (assorted)|Videos with music by Chris Zabriskie",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Kinburn Spit.  Regional Landscape Park\n<p>Black Sea in Ukraine\nK\u00ednburn Foreland or Kinburn Spit \u2013 a spit in Ochakiv Raion (district) of Mykolaiv Oblast at the Black Sea in Ukraine. It occupies the western part of the Kinburn Peninsula, being its natural extension stretching west into the Black Sea between the Dnieper-Buh estuary and the Bay of Yahorlyk. Its length is about 40 km, width \u2013 8\u201310 km. In southern Ukraine, the Kinburn Foreland is often mistaken for being the entirety of the Kinburn Peninsula, of which it appears to be a part.\n</p><p>Now it is well-known  because of its unique nature but centuries ago this place was webbed with exciting events, stories, legends.\n</p><p>Oleksandr Kabanov. DJI Phantom 4. 09/2016\n</p><p>_Enchanted Journey_,_Kevin MacLeod_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799\">http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100799</a>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://incompetech.com/\">http://incompetech.com/</a>\n</p><p>_I Need to Start Writing Things Down_,_Chris Zabriskie_:_https://creativecommons.org/licenses/by/4.0/_\n\u0414\u0436\u0435\u0440\u0435\u043b\u043e: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/darkglow/\">http://chriszabriskie.com/darkglow/</a>\n</p>\n\u0412\u0438\u043a\u043e\u043d\u0430\u0432\u0435\u0446\u044c: <a rel=\"nofollow\" class=\"external free\" href=\"http://chriszabriskie.com/\">http://chriszabriskie.com/</a>",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2016-09-12",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=5Gh1I2oJnfM\"><bdi lang=\"\">Kinburn Spit -DJI Phantom 4</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=5Gh1I2oJnfM\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/MukolaTV\">Mukola TV</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Mukola TV",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S12.mp4",
+  "sha256": "0e2fbcd11cb0ff222b30a5ac6d18de8e47f0e65d1140c97078aeef8ee1e9cad1",
+  "status": "ready"
+}

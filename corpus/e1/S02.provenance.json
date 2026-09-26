@@ -1,0 +1,100 @@
+{
+  "asset_id": "S02",
+  "partition": "development",
+  "category": "two_person_podcast",
+  "role": "source",
+  "identity_group": "commons:172497374",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm",
+  "source_title": "File:Wikimedia CEO Maryana Iskander Interview by Delwar.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm/Wikimedia_CEO_Maryana_Iskander_Interview_by_Delwar.webm.480p.vp9.webm",
+  "download_sha256": "2dca2c7625bd51eb61a026f68bad2f76de8668cfed9ac49100e3da041fe6c463",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Delwar\" title=\"User:Delwar\">Delwar</a>; <a href=\"//commons.wikimedia.org/wiki/User:Yahya\" title=\"User:Yahya\">Yahya</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2025-08-13 19:03:15",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Wikimedia CEO Maryana Iskander Interview by Delwar",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Self-published work|Videos of Maryana Iskander|Maryana Iskander at Wikimania 2025|Wikimania 2025 by Delwar",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "From Nairobi with Insight: Wikimedia CEO Maryana Iskander Talks to Delwar on Bangla Wikipedia, AI, and the Future of Knowledge",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2025-08-09",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Delwar\" title=\"User:Delwar\">Delwar</a>; <a href=\"//commons.wikimedia.org/wiki/User:Yahya\" title=\"User:Yahya\">Yahya</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S02.mp4",
+  "sha256": "b9f9f1f5c663c0ec9f9ee48849ac3dde9385c3f887e559925f96bd177a051a30",
+  "status": "ready"
+}

@@ -1,0 +1,2 @@
+file '/home/workdir/artifacts/cliptrace-e1/results/q0/candidates/C0035_S002_discontinuous_2_h264_crf28_5s.fragA.mp4'
+file '/home/workdir/artifacts/cliptrace-e1/results/q0/candidates/C0035_S002_discontinuous_2_h264_crf28_5s.fragB.mp4'

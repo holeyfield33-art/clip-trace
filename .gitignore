@@ -5,6 +5,9 @@ __pycache__/
 dist/
 build/
 .venv/
+.venv-e1-repro/
+.cliptrace-data/
+*.sqlite3
 venv/
 .env
 *.mp4
@@ -17,6 +20,7 @@ results/candidates/
 results/runs/
 results/**/artifacts/
 results/**/audio_tmp/
+results/**/development-contact-sheet.png
 corpus/sources/*.mp4
 corpus/negatives/*.mp4
 !results/.gitkeep
@@ -25,3 +29,7 @@ corpus/negatives/*.mp4
 .pytest_cache/
 .coverage
 htmlcov/
+tools/chromaprint/
+tools/chromaprint.zip
+corpus/e1/*.partial
+corpus/e1/*.failed-mux

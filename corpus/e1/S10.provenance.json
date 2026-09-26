@@ -1,0 +1,100 @@
+{
+  "asset_id": "S10",
+  "partition": "evaluation",
+  "category": "music_heavy",
+  "role": "source",
+  "identity_group": "commons:87171613",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bulgarian_folklore.ogv",
+  "source_title": "File:Bulgarian folklore.ogv",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/Bulgarian_folklore.ogv/Bulgarian_folklore.ogv.480p.vp9.webm",
+  "download_sha256": "858ef5d52a4f79d8410706913ce5fa126f858f3f39ab82587120a3a372548705",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Annboeva&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Annboeva (page does not exist)\">Annboeva</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2021-02-16 20:48:31",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Bulgarian folklore",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Traditional songs|Folklore of Bulgaria|Folk dance of Bulgaria|Self-published work|Bells in Bulgaria|Images from Wiki Loves Folklore 2020|Uploaded via Campaign:wllove|Images from Wiki Loves Folklore 2020 in Bulgaria|Dance costumes of Bulgaria|Videos from Wiki Loves Folklore 2020",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "<table cellspacing=\"0\" style=\"width:600px; text-align:start; color:#000; background:#ddd; border:1px solid #bbb; margin:1px;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate\">\n<tbody><tr>\n<td style=\"width:22px; height:22px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wiki-Loves-Love-logo.svg\" class=\"mw-file-description\" title=\"Logo Wiki Loves Love\"><img alt=\"Logo Wiki Loves Love\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/40px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiki-Loves-Love-logo.svg/60px-Wiki-Loves-Love-logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1024\" data-file-height=\"1024\"></a></span>\n</td>\n<td style=\"padding:1pt; line-height:1.1em;\">This photo has been taken in the country: <b>Bulgaria</b>\n</td></tr></tbody></table>",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2019-04-13",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Annboeva&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Annboeva (page does not exist)\">Annboeva</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 270,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": false,
+  "audio_note": "synthetic silence; no source waveform information",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S10.mp4",
+  "sha256": "b71561531bd873072d1b0d4c36f313b41234ecaa8a7d486c517b40b06e4fa2bc",
+  "status": "ready"
+}

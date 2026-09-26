@@ -1,0 +1,8 @@
+{
+  "mode": "focused_reextract",
+  "n_compared": 8,
+  "visual_artifact_hash_matches": 8,
+  "audio_artifact_hash_matches": 8,
+  "classification": "BIT_DETERMINISTIC",
+  "note": "Full dual-run deferred due to 1.2GB RAM / 2CPU limits; focused re-extract of 8 candidates."
+}

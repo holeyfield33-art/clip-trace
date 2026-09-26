@@ -1,0 +1,241 @@
+[
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0001",
+    "candidate_intervals_ms": [
+      [
+        0,
+        3000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0001_h264_crf28_3s.mp4",
+    "candidate_sha256": "c03bf33ff78d17fc77cfcdeb41d21f7cf736d6247548f1401162ebb31689761e",
+    "clip_length_s": 3.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        2500,
+        5500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0002",
+    "candidate_intervals_ms": [
+      [
+        0,
+        3000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0002_crop_25_h264_crf28_3s.mp4",
+    "candidate_sha256": "ead451e81c7ad64477fb800e55fb504ff07332df4e2fda5986a3127a699d204d",
+    "clip_length_s": 3.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        2500,
+        5500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "crop_25",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0003",
+    "candidate_intervals_ms": [
+      [
+        0,
+        3000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0003_mirror_h_h264_crf28_3s.mp4",
+    "candidate_sha256": "c03bf33ff78d17fc77cfcdeb41d21f7cf736d6247548f1401162ebb31689761e",
+    "clip_length_s": 3.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        2500,
+        5500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "mirror_h",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": false,
+    "candidate_id": "C0004",
+    "candidate_intervals_ms": [
+      [
+        0,
+        3000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0004_audio_replace_h264_crf28_3s.mp4",
+    "candidate_sha256": "c03bf33ff78d17fc77cfcdeb41d21f7cf736d6247548f1401162ebb31689761e",
+    "clip_length_s": 3.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        2500,
+        5500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "audio_replace",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0005",
+    "candidate_intervals_ms": [
+      [
+        0,
+        5000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0005_h264_crf28_5s.mp4",
+    "candidate_sha256": "6f57037fe9ce8925e75cf1b6445ab9cae9cfe69a71b6157babbf048042b3004b",
+    "clip_length_s": 5.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        1500,
+        6500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0006",
+    "candidate_intervals_ms": [
+      [
+        0,
+        5000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0006_crop_25_h264_crf28_5s.mp4",
+    "candidate_sha256": "6fad8585764fafe4d07a0da37d417a7b043502746467b075656c80cee75632a7",
+    "clip_length_s": 5.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        1500,
+        6500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "crop_25",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": true,
+    "candidate_id": "C0007",
+    "candidate_intervals_ms": [
+      [
+        0,
+        5000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0007_mirror_h_h264_crf28_5s.mp4",
+    "candidate_sha256": "6f57037fe9ce8925e75cf1b6445ab9cae9cfe69a71b6157babbf048042b3004b",
+    "clip_length_s": 5.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        1500,
+        6500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "mirror_h",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": false,
+    "candidate_id": "C0008",
+    "candidate_intervals_ms": [
+      [
+        0,
+        5000
+      ]
+    ],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/results/candidates/smoke/C0008_audio_replace_h264_crf28_5s.mp4",
+    "candidate_sha256": "6f57037fe9ce8925e75cf1b6445ab9cae9cfe69a71b6157babbf048042b3004b",
+    "clip_length_s": 5.0,
+    "extra": {},
+    "is_derivative": true,
+    "source_id": "S001",
+    "source_intervals_ms": [
+      [
+        1500,
+        6500
+      ]
+    ],
+    "transcript_ancestry": false,
+    "transformations": [
+      "audio_replace",
+      "h264_crf28"
+    ],
+    "visual_ancestry": true
+  },
+  {
+    "audio_ancestry": false,
+    "candidate_id": "N0001",
+    "candidate_intervals_ms": [],
+    "candidate_path": "/home/workdir/artifacts/cliptrace-e1/corpus/negatives/N01_unrelated_smoke.mp4",
+    "candidate_sha256": "f449c7e3c3b3b5176ce4837770c640e8e96889b9e0b663c40ba56c0c24db2f0f",
+    "clip_length_s": 8.0,
+    "extra": {},
+    "is_derivative": false,
+    "source_id": null,
+    "source_intervals_ms": [],
+    "transcript_ancestry": false,
+    "transformations": [
+      "none"
+    ],
+    "visual_ancestry": false
+  }
+]

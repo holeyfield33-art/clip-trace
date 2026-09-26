@@ -1,0 +1,153 @@
+{
+  "artifact_bytes": 184027371,
+  "artifact_count": 12815,
+  "candidate_matching_wall_s_summed": 3302.5130535999997,
+  "candidates_bytes": 2433802584,
+  "checkpoint": {
+    "available": {
+      "available_ram_bytes": 16139972608,
+      "free_disk_bytes": 45799723008,
+      "logical_cpus": 4,
+      "ram_bytes": 25638952960
+    },
+    "boundary": {
+      "estimated_cpu_budget_hours": 18,
+      "max_peak_ram_bytes": 8000000000,
+      "max_storage_bytes": 16000000000,
+      "reserved_disk_bytes": 10000000000,
+      "workers": 2
+    },
+    "decision": "proceed",
+    "design_reduction": null,
+    "estimate": {
+      "assumptions": "5x Q0 matching allowance plus 2 CPU-hours generation; media multiplier12; not measured CPU time from Q0.",
+      "candidate_count": 1512,
+      "expected_artifact_bytes": 1500000000,
+      "expected_cpu_hours": 13.916024012987501,
+      "expected_peak_ram_bytes": 6000000000,
+      "expected_storage_bytes": 11478178353.6,
+      "q0_cpu_measurement": "unavailable; Q0 recorded wall time only",
+      "q0_matching_s_per_candidate": 5.674297149041667,
+      "q0_mean_candidate_bytes": 632615.65,
+      "q0_rss_kb": 44104.0
+    }
+  },
+  "cpu_time_note": "Summed worker wall times are not CPU time; subprocess CPU accounting unavailable for this run.",
+  "generation_wall_s_summed": 5610.6560124000025,
+  "peak_python_rss_bytes": 159580160,
+  "process_tree_samples": {
+    "calibration-resources": {
+      "command": [
+        "python",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_run",
+        "calibration"
+      ],
+      "label": "calibration",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 235683840,
+      "process_count": 1366,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 556.34375,
+      "samples": 2148,
+      "sampling_interval_s": 0.25,
+      "wall_s": 589.4656100273132
+    },
+    "development-resources": {
+      "command": [
+        "python",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_run",
+        "development"
+      ],
+      "label": "development",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 239239168,
+      "process_count": 1001,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 448.671875,
+      "samples": 1398,
+      "sampling_interval_s": 0.25,
+      "wall_s": 374.74679613113403
+    },
+    "evaluation-resources": {
+      "command": [
+        "python",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_run",
+        "evaluation"
+      ],
+      "label": "evaluation",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 243761152,
+      "process_count": 1814,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 1075.109375,
+      "samples": 2935,
+      "sampling_interval_s": 0.25,
+      "wall_s": 772.9525942802429
+    },
+    "generation-resources": {
+      "command": [
+        "python",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_design"
+      ],
+      "label": "generation",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 700526592,
+      "process_count": 2415,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 4009.765625,
+      "samples": 10082,
+      "sampling_interval_s": 0.25,
+      "wall_s": 2818.341452598572
+    },
+    "reproducibility-cross-resources": {
+      "command": [
+        "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\.venv-e1-repro\\Scripts\\python.exe",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_report",
+        "reproduce-cross"
+      ],
+      "label": "reproducibility-cross",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 294744064,
+      "process_count": 141,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 98.125,
+      "samples": 450,
+      "sampling_interval_s": 0.25,
+      "wall_s": 120.29916644096375
+    },
+    "reproducibility-main-resources": {
+      "command": [
+        "python",
+        "-X",
+        "utf8",
+        "-m",
+        "cliptrace_e1.e1_report",
+        "reproduce"
+      ],
+      "label": "reproducibility-main",
+      "limitation": "Short-lived processes and final CPU between polls may be missed; CPU estimate is a lower bound, RSS is sampled.",
+      "peak_sampled_process_tree_rss_bytes": 292089856,
+      "process_count": 94,
+      "returncode": 0,
+      "sampled_process_tree_cpu_s_lower_bound": 62.078125,
+      "samples": 237,
+      "sampling_interval_s": 0.25,
+      "wall_s": 62.16494846343994
+    }
+  }
+}

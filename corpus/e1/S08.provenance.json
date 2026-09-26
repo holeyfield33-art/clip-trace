@@ -1,0 +1,105 @@
+{
+  "asset_id": "S08",
+  "partition": "development",
+  "category": "stock_broll",
+  "role": "source",
+  "identity_group": "commons:154926275",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Addison,_VT_Home_(aerial_drone_footage).webm",
+  "source_title": "File:Addison, VT Home (aerial drone footage).webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Addison%2C_VT_Home_%28aerial_drone_footage%29.webm/Addison%2C_VT_Home_%28aerial_drone_footage%29.webm.480p.vp9.webm",
+  "download_sha256": "dfe8e6f0b312e82993d02a7172819aa9d2d08fded81bbbfd6ecfdca340219a2f",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herrickspencer1690\">Herrick Spencer</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2024-11-06 10:12:00",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Addison, VT Home (aerial drone footage)",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "2019 in Vermont|Media from YouTube|WebM videos|Houses in Vermont|Addison, Vermont|License review needed (video)|Uploaded with video2commons|Video display resolution 1920 x 1080|Videos without audio|Drone videos from Vermont",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Another in a three part series of homes I took footage for in Sept-Oct 2019. This is another of my Uncles homes in Addison, VT. I love how the colors pop in this footage, looks more real than in person!  Here you get some good panoramic shots of the surrounding Vermont landscape. As opposed to the other footage by the lake, this was much more 'fun' to fly since there wasn't the worries of hitting all those trees or crashing to a watery end. \n<p>I put the drone in sport mode for the shots where we fly down to the back edge of the property and back, we hit 40+mph on that shot as well. I am attempting to be more smooth in my transitions, such as the 360 around the home, but I really feel this needs more work. \n</p><p>The footage took very little editing, since the first take was pretty spot on, but I did experiment with adding graphics (title/credit/etc) and some music track to keep it a bit more interesting.\n</p>\nHope you enjoy.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2019-10-15",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=zBguJrEFlzc\"><bdi lang=\"\">Addison, VT Home (aerial drone footage)</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=zBguJrEFlzc\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@herrickspencer1690\">Herrick Spencer</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Herrick Spencer",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 8.0,
+  "duration_s": 48,
+  "original_has_audio": false,
+  "audio_note": "synthetic silence; no source waveform information",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S08.mp4",
+  "sha256": "92c017b7dca50d2a9bd4b1439d8d7657983750e49bed02359d89ecb8b12aff9e",
+  "status": "ready"
+}

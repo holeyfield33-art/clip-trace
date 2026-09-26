@@ -1,0 +1,106 @@
+{
+  "asset_id": "S05",
+  "partition": "evaluation",
+  "category": "outdoor_natural_motion",
+  "role": "source",
+  "identity_group": "commons:122842790",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm",
+  "source_title": "File:Forest Pokljuka and river Nadi\u017ea - Slovenia.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm/Forest_Pokljuka_and_river_Nadi%C5%BEa_-_Slovenia.webm.480p.vp9.webm",
+  "download_sha256": "5dc28d34c23e2749ec73471ae2a0d7c494f762b973d9f10719ef8816f92857c7",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCQliaJbs_MblWraSjcmdeuw\">Snicel 69</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2022-09-09 23:18:02",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Forest Pokljuka and river Nadi\u017ea - Slovenia",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Pokljuka|Media from YouTube|Natisone|Files from external sources with reviewed licenses|Uploaded with video2commons|Videos of 2022 from Slovenia|Videos by Snicel 69",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "00:00 forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d\n<p>00:05 the forest on Pokljuka\n01:00 blueberries\n01:42 mushroom\n02:00 forest\n02:31 mushroom\n02:42 fastest in the forest\n02:56 mushroom\n03:08 mushrooms\n03:35 mushroom\n03:47 river\n04:21 Russian chapel in Slovenia\n04:54 Vr\u0161i\u010d 1611m\n05:55 the road to Nadi\u017ea\n06:31 let's start cooking in the forest\n06:44 making coffee in the forest\n09:26 preparation of \u010devap\u010di\u010ds in the forest\n11:50 \u010devapcici with butter on bread\n12:36 preparation Prebranec from a can\n13:33 testing of \u010devapci\u0107s\n14:12 prebranec\n14:22 fastest in the forest\n14:54 refreshment in the warm river Nadi\u017ea\n15:04 swimming in the Nadi\u017ea river\n18:40 relaxing in the Nadi\u017ea river\n</p>\n21:41 nice photos",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2022-09-08",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=qUnLPdJ7h3o\"><bdi lang=\"\">forest Pokljuka and river Nadi\u017ea - Slovenia \u26f0\ud83c\udfca\u2615\ud83c\udf56\ud83d\udc4d</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=qUnLPdJ7h3o\">archive.org</a></bdi>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCQliaJbs_MblWraSjcmdeuw\">Snicel 69</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Attribution": {
+      "value": "Snicel 69",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S05.mp4",
+  "sha256": "3e067744a49f225254d92c5b283bdb63d937acf34c8ef4960dd7bb1b27e88db7",
+  "status": "ready"
+}

@@ -1,0 +1,12 @@
+{
+  "corrections": [
+    "visual-only harsh-positive exclusion wording",
+    "stale fusion limitation",
+    "CPU accounting scope",
+    "ranking list/tuple comparison defect disclosed"
+  ],
+  "frozen_profile_sha256": "8bc5c78b4b02eaf44c4367b55628f82a6fee748416f33b43a5e836252addd25e",
+  "raw_results_and_verdicts_unchanged": true,
+  "scope": "Derived-report editorial review only",
+  "script_sha256": "305c685ac43a336f00033ab5a2fcb63a82190367f274905249c77a92fbf901cd"
+}

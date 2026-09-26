@@ -1,0 +1,101 @@
+{
+  "asset_id": "N19",
+  "partition": "evaluation",
+  "category": "similar_music_genre",
+  "role": "negative",
+  "identity_group": "commons:196083057",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg",
+  "source_title": "File:Colorful Autumn \u2014 Live Performance Excerpt.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg/Colorful_Autumn_%E2%80%94_Live_Performance_Excerpt.ogg.480p.vp9.webm",
+  "download_sha256": "0193186306dfaae65ef7575db1ab3a36d73be5478c969d4d7b8b6479714a86b3",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2026-07-24 00:07:02",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Colorful Autumn \u2014 Live Performance Excerpt",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "CC-Zero|Self-published work|Photographs by Mostafa Meraji|Mortaz Band",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Recorded during Mortaz\u2019s live show on Thursday, 11 June 2026, at the performance hall of Sazineh Complex in Karaj, this video features an excerpt from Colorful Autumn, part of Mortaz Band\u2019s Autumn Collection.\n<p>Performers:\nBassist \u2014 Aydin Karbalaei\nDrummer \u2014 Armin Izadi\nGuitarist \u2014 AmirMahdi Tavakoli\nGuitarist \u2014 Radin Khaki\nSynthesizer \u2014 Amirreza Tavakoli\nPhoto &amp; Video Capture: Mostafa Meraji\n</p>\nEditor: Taha Tavakoli",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2026-06-11",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mostafameraji\" title=\"User:Mostafameraji\">Mostafameraji</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Zero, Public Domain Dedication",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "false",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N19.mp4",
+  "sha256": "a88628b1594b31b7c7481edc154f248671c166738fd2c5efa306d6c4fa97ed82",
+  "status": "ready"
+}

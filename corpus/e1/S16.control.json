@@ -1,0 +1,18 @@
+{
+  "acquisition": "self-created",
+  "asset_id": "S16",
+  "audio_note": "self-created synthetic waveform or silence",
+  "category": "minimal_information",
+  "duration_s": 48,
+  "identity_group": "self-created:S16",
+  "license": "CC0-1.0",
+  "original_has_audio": false,
+  "partition": "evaluation",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\S16.mp4",
+  "provenance": "tools/e1_controls.py; self-created diagrams, template, tones; Windows offline TTS for S11/N11",
+  "role": "source",
+  "sha256": "299149110320ad0b2790f81723553b29e353c8ac5e77c003c5035b2e0e441a8c",
+  "status": "ready",
+  "transcript": null,
+  "voice": null
+}

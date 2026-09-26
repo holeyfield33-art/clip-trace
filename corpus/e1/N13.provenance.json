@@ -1,0 +1,114 @@
+{
+  "asset_id": "N13",
+  "partition": "evaluation",
+  "category": "talking_head",
+  "role": "negative",
+  "identity_group": "commons:149284744",
+  "acquisition": "Commons transcode/excerpt",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal,_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm",
+  "source_title": "File:Excerpt of interview to Circe Esmeralda Rosales Portugal, Professor at the Polytechnic University of Gom\u00e9z Palacio.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal%2C_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm/Excerpt_of_interview_to_Circe_Esmeralda_Rosales_Portugal%2C_Professor_at_the_Polytechnic_University_of_Gom%C3%A9z_Palacio.webm.480p.vp9.webm",
+  "download_sha256": "c6b3f7fde9c32c22501634682cd4635a83dbc43604859bffa8595190eb7cc967",
+  "download_note": "First 50 seconds acquired with FFmpeg stream copy; cached full downloads from initial pass also retained.",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Owoimsad&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Owoimsad (page does not exist)\">Owoimsad</a>",
+  "license_metadata": {
+    "DateTime": {
+      "value": "2024-06-11 21:22:29",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Excerpt of interview to Circe Esmeralda Rosales Portugal, Professor at the Polytechnic University of Gom\u00e9z Palacio",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Educators from Mexico|Women of Mexico by occupation|Self-published work|Women at work in Mexico|Files with coordinates missing SDC location of creation|Women of Mexico by location|Women of Coahuila",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "25.637772",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "-103.530969",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Circe Esmeralda Rosales Portugal is a prominent animator specialized in illustration and animation in 2D format. She works as a professor of the Animation and Visual Effects Engineering program at the Polytechnic University of G\u00f3mez Palacio, G\u00f3mez Palacio, Durango. Likewise, Circe works as a freelancer or independent animator and has participated in commercial and government projects. Her career has been shaped by an early passion for cartoons and an education focused on animation and screenwriting. Circe has focused on impacting her community by contributing to the training of new generations of animators in Mexico. This is an excerpt from the interview conducted on May 24, 2024, at Building B in the Polytechnic University of G\u00f3mez Palacio campus.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2024-06-10",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Owoimsad&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Owoimsad (page does not exist)\">Owoimsad</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  },
+  "acquisition_width": 854,
+  "acquisition_height": 480,
+  "original_excerpt_start_s": 0.0,
+  "duration_s": 48,
+  "original_has_audio": true,
+  "audio_note": "preserved",
+  "normalization": "fps=12,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1",
+  "path": "C:\\Users\\SuperAdmin\\.vscode\\cliptrace-e1\\cliptrace-e1\\corpus\\e1\\N13.mp4",
+  "sha256": "77a2add9a33e4183e40a8d0e586404b9015b7d3ea35fc2880613486afd27a96c",
+  "status": "ready"
+}
