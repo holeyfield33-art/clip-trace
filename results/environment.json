@@ -1,0 +1,15 @@
+{
+  "cpu": "x86_64",
+  "experiment_config_sha256": "dfa1e93c15ac4ebe1fa1caf4deaba1bb892eac56f0535916d4b1544d11dab7bf",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "git_commit": "unknown",
+  "gpu": "none",
+  "os": "Linux-6.12.8+-x86_64-with-glibc2.39",
+  "packages": {
+    "Pillow": "12.2.0",
+    "numpy": "2.4.4"
+  },
+  "python": "3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]",
+  "ram_bytes": 1285476352,
+  "recorded_at": "2026-09-26T03:52:20Z"
+}

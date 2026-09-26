@@ -1,0 +1,30 @@
+# Thresholds are calibrated on a held-out tuning split.
+# Do NOT tune on the final evaluation set and then report those numbers as unbiased.
+
+version: "1"
+notes: "Populate after calibration. Values below are placeholders only."
+
+visual:
+  frame_phash:
+    supported_max_distance: 12      # Hamming; lower = stricter
+    insufficient_max_distance: 20
+  temporal_phash:
+    supported_min_score: 0.65
+    insufficient_min_score: 0.40
+
+audio:
+  chromaprint_basic:
+    supported_min_score: 0.70
+    insufficient_min_score: 0.45
+
+alignment:
+  min_iou_supported: 0.60
+  max_start_error_s: 1.0
+  max_end_error_s: 1.0
+
+ambiguity:
+  min_margin_for_single_parent: 0.08
+
+fusion:
+  visual_and_audio:
+    require_both_supported: true

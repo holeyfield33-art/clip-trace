@@ -1,0 +1,47 @@
+experiment_id: e1-v1
+description: "CLIPTRACE-E1 baseline experiment configuration"
+
+# Smoke mode uses tiny subsets; full mode uses the complete matrices.
+smoke:
+  max_sources: 1
+  max_negatives: 1
+  max_candidates_per_source: 4
+  clip_lengths_s: [3, 5]
+
+full:
+  target_candidate_count: 1500
+  clip_lengths_s: [1, 2, 3, 5, 10, 15, 30]
+
+retrieval:
+  k_values: [1, 5, 10, 20]
+  default_k: 10
+
+modalities:
+  visual: true
+  audio: true
+  transcript: false   # exploratory; off by default
+
+matchers:
+  visual:
+    - frame_phash
+    - temporal_phash
+  audio:
+    - chromaprint_basic
+  alignment:
+    - landmark_dtw
+
+fusion_modes:
+  - visual_only
+  - audio_only
+  - visual_or_audio
+  - visual_and_audio
+  - calibrated
+
+output:
+  results_dir: results
+  keep_artifacts: true
+  content_address_artifacts: true
+
+reproducibility:
+  repeat_runs: 2
+  cross_machine: false   # enable when second runtime available

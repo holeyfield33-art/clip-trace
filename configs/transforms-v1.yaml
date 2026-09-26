@@ -1,0 +1,53 @@
+# Structured fractional transformation matrix for CLIPTRACE-E1.
+# Not a full Cartesian product.
+
+version: "1"
+
+clip_lengths_s: [1, 2, 3, 5, 10, 15, 30]
+
+families:
+  transcoding:
+    - { id: h264_crf18,  codec: libx264, crf: 18,  preset: medium }
+    - { id: h264_crf28,  codec: libx264, crf: 28,  preset: medium }
+    - { id: h264_crf35,  codec: libx264, crf: 35,  preset: medium }
+    - { id: scale_720,   scale: "1280:720" }
+    - { id: scale_480,   scale: "854:480" }
+    - { id: scale_360,   scale: "640:360" }
+
+  geometry:
+    - { id: crop_10,     crop_pct: 10 }
+    - { id: crop_25,     crop_pct: 25 }
+    - { id: crop_40,     crop_pct: 40 }
+    - { id: mirror_h,    hflip: true }
+    - { id: rotate_15,   rotate_deg: 15 }
+    - { id: rotate_90,   rotate_deg: 90 }
+
+  temporal:
+    - { id: speed_075,   speed: 0.75 }
+    - { id: speed_125,   speed: 1.25 }
+    - { id: reorder_2,   reorder_blocks: 2 }
+    - { id: discontinuous_2, fragments: 2 }
+
+  overlay:
+    - { id: subtitles,   overlay: subtitles }
+    - { id: logo_corner, overlay: logo }
+    - { id: text_center, overlay: large_text }
+
+  audio:
+    - { id: audio_replace,   audio: replace }
+    - { id: audio_shift_05,  audio_shift_s: 0.5 }
+    - { id: pitch_p2,        pitch_semitones: 2 }
+    - { id: music_bg_12,     bg_music_db: -12 }
+
+  capture:
+    - { id: screen_like,     note: "re-encode as screen-capture style" }
+
+  ai_light:
+    - { id: none_placeholder, note: "open upscale/interp added only if deps present" }
+
+# Smoke matrix: tiny deterministic subset
+smoke_transforms:
+  - [h264_crf28]
+  - [crop_25, h264_crf28]
+  - [mirror_h, h264_crf28]
+  - [audio_replace, h264_crf28]
